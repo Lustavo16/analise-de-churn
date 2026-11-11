@@ -49,13 +49,29 @@ O Streamlit exibirá o endereço local da aplicação no terminal.
 ## Dados
 
 O app carrega `03_streaming.csv`, que deve estar na raiz do projeto e conter a
-coluna `frequencia_uso_mes`. O CSV incluído neste repositório contém dados
-sintéticos para demonstração; não substitua por dados pessoais antes de
-compartilhar publicamente.
+coluna `frequencia_uso_mes`, e usa `tabela_normal_Z.xlsx` para consultar a
+probabilidade teórica, arredondando o escore Z para duas casas decimais. Os
+arquivos incluídos contêm dados sintéticos e uma tabela Z para demonstração;
+não substitua o CSV por dados pessoais antes de compartilhar publicamente.
+
+A coluna `status_assinatura` também contém rótulos simulados, atribuídos para
+aproximar as taxas solicitadas. Como a base não tem registros com 0–2 acessos e
+tem apenas três registros com 3–8 acessos, não foi possível atingir as metas
+nessas duas faixas: a faixa 3–8 ficou com 1 cancelamento (33,3%). As faixas
+9–13 e 14+ ficaram com 8,3% e 1,5% de cancelamentos, respectivamente. Esses
+rótulos são demonstrativos, não históricos de cancelamentos observados.
 
 ## Estrutura
 
-- `app.py`: interface e cálculos estatísticos
+- `app.py`: interface Streamlit
+- `calculos.py`: cálculos estatísticos sem SciPy, usando a biblioteca padrão do Python
 - `03_streaming.csv`: conjunto de dados de demonstração
+- `tabela_normal_Z.xlsx`: valores acumulados da tabela Z
 - `requirements.txt`: dependências Python
 - `.streamlit/config.toml`: configuração visual do Streamlit
+
+## Testes dos cálculos
+
+```powershell
+python -m unittest discover -s tests
+```

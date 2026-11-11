@@ -1,8 +1,9 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-import scipy.stats as stats
 import streamlit as st
+
+from calculos import calcular_risco, densidade_normal
 
 st.set_page_config(
     page_title='Análise de Churn | Streaming',
@@ -150,15 +151,26 @@ st.markdown(
 
 
 @st.cache_data
-def load_data():
+def carregar_dados():
     return pd.read_csv('03_streaming.csv')
 
 
-df = load_data()
-freq = df['frequencia_uso_mes']
+@st.cache_data
+def carregar_tabela_z():
+    tabela = pd.read_excel('tabela_normal_Z.xlsx', dtype=str)
 
-mu = freq.mean()
-sigma = freq.std()
+    return {
+        str(linha.iloc[0]): {
+            round(float(coluna), 2): float(valor)
+            for coluna, valor in zip(tabela.columns[1:], linha.iloc[1:])
+        }
+        for _, linha in tabela.iterrows()
+    }
+
+
+dados = carregar_dados()
+frequencias = dados['frequencia_uso_mes']
+tabela_z = carregar_tabela_z()
 
 st.sidebar.markdown(
     """
@@ -171,11 +183,11 @@ st.sidebar.markdown(
     unsafe_allow_html=True,
 )
 st.sidebar.markdown('**Limiar de alerta**')
-x_limite = st.sidebar.slider(
+limiar_alerta = st.sidebar.slider(
     'Acessos por mês',
-    int(freq.min()),
-    int(freq.max()),
-    max(int(freq.min()), min(12, int(freq.max()))),
+    int(frequencias.min()),
+    int(frequencias.max()),
+    max(int(frequencias.min()), min(12, int(frequencias.max()))),
     label_visibility='collapsed',
 )
 st.sidebar.caption(
@@ -183,12 +195,15 @@ st.sidebar.caption(
     'na zona de risco.'
 )
 st.sidebar.markdown('---')
-st.sidebar.caption(f'Base analisada · {len(freq):,} registros'.replace(',', '.'))
+st.sidebar.caption(
+    f'Base analisada · {len(frequencias):,} registros'.replace(',', '.')
+)
 
-z_score = (x_limite - mu) / sigma
-prob_cancelamento = stats.norm.cdf(z_score)
-usuarios_risco = len(freq[freq <= x_limite])
-perc_real = (usuarios_risco / len(freq)) * 100
+try:
+    analise = calcular_risco(frequencias, limiar_alerta, tabela_z)
+except ValueError as erro:
+    st.error(f'Não foi possível calcular os indicadores: {erro}')
+    st.stop()
 
 st.markdown(
     f"""
@@ -205,20 +220,20 @@ st.markdown(
 )
 
 st.markdown('<div class="section-heading">Resumo da análise</div>', unsafe_allow_html=True)
-metric_columns = st.columns(4)
-metrics = (
-    ('Média de acessos', f'{mu:.2f}', False),
-    ('Desvio padrão', f'{sigma:.2f}', False),
-    ('Risco teórico', f'{prob_cancelamento * 100:.1f}%', True),
-    ('Risco observado', f'{perc_real:.1f}%', True),
+colunas_metricas = st.columns(4)
+metricas = (
+    ('Média de acessos', f'{analise.media:.2f}', False),
+    ('Desvio padrão', f'{analise.desvio_padrao:.2f}', False),
+    ('Risco teórico', f'{analise.probabilidade_teorica * 100:.1f}%', True),
+    ('Risco observado', f'{analise.percentual_risco_observado:.1f}%', True),
 )
-for column, (label, value, is_accent) in zip(metric_columns, metrics):
-    accent_class = ' metric-card--accent' if is_accent else ''
-    column.markdown(
+for coluna, (rotulo, valor, destacar) in zip(colunas_metricas, metricas):
+    classe_destaque = ' metric-card--accent' if destacar else ''
+    coluna.markdown(
         f"""
-        <div class="metric-card{accent_class}">
-            <div class="metric-label">{label}</div>
-            <div class="metric-value">{value}</div>
+        <div class="metric-card{classe_destaque}">
+            <div class="metric-label">{rotulo}</div>
+            <div class="metric-value">{valor}</div>
         </div>
         """,
         unsafe_allow_html=True,
@@ -229,59 +244,81 @@ st.markdown('<div style="height:1.6rem"></div>', unsafe_allow_html=True)
 with st.container(key='chart_card'):
     st.markdown('<div class="section-heading">Distribuição de uso mensal</div>', unsafe_allow_html=True)
 
-    x_min = min(mu - 3 * sigma, x_limite)
-    x_max = max(mu + 3 * sigma, x_limite)
-    x_axis = np.linspace(x_min, x_max, 1000)
-    fig, ax = plt.subplots(figsize=(11, 4.8))
-    fig.patch.set_facecolor('white')
-    ax.set_facecolor('white')
+    minimo_x = min(
+        analise.media - 3 * analise.desvio_padrao,
+        limiar_alerta,
+    )
+    maximo_x = max(
+        analise.media + 3 * analise.desvio_padrao,
+        limiar_alerta,
+    )
+    eixo_x = np.linspace(minimo_x, maximo_x, 1000)
+    figura, eixo = plt.subplots(figsize=(11, 4.8))
+    figura.patch.set_facecolor('white')
+    eixo.set_facecolor('white')
 
-    ax.plot(
-        x_axis,
-        stats.norm.pdf(x_axis, mu, sigma),
+    eixo.plot(
+        eixo_x,
+        np.fromiter(
+            (
+                densidade_normal(valor, analise.media, analise.desvio_padrao)
+                for valor in eixo_x
+            ),
+            dtype=float,
+            count=eixo_x.size,
+        ),
         label='Distribuição normal',
         color='#635bdb',
         linewidth=2.8,
         zorder=3,
     )
-    x_fill = np.linspace(x_min, x_limite, 500)
-    ax.fill_between(
-        x_fill,
-        stats.norm.pdf(x_fill, mu, sigma),
+    eixo_risco_x = np.linspace(minimo_x, limiar_alerta, 500)
+    eixo.fill_between(
+        eixo_risco_x,
+        np.fromiter(
+            (
+                densidade_normal(valor, analise.media, analise.desvio_padrao)
+                for valor in eixo_risco_x
+            ),
+            dtype=float,
+            count=eixo_risco_x.size,
+        ),
         color='#ef7188',
         alpha=0.24,
-        label=f'Zona de risco (≤ {x_limite} acessos)',
+        label=f'Zona de risco (≤ {limiar_alerta} acessos)',
     )
-    ax.axvline(
-        x_limite,
+    eixo.axvline(
+        limiar_alerta,
         color='#dc536e',
         linestyle='--',
         linewidth=2,
-        label=f'Limiar de alerta: {x_limite}',
+        label=f'Limiar de alerta: {limiar_alerta}',
     )
-    ax.axvline(
-        mu,
+    eixo.axvline(
+        analise.media,
         color='#26334e',
         linestyle=':',
         linewidth=1.8,
-        label=f'Média: {mu:.1f}',
+        label=f'Média: {analise.media:.1f}',
     )
 
-    ax.set_xlabel('Frequência de uso no mês', color='#71809b', labelpad=12)
-    ax.set_ylabel('Densidade', color='#71809b', labelpad=10)
-    ax.spines[['top', 'right', 'left']].set_visible(False)
-    ax.spines['bottom'].set_color('#e8ebf3')
-    ax.tick_params(colors='#71809b', length=0, pad=8)
-    ax.grid(axis='y', color='#e8ebf3', linewidth=0.8)
-    ax.set_axisbelow(True)
-    ax.legend(frameon=False, loc='upper right', fontsize=9, labelcolor='#53617a')
-    fig.tight_layout()
-    st.pyplot(fig, use_container_width=True)
-    plt.close(fig)
+    eixo.set_xlabel('Frequência de uso no mês', color='#71809b', labelpad=12)
+    eixo.set_ylabel('Densidade', color='#71809b', labelpad=10)
+    eixo.spines[['top', 'right', 'left']].set_visible(False)
+    eixo.spines['bottom'].set_color('#e8ebf3')
+    eixo.tick_params(colors='#71809b', length=0, pad=8)
+    eixo.grid(axis='y', color='#e8ebf3', linewidth=0.8)
+    eixo.set_axisbelow(True)
+    eixo.legend(frameon=False, loc='upper right', fontsize=9, labelcolor='#53617a')
+    figura.tight_layout()
+    st.pyplot(figura, use_container_width=True)
+    plt.close(figura)
 
 st.markdown('<div style="height:.8rem"></div>', unsafe_allow_html=True)
 st.info(
-    f'**Como interpretar:** no limite de **{x_limite} acessos**, o escore Z é '
-    f'**{z_score:.2f}**. O modelo normal estima **{prob_cancelamento * 100:.2f}%** '
-    f'dos usuários nessa faixa; na base observada, são **{perc_real:.2f}%**.'
+    f'**Como interpretar:** no limite de **{limiar_alerta} acessos**, '
+    f'o escore Z é **{analise.escore_z:.2f}**. O modelo normal estima '
+    f'**{analise.probabilidade_teorica * 100:.2f}%** dos usuários nessa faixa; '
+    f'na base observada, são '
+    f'**{analise.percentual_risco_observado:.2f}%**.'
 )
