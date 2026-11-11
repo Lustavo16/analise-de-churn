@@ -1,0 +1,1201 @@
+﻿id,idade,genero,regiao,escolaridade,estado_civil,renda_mensal,classe_social,frequencia_uso_mes,gasto_mensal,canal_preferido,tempo_cliente_meses,programa_fidelidade,satisf_qualidade,satisf_preco,confianca_marca,influencia_redes_sociais,intencao_compra_futura,nps_recomendacao,genero_favorito
+1,35,Feminino,Nova Petrópolis,Médio,Casado(a),2210.00,D,19,201.45,Tablet,66,Não,4,5,5,4,5,7,Comédia
+2,22,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),4690.00,C,15,199.88,Tablet,6,Não,5,2,5,3,4,9,Comédia
+3,22,Masculino,Demarchi,Superior completo,Solteiro(a),2790.00,D,23,180.91,Notebook,44,Não,4,3,5,4,4,7,Comédia
+4,27,Feminino,Demarchi,Médio,Casado(a),2930.00,D,21,171.94,Tablet,16,Sim,4,2,4,3,3,6,Documentário
+5,33,Feminino,Taboão,Pós-graduação,Solteiro(a),2440.00,D,17,166.89,Tablet,5,Sim,5,2,5,3,4,8,Ação
+6,26,Feminino,Jardim do Mar,Superior completo,Divorciado(a),2070.00,D,16,195.26,Celular,1,Sim,5,4,5,3,4,7,Documentário
+7,32,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),1460.00,D,20,134.21,Tablet,7,Sim,4,3,5,3,4,7,Documentário
+8,58,Feminino,Rudge Ramos,Superior incompleto,Casado(a),3510.00,C,20,176.15,Celular,33,Não,4,5,4,2,4,5,Documentário
+9,18,Masculino,Taboão,Superior incompleto,Casado(a),1900.00,D,15,137.60,Tablet,62,Sim,3,2,3,4,4,8,Drama
+10,50,Masculino,Jardim do Mar,Superior completo,Solteiro(a),8740.00,B,16,195.08,Smart TV,64,Sim,4,3,4,3,4,7,Documentário
+11,45,Masculino,Demarchi,Fundamental,Solteiro(a),1800.00,D,23,133.84,Celular,57,Sim,3,5,3,2,4,4,Drama
+12,29,Feminino,Demarchi,Superior completo,Casado(a),5240.00,C,25,195.53,Smart TV,47,Sim,5,2,4,3,4,5,Ação
+13,33,Feminino,Paulicéia,Superior completo,Solteiro(a),5090.00,C,14,196.20,Tablet,44,Sim,5,3,4,2,4,7,Ação
+14,37,Masculino,Jardim do Mar,Fundamental,Solteiro(a),1930.00,D,9,155.43,Notebook,2,Não,5,1,4,1,4,7,Comédia
+15,32,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),2450.00,D,21,145.73,Smart TV,60,Sim,4,2,3,2,3,2,Documentário
+16,34,Masculino,Bairro Assunção,Superior incompleto,Casado(a),2550.00,D,24,199.68,Notebook,2,Não,5,4,5,4,5,10,Documentário
+17,40,Feminino,Taboão,Superior incompleto,Divorciado(a),4620.00,C,27,199.40,Smart TV,57,Sim,4,4,3,3,4,2,Drama
+18,52,Feminino,Centro,Médio,Divorciado(a),7220.00,B,18,204.49,Tablet,52,Sim,4,4,4,3,3,5,Documentário
+19,52,Masculino,Rudge Ramos,Pós-graduação,Solteiro(a),2120.00,D,16,174.19,Smart TV,20,Sim,5,2,3,2,4,6,Infantil
+20,35,Feminino,Ferrazópolis,Fundamental,Casado(a),2150.00,D,14,152.44,Notebook,7,Sim,3,3,3,5,3,4,Documentário
+21,33,Feminino,Nova Petrópolis,Pós-graduação,Viúvo(a),2610.00,D,21,163.14,Notebook,64,Não,4,2,4,3,4,8,Drama
+22,58,Masculino,Demarchi,Superior incompleto,Casado(a),2530.00,D,21,147.35,Smart TV,16,Não,4,3,3,2,4,6,Ação
+23,58,Masculino,Baeta Neves,Médio,União estável,5700.00,C,12,180.13,Smart TV,39,Sim,5,4,4,1,4,7,Ação
+24,54,Feminino,Paulicéia,Superior completo,Casado(a),2340.00,D,19,177.72,Tablet,51,Não,4,3,4,4,2,4,Ação
+25,54,Masculino,Rudge Ramos,Superior completo,Solteiro(a),1600.00,D,22,140.34,Smart TV,34,Não,4,3,3,1,2,4,Ação
+26,30,Feminino,Ferrazópolis,Médio,Casado(a),2590.00,D,24,162.81,Tablet,18,Não,4,3,3,2,4,6,Documentário
+27,53,Masculino,Paulicéia,Pós-graduação,União estável,4410.00,C,15,157.71,Smart TV,36,Sim,4,3,4,2,3,3,Documentário
+28,35,Masculino,Demarchi,Fundamental,Solteiro(a),1770.00,D,23,175.12,Tablet,36,Sim,4,3,4,3,4,8,Documentário
+29,46,Masculino,Nova Petrópolis,Fundamental,Solteiro(a),1640.00,D,27,198.51,Notebook,32,Sim,5,1,5,3,4,9,Drama
+30,47,Feminino,Jardim do Mar,Pós-graduação,Solteiro(a),3900.00,C,21,148.08,Tablet,29,Sim,2,4,2,3,2,2,Drama
+31,60,Feminino,Rudge Ramos,Superior completo,Solteiro(a),1850.00,D,10,192.44,Celular,4,Não,5,2,4,2,4,7,Comédia
+32,66,Masculino,Nova Petrópolis,Superior incompleto,Solteiro(a),3720.00,C,16,147.76,Tablet,25,Sim,4,3,3,1,3,4,Ação
+33,40,Feminino,Demarchi,Médio,Casado(a),2100.00,D,22,171.78,Celular,27,Sim,4,3,4,5,4,5,Infantil
+34,23,Feminino,Bairro Assunção,Superior completo,Casado(a),5450.00,C,16,171.92,Celular,19,Não,3,2,4,4,4,6,Documentário
+35,18,Masculino,Ferrazópolis,Superior completo,Solteiro(a),3310.00,C,22,178.72,Tablet,8,Não,4,5,3,5,4,7,Infantil
+36,37,Masculino,Taboão,Fundamental,Divorciado(a),2010.00,D,19,160.38,Tablet,30,Não,4,5,4,2,5,8,Documentário
+37,40,Outro,Demarchi,Superior incompleto,Viúvo(a),2500.00,D,21,164.85,Smart TV,67,Sim,4,2,5,3,3,8,Comédia
+38,49,Feminino,Nova Petrópolis,Superior completo,Casado(a),1360.00,D,16,202.16,Notebook,14,Sim,5,3,5,4,4,8,Drama
+39,36,Feminino,Ferrazópolis,Superior incompleto,Viúvo(a),2580.00,D,16,187.32,Tablet,51,Sim,5,4,4,1,4,6,Comédia
+40,35,Feminino,Demarchi,Superior completo,Casado(a),2800.00,D,22,199.12,Celular,69,Não,5,1,4,4,4,7,Ação
+41,56,Masculino,Taboão,Pós-graduação,Solteiro(a),3850.00,C,17,145.65,Notebook,70,Sim,4,3,3,2,3,4,Comédia
+42,33,Masculino,Ferrazópolis,Fundamental,Solteiro(a),1950.00,D,25,211.32,Celular,23,Não,5,3,4,4,4,5,Comédia
+43,20,Feminino,Centro,Superior incompleto,Casado(a),4870.00,C,18,213.39,Tablet,10,Não,5,4,5,5,4,9,Infantil
+44,40,Feminino,Bairro Assunção,Superior incompleto,União estável,2460.00,D,21,168.48,Notebook,53,Não,4,3,2,3,4,6,Ação
+45,50,Masculino,Nova Petrópolis,Médio,Solteiro(a),1750.00,D,21,171.86,Tablet,22,Não,5,3,5,1,5,10,Ação
+46,28,Feminino,Nova Petrópolis,Fundamental,Casado(a),1300.00,D,15,139.41,Smart TV,22,Não,3,2,5,3,3,5,Documentário
+47,18,Feminino,Taboão,Pós-graduação,Divorciado(a),2640.00,D,23,170.87,Smart TV,53,Não,4,4,5,4,4,8,Comédia
+48,49,Masculino,Centro,Fundamental,Viúvo(a),1410.00,D,17,162.04,Notebook,19,Sim,4,2,5,5,4,6,Ação
+49,28,Masculino,Paulicéia,Superior incompleto,União estável,1470.00,D,10,142.64,Smart TV,38,Sim,3,4,3,4,4,5,Comédia
+50,64,Masculino,Bairro Assunção,Superior completo,Solteiro(a),2990.00,D,19,212.36,Celular,35,Não,5,3,5,4,4,10,Ação
+51,35,Masculino,Demarchi,Superior incompleto,Solteiro(a),4540.00,C,13,160.76,Tablet,61,Sim,4,1,4,1,3,3,Drama
+52,66,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),5290.00,C,19,199.72,Celular,53,Não,5,3,5,2,5,9,Infantil
+53,22,Feminino,Centro,Fundamental,Solteiro(a),1300.00,D,21,186.56,Smart TV,27,Sim,5,4,5,5,4,9,Drama
+54,42,Masculino,Centro,Superior incompleto,União estável,2840.00,D,21,184.71,Celular,1,Sim,4,2,4,4,4,5,Infantil
+55,39,Masculino,Nova Petrópolis,Pós-graduação,Casado(a),4250.00,C,21,171.54,Smart TV,18,Sim,4,2,4,1,3,5,Infantil
+56,33,Masculino,Taboão,Superior incompleto,União estável,3510.00,C,23,167.27,Tablet,13,Não,4,3,5,2,4,8,Infantil
+57,37,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),7170.00,B,25,163.33,Notebook,57,Não,3,3,2,3,2,1,Documentário
+58,38,Masculino,Taboão,Superior incompleto,Casado(a),1630.00,D,26,159.76,Tablet,56,Não,4,3,4,2,4,7,Drama
+59,21,Masculino,Jardim do Mar,Médio,Solteiro(a),1530.00,D,21,180.17,Celular,3,Não,4,3,3,5,3,4,Ação
+60,30,Feminino,Rudge Ramos,Superior incompleto,Casado(a),1980.00,D,21,165.39,Tablet,26,Não,4,1,4,3,4,8,Comédia
+61,32,Masculino,Taboão,Médio,Divorciado(a),2810.00,D,15,171.36,Tablet,11,Sim,5,5,5,2,5,10,Infantil
+62,49,Feminino,Ferrazópolis,Médio,Casado(a),1300.00,D,18,194.84,Notebook,62,Não,5,3,4,4,4,6,Ação
+63,33,Feminino,Demarchi,Superior incompleto,Divorciado(a),2430.00,D,21,178.03,Celular,52,Sim,4,3,3,4,3,1,Documentário
+64,25,Feminino,Baeta Neves,Médio,Divorciado(a),1300.00,D,21,166.83,Tablet,10,Não,4,5,3,3,3,5,Comédia
+65,54,Masculino,Jardim do Mar,Fundamental,Solteiro(a),2310.00,D,22,183.22,Tablet,50,Não,5,4,5,2,5,10,Infantil
+66,34,Feminino,Rudge Ramos,Médio,Solteiro(a),6100.00,B,18,149.00,Smart TV,59,Não,2,4,3,2,3,5,Ação
+67,19,Masculino,Centro,Fundamental,Casado(a),3010.00,C,20,186.54,Tablet,5,Não,4,5,4,5,4,7,Drama
+68,27,Feminino,Centro,Pós-graduação,Casado(a),1930.00,D,18,164.32,Notebook,45,Não,3,4,3,4,2,3,Infantil
+69,47,Feminino,Taboão,Pós-graduação,Solteiro(a),3000.00,C,19,182.67,Celular,38,Sim,5,4,5,1,5,8,Drama
+70,28,Feminino,Ferrazópolis,Médio,Solteiro(a),1570.00,D,28,177.02,Celular,13,Sim,5,4,5,3,3,5,Infantil
+71,67,Masculino,Demarchi,Pós-graduação,União estável,7030.00,B,17,204.21,Smart TV,67,Não,4,3,4,3,4,7,Comédia
+72,53,Feminino,Centro,Médio,Divorciado(a),1300.00,D,21,149.93,Smart TV,1,Não,4,4,4,2,4,6,Drama
+73,33,Masculino,Rudge Ramos,Médio,Solteiro(a),1960.00,D,19,127.93,Smart TV,36,Não,3,4,3,2,4,7,Documentário
+74,70,Masculino,Taboão,Superior incompleto,Casado(a),2290.00,D,16,194.20,Notebook,64,Sim,5,1,5,2,4,6,Comédia
+75,55,Masculino,Taboão,Pós-graduação,Solteiro(a),2210.00,D,17,102.27,Celular,23,Não,2,4,2,3,2,2,Infantil
+76,53,Masculino,Paulicéia,Superior completo,Solteiro(a),6950.00,B,30,194.18,Smart TV,21,Sim,4,3,4,5,4,7,Documentário
+77,21,Masculino,Taboão,Superior completo,Solteiro(a),1430.00,D,28,170.95,Smart TV,53,Não,4,3,4,4,4,6,Infantil
+78,30,Masculino,Paulicéia,Superior completo,Solteiro(a),1760.00,D,17,149.68,Tablet,18,Não,3,1,5,4,3,4,Documentário
+79,50,Feminino,Paulicéia,Pós-graduação,Viúvo(a),7530.00,B,16,207.09,Celular,37,Sim,4,3,3,3,3,5,Infantil
+80,39,Feminino,Taboão,Superior completo,Solteiro(a),2980.00,D,21,125.62,Tablet,14,Não,2,2,2,3,3,2,Drama
+81,63,Masculino,Baeta Neves,Superior incompleto,Casado(a),2810.00,D,26,162.85,Celular,5,Não,5,3,5,2,4,8,Drama
+82,51,Masculino,Rudge Ramos,Médio,Divorciado(a),1940.00,D,14,157.99,Celular,26,Sim,4,2,5,4,4,8,Infantil
+83,22,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),2580.00,D,16,183.36,Celular,11,Sim,5,1,5,4,4,9,Drama
+84,63,Masculino,Ferrazópolis,Fundamental,Casado(a),1970.00,D,22,128.70,Smart TV,38,Sim,4,2,4,1,3,8,Comédia
+85,67,Masculino,Rudge Ramos,Superior completo,Solteiro(a),2500.00,D,20,182.96,Smart TV,36,Não,5,2,5,2,4,9,Infantil
+86,55,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),1990.00,D,15,169.07,Tablet,35,Sim,4,4,2,3,4,4,Comédia
+87,58,Feminino,Taboão,Fundamental,Solteiro(a),2390.00,D,26,198.99,Celular,70,Não,5,3,5,2,4,7,Ação
+88,25,Feminino,Demarchi,Pós-graduação,Divorciado(a),2540.00,D,26,216.70,Tablet,62,Não,5,2,4,5,4,7,Ação
+89,57,Masculino,Baeta Neves,Superior completo,Casado(a),2710.00,D,17,161.56,Celular,32,Sim,4,3,5,3,4,7,Documentário
+90,50,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),4940.00,C,20,227.63,Tablet,15,Sim,5,5,5,4,5,9,Comédia
+91,24,Feminino,Bairro Assunção,Superior completo,Casado(a),2340.00,D,18,195.52,Smart TV,15,Sim,5,4,5,4,4,9,Comédia
+92,28,Feminino,Rudge Ramos,Pós-graduação,Divorciado(a),3200.00,C,15,146.93,Notebook,54,Não,3,1,3,3,2,3,Drama
+93,47,Masculino,Jardim do Mar,Superior completo,Casado(a),6830.00,B,19,186.03,Smart TV,61,Não,4,5,4,3,4,8,Comédia
+94,37,Masculino,Paulicéia,Médio,União estável,2890.00,D,23,137.90,Tablet,66,Não,3,4,5,2,3,5,Infantil
+95,48,Masculino,Taboão,Superior incompleto,Casado(a),2250.00,D,21,193.95,Celular,67,Sim,5,5,5,4,4,8,Infantil
+96,69,Feminino,Nova Petrópolis,Fundamental,Solteiro(a),1500.00,D,18,144.92,Tablet,3,Não,4,1,4,3,4,5,Ação
+97,51,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),3470.00,C,26,201.46,Notebook,60,Não,5,3,5,2,4,9,Ação
+98,65,Masculino,Rudge Ramos,Superior completo,Casado(a),4930.00,C,19,184.59,Smart TV,55,Não,4,4,3,3,4,5,Drama
+99,19,Feminino,Jardim do Mar,Superior incompleto,Casado(a),1960.00,D,19,205.80,Notebook,12,Não,5,2,4,4,5,6,Infantil
+100,31,Feminino,Taboão,Superior completo,Casado(a),2960.00,D,21,122.81,Tablet,20,Não,2,3,4,4,3,5,Comédia
+101,65,Feminino,Jardim do Mar,Superior completo,Casado(a),2620.00,D,17,183.69,Smart TV,70,Sim,4,5,5,4,5,9,Comédia
+102,56,Masculino,Rudge Ramos,Médio,Solteiro(a),2180.00,D,14,120.75,Tablet,33,Não,3,3,4,3,3,4,Documentário
+103,36,Feminino,Baeta Neves,Superior completo,Viúvo(a),1730.00,D,15,191.88,Celular,51,Não,5,5,5,3,5,8,Drama
+104,35,Feminino,Bairro Assunção,Superior completo,Casado(a),3370.00,C,16,211.33,Notebook,5,Sim,5,4,3,4,4,5,Documentário
+105,57,Feminino,Demarchi,Superior completo,Casado(a),3480.00,C,24,163.92,Smart TV,47,Não,4,1,5,3,4,8,Infantil
+106,18,Masculino,Centro,Pós-graduação,Casado(a),6100.00,B,22,236.00,Celular,22,Não,5,2,3,4,5,5,Ação
+107,22,Masculino,Nova Petrópolis,Médio,Casado(a),2330.00,D,21,186.68,Notebook,56,Sim,4,4,3,3,3,5,Ação
+108,63,Masculino,Demarchi,Fundamental,Viúvo(a),1690.00,D,26,159.74,Tablet,9,Não,4,2,4,3,4,6,Ação
+109,57,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),7050.00,B,20,244.69,Celular,72,Sim,5,5,4,4,4,8,Drama
+110,61,Masculino,Taboão,Médio,Casado(a),3060.00,C,16,110.44,Smart TV,17,Não,3,4,2,1,3,4,Documentário
+111,43,Feminino,Centro,Médio,Casado(a),2630.00,D,24,138.14,Notebook,30,Não,3,3,2,2,2,4,Ação
+112,33,Masculino,Taboão,Médio,Divorciado(a),2310.00,D,15,149.99,Tablet,3,Não,5,2,5,2,4,8,Documentário
+113,38,Masculino,Centro,Superior completo,Casado(a),3220.00,C,25,169.98,Celular,7,Sim,3,4,5,4,4,6,Ação
+114,58,Feminino,Paulicéia,Médio,Solteiro(a),1740.00,D,28,173.58,Smart TV,68,Não,5,5,5,3,5,9,Ação
+115,30,Masculino,Ferrazópolis,Fundamental,Casado(a),1960.00,D,22,109.85,Smart TV,51,Sim,2,2,3,5,2,4,Infantil
+116,19,Feminino,Baeta Neves,Superior completo,Casado(a),2520.00,D,21,196.27,Notebook,65,Sim,5,4,5,3,4,6,Comédia
+117,44,Masculino,Centro,Superior incompleto,Solteiro(a),3200.00,C,26,180.64,Smart TV,61,Não,4,5,5,2,4,7,Drama
+118,46,Masculino,Taboão,Superior completo,Casado(a),5130.00,C,21,194.93,Celular,47,Não,4,4,5,5,5,6,Comédia
+119,40,Feminino,Jardim do Mar,Médio,Casado(a),3680.00,C,21,170.22,Celular,47,Não,4,3,4,2,4,7,Comédia
+120,70,Masculino,Paulicéia,Médio,Solteiro(a),3380.00,C,20,170.92,Smart TV,24,Não,3,3,3,3,3,4,Drama
+121,50,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),1300.00,D,21,166.89,Smart TV,51,Sim,5,1,5,2,3,5,Comédia
+122,59,Masculino,Taboão,Pós-graduação,Casado(a),3030.00,C,17,158.40,Smart TV,68,Sim,4,2,5,3,3,5,Ação
+123,30,Feminino,Taboão,Superior completo,Solteiro(a),1300.00,D,17,148.83,Notebook,17,Não,3,3,2,3,4,4,Documentário
+124,48,Masculino,Bairro Assunção,Superior incompleto,Solteiro(a),4510.00,C,21,200.25,Celular,70,Não,5,4,5,2,5,9,Drama
+125,36,Masculino,Taboão,Fundamental,Casado(a),1970.00,D,18,196.42,Celular,38,Sim,4,2,4,5,3,5,Drama
+126,37,Feminino,Ferrazópolis,Superior incompleto,Solteiro(a),2480.00,D,23,122.83,Celular,58,Não,3,4,2,2,3,3,Ação
+127,23,Masculino,Centro,Fundamental,Solteiro(a),1450.00,D,16,162.73,Smart TV,26,Não,5,4,5,3,4,6,Documentário
+128,56,Masculino,Centro,Superior completo,Viúvo(a),5700.00,C,21,163.49,Smart TV,50,Não,4,3,5,2,4,7,Documentário
+129,42,Masculino,Bairro Assunção,Superior incompleto,Casado(a),2830.00,D,21,188.46,Tablet,41,Sim,5,2,3,1,3,3,Drama
+130,69,Masculino,Demarchi,Pós-graduação,Solteiro(a),3640.00,C,19,181.75,Celular,24,Sim,4,2,4,2,3,5,Drama
+131,49,Masculino,Jardim do Mar,Pós-graduação,Solteiro(a),3750.00,C,26,208.35,Notebook,2,Não,5,4,4,2,5,9,Comédia
+132,28,Masculino,Taboão,Médio,Solteiro(a),2490.00,D,21,214.60,Notebook,64,Sim,5,3,4,5,4,6,Documentário
+133,56,Feminino,Jardim do Mar,Fundamental,Casado(a),2120.00,D,19,156.75,Smart TV,50,Sim,3,4,3,3,3,6,Infantil
+134,20,Masculino,Paulicéia,Superior incompleto,Solteiro(a),4380.00,C,16,170.49,Notebook,36,Não,4,3,3,3,3,4,Documentário
+135,57,Feminino,Rudge Ramos,Fundamental,Solteiro(a),3970.00,C,17,96.49,Celular,40,Sim,2,2,4,2,2,2,Ação
+136,37,Masculino,Paulicéia,Superior completo,União estável,3120.00,C,20,167.82,Celular,46,Sim,4,4,5,5,4,7,Infantil
+137,20,Masculino,Nova Petrópolis,Pós-graduação,Casado(a),2220.00,D,17,147.88,Smart TV,2,Sim,4,1,5,3,4,7,Drama
+138,45,Feminino,Nova Petrópolis,Pós-graduação,Divorciado(a),4040.00,C,22,187.02,Notebook,13,Sim,5,3,4,4,4,10,Infantil
+139,43,Feminino,Demarchi,Superior completo,Casado(a),2350.00,D,18,142.77,Notebook,72,Não,4,2,5,2,4,7,Documentário
+140,30,Masculino,Nova Petrópolis,Superior completo,União estável,5530.00,C,17,166.57,Notebook,2,Não,4,5,5,2,4,5,Documentário
+141,23,Feminino,Ferrazópolis,Médio,Solteiro(a),4510.00,C,19,187.34,Notebook,8,Sim,4,5,1,3,4,4,Comédia
+142,50,Feminino,Jardim do Mar,Pós-graduação,Solteiro(a),4920.00,C,18,200.55,Notebook,72,Sim,4,4,5,5,5,8,Documentário
+143,42,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),1810.00,D,17,173.46,Tablet,57,Sim,4,2,4,2,5,6,Comédia
+144,34,Masculino,Bairro Assunção,Fundamental,Solteiro(a),1670.00,D,24,158.14,Tablet,45,Não,4,5,4,4,4,7,Comédia
+145,47,Feminino,Jardim do Mar,Superior incompleto,Divorciado(a),2530.00,D,15,202.16,Tablet,67,Sim,5,2,3,4,4,6,Documentário
+146,70,Feminino,Centro,Superior incompleto,Casado(a),2080.00,D,24,176.27,Tablet,50,Sim,4,1,5,2,4,7,Infantil
+147,64,Masculino,Taboão,Fundamental,Solteiro(a),2030.00,D,25,186.05,Tablet,7,Não,5,1,5,3,4,7,Drama
+148,32,Masculino,Nova Petrópolis,Médio,Solteiro(a),2560.00,D,17,193.52,Tablet,4,Não,5,3,5,4,5,8,Infantil
+149,37,Masculino,Jardim do Mar,Pós-graduação,Casado(a),4280.00,C,19,187.76,Celular,64,Sim,4,2,3,2,3,4,Drama
+150,60,Feminino,Paulicéia,Superior incompleto,Solteiro(a),5200.00,C,27,176.43,Notebook,31,Sim,4,5,4,2,4,5,Comédia
+151,24,Masculino,Rudge Ramos,Fundamental,Casado(a),1960.00,D,24,191.96,Notebook,26,Não,4,2,4,4,3,7,Ação
+152,69,Feminino,Demarchi,Pós-graduação,União estável,3350.00,C,21,132.32,Celular,21,Não,3,2,3,3,3,7,Comédia
+153,39,Masculino,Bairro Assunção,Médio,Casado(a),1330.00,D,21,181.41,Smart TV,58,Sim,4,4,3,3,3,3,Ação
+154,44,Feminino,Centro,Superior incompleto,Solteiro(a),3190.00,C,8,213.23,Smart TV,61,Não,5,4,4,4,5,7,Documentário
+155,69,Masculino,Ferrazópolis,Fundamental,Casado(a),1940.00,D,17,168.66,Tablet,45,Não,5,5,4,2,4,5,Ação
+156,28,Masculino,Ferrazópolis,Fundamental,Casado(a),1840.00,D,21,161.34,Notebook,35,Não,4,1,4,3,3,6,Comédia
+157,26,Feminino,Taboão,Pós-graduação,Divorciado(a),2510.00,D,14,134.17,Tablet,43,Não,3,1,4,4,3,4,Infantil
+158,65,Feminino,Paulicéia,Superior completo,Solteiro(a),2630.00,D,22,188.36,Notebook,28,Não,5,5,5,3,5,9,Infantil
+159,56,Feminino,Ferrazópolis,Superior completo,Casado(a),4470.00,C,18,192.05,Smart TV,27,Sim,5,1,4,4,5,8,Infantil
+160,39,Feminino,Ferrazópolis,Fundamental,Casado(a),2050.00,D,21,176.44,Notebook,11,Sim,5,2,3,4,4,5,Infantil
+161,23,Feminino,Ferrazópolis,Superior completo,Casado(a),5720.00,C,20,187.77,Tablet,34,Sim,4,3,4,5,4,8,Drama
+162,46,Feminino,Rudge Ramos,Fundamental,Solteiro(a),1310.00,D,16,147.80,Notebook,28,Não,3,1,3,3,2,3,Ação
+163,58,Feminino,Ferrazópolis,Fundamental,Solteiro(a),3990.00,C,18,146.62,Celular,21,Sim,4,4,3,2,4,6,Comédia
+164,20,Feminino,Rudge Ramos,Superior completo,Divorciado(a),2240.00,D,19,182.91,Notebook,27,Sim,4,2,5,3,4,6,Drama
+165,29,Feminino,Demarchi,Superior incompleto,Solteiro(a),2510.00,D,22,188.03,Notebook,51,Sim,4,4,5,4,2,2,Ação
+166,36,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),4210.00,C,18,217.57,Smart TV,57,Sim,5,4,4,3,5,9,Infantil
+167,32,Feminino,Taboão,Médio,Casado(a),3670.00,C,15,201.16,Celular,58,Não,5,4,5,3,5,8,Drama
+168,47,Feminino,Nova Petrópolis,Médio,Solteiro(a),3970.00,C,14,194.11,Tablet,62,Não,4,3,2,3,2,4,Drama
+169,70,Feminino,Centro,Pós-graduação,Casado(a),6180.00,B,16,163.87,Notebook,71,Sim,4,2,4,2,4,6,Ação
+170,54,Feminino,Rudge Ramos,Superior incompleto,Solteiro(a),2590.00,D,13,189.46,Tablet,28,Sim,4,3,5,4,4,7,Ação
+171,45,Feminino,Bairro Assunção,Pós-graduação,Casado(a),7890.00,B,25,239.84,Notebook,65,Não,4,2,3,3,2,3,Documentário
+172,68,Feminino,Taboão,Superior incompleto,Solteiro(a),3970.00,C,22,151.16,Smart TV,30,Não,3,5,3,3,4,5,Documentário
+173,61,Feminino,Paulicéia,Fundamental,Casado(a),1300.00,D,17,183.14,Notebook,60,Sim,5,3,5,3,5,7,Documentário
+174,48,Feminino,Jardim do Mar,Fundamental,Casado(a),2250.00,D,13,176.44,Notebook,71,Sim,5,2,5,3,4,6,Comédia
+175,20,Masculino,Paulicéia,Médio,União estável,1880.00,D,22,157.58,Notebook,57,Não,3,5,5,5,4,6,Drama
+176,32,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),2290.00,D,16,143.47,Tablet,28,Sim,3,3,4,3,3,5,Drama
+177,67,Masculino,Centro,Superior completo,Solteiro(a),4560.00,C,21,162.00,Celular,28,Não,5,5,4,1,4,8,Comédia
+178,47,Masculino,Demarchi,Fundamental,Solteiro(a),2530.00,D,19,151.52,Notebook,46,Não,3,4,4,3,4,6,Infantil
+179,67,Feminino,Demarchi,Médio,Solteiro(a),1990.00,D,23,163.76,Tablet,72,Não,3,3,4,4,3,5,Drama
+180,21,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),6310.00,B,18,194.79,Notebook,10,Não,4,2,2,5,3,4,Infantil
+181,27,Masculino,Demarchi,Médio,União estável,1300.00,D,17,186.21,Smart TV,19,Sim,5,2,3,4,4,5,Drama
+182,25,Masculino,Baeta Neves,Superior completo,Solteiro(a),1570.00,D,28,192.10,Tablet,31,Não,4,5,3,5,3,5,Documentário
+183,23,Feminino,Bairro Assunção,Médio,Solteiro(a),1380.00,D,17,132.63,Smart TV,59,Não,3,2,4,4,3,6,Infantil
+184,36,Masculino,Demarchi,Médio,União estável,2900.00,D,20,194.82,Tablet,18,Não,4,3,4,5,4,7,Ação
+185,70,Feminino,Nova Petrópolis,Superior completo,Casado(a),4090.00,C,22,150.97,Notebook,33,Sim,3,3,4,2,3,5,Drama
+186,19,Feminino,Baeta Neves,Médio,Solteiro(a),1540.00,D,23,175.76,Notebook,18,Não,3,2,4,4,3,4,Comédia
+187,67,Masculino,Taboão,Superior completo,Casado(a),2620.00,D,29,164.68,Tablet,51,Não,4,4,4,2,3,5,Ação
+188,21,Masculino,Baeta Neves,Fundamental,Casado(a),1980.00,D,28,146.47,Celular,17,Não,3,1,3,4,3,3,Comédia
+189,18,Masculino,Jardim do Mar,Superior completo,Divorciado(a),1740.00,D,15,149.41,Smart TV,7,Sim,4,2,4,1,2,3,Ação
+190,18,Masculino,Rudge Ramos,Pós-graduação,Solteiro(a),4540.00,C,20,189.63,Tablet,35,Sim,4,4,5,4,4,7,Documentário
+191,58,Feminino,Ferrazópolis,Pós-graduação,Casado(a),7530.00,B,18,224.76,Notebook,1,Não,4,3,5,4,4,7,Documentário
+192,27,Feminino,Paulicéia,Pós-graduação,Casado(a),3040.00,C,23,207.19,Tablet,22,Sim,4,4,4,5,4,8,Documentário
+193,23,Feminino,Centro,Fundamental,Viúvo(a),2340.00,D,19,141.79,Celular,70,Não,3,3,4,4,3,4,Infantil
+194,61,Feminino,Demarchi,Pós-graduação,Casado(a),3960.00,C,13,163.95,Smart TV,59,Sim,4,2,5,2,3,6,Documentário
+195,51,Masculino,Paulicéia,Superior completo,Solteiro(a),5940.00,C,22,174.30,Smart TV,46,Não,4,5,4,2,4,6,Comédia
+196,36,Feminino,Centro,Superior incompleto,Viúvo(a),6420.00,B,13,202.06,Notebook,33,Sim,5,5,4,3,4,5,Documentário
+197,58,Feminino,Taboão,Pós-graduação,Casado(a),3170.00,C,16,116.39,Smart TV,59,Sim,4,2,3,1,3,5,Documentário
+198,65,Masculino,Nova Petrópolis,Pós-graduação,Casado(a),3880.00,C,13,162.05,Notebook,4,Não,3,4,4,2,3,6,Comédia
+199,46,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),5220.00,C,24,171.28,Smart TV,32,Sim,4,3,3,2,4,5,Infantil
+200,64,Feminino,Bairro Assunção,Superior incompleto,Divorciado(a),3500.00,C,19,161.15,Smart TV,32,Não,4,5,4,2,4,3,Drama
+201,36,Masculino,Rudge Ramos,Superior completo,Casado(a),2010.00,D,22,175.80,Celular,2,Sim,3,4,2,3,3,5,Drama
+202,63,Feminino,Nova Petrópolis,Médio,Viúvo(a),1300.00,D,24,155.62,Tablet,8,Não,4,4,4,3,4,7,Infantil
+203,52,Masculino,Rudge Ramos,Superior completo,Casado(a),2460.00,D,17,149.56,Smart TV,32,Sim,4,2,4,1,3,6,Drama
+204,29,Feminino,Rudge Ramos,Superior incompleto,Solteiro(a),3020.00,C,21,158.83,Tablet,11,Não,3,2,5,4,2,6,Infantil
+205,51,Feminino,Demarchi,Superior completo,Casado(a),2690.00,D,20,149.70,Tablet,72,Não,3,1,5,3,3,6,Comédia
+206,36,Feminino,Ferrazópolis,Superior incompleto,Solteiro(a),1670.00,D,13,160.10,Smart TV,10,Não,4,5,4,4,4,6,Documentário
+207,21,Feminino,Jardim do Mar,Fundamental,Solteiro(a),1530.00,D,21,160.16,Celular,3,Não,3,4,3,4,3,2,Infantil
+208,42,Feminino,Demarchi,Médio,União estável,5550.00,C,20,179.73,Notebook,58,Sim,3,5,3,5,4,6,Infantil
+209,21,Masculino,Demarchi,Médio,Viúvo(a),1350.00,D,18,200.95,Celular,30,Não,5,1,3,5,3,4,Ação
+210,40,Feminino,Demarchi,Médio,Casado(a),2100.00,D,16,156.02,Smart TV,31,Não,4,4,5,3,4,6,Documentário
+211,65,Feminino,Jardim do Mar,Fundamental,Solteiro(a),1880.00,D,23,148.21,Notebook,20,Não,3,1,3,4,2,1,Comédia
+212,22,Feminino,Nova Petrópolis,Médio,Casado(a),5420.00,C,34,228.72,Smart TV,1,Não,5,4,5,3,5,7,Documentário
+213,53,Masculino,Ferrazópolis,Superior incompleto,Casado(a),1480.00,D,17,157.62,Smart TV,52,Não,4,3,4,1,4,5,Documentário
+214,30,Feminino,Paulicéia,Superior incompleto,Casado(a),1840.00,D,13,187.39,Smart TV,37,Não,5,3,4,4,4,8,Documentário
+215,49,Feminino,Rudge Ramos,Superior completo,Casado(a),3280.00,C,16,145.39,Tablet,29,Não,3,3,4,4,4,8,Infantil
+216,50,Masculino,Taboão,Fundamental,Casado(a),2410.00,D,21,186.50,Notebook,15,Não,4,4,5,4,4,6,Comédia
+217,58,Masculino,Baeta Neves,Fundamental,Solteiro(a),3820.00,C,24,189.54,Tablet,10,Sim,4,3,3,4,4,7,Ação
+218,53,Feminino,Baeta Neves,Fundamental,Casado(a),3570.00,C,22,201.44,Tablet,52,Não,4,5,5,5,3,6,Infantil
+219,31,Feminino,Bairro Assunção,Superior completo,Solteiro(a),2160.00,D,20,171.33,Smart TV,5,Não,5,3,5,2,4,9,Documentário
+220,37,Masculino,Baeta Neves,Superior completo,Divorciado(a),3500.00,C,24,176.24,Notebook,68,Sim,4,4,4,3,4,7,Drama
+221,48,Feminino,Demarchi,Superior incompleto,União estável,2600.00,D,17,202.15,Celular,39,Não,5,4,4,3,4,7,Drama
+222,33,Masculino,Taboão,Superior incompleto,Solteiro(a),2160.00,D,21,189.91,Celular,13,Sim,5,3,4,4,4,7,Ação
+223,62,Feminino,Nova Petrópolis,Superior completo,União estável,5300.00,C,16,229.95,Celular,64,Não,5,4,5,3,4,6,Infantil
+224,49,Feminino,Ferrazópolis,Médio,Casado(a),2810.00,D,26,200.42,Smart TV,20,Sim,4,5,3,4,4,4,Ação
+225,54,Masculino,Taboão,Superior completo,Divorciado(a),6660.00,B,30,220.01,Notebook,22,Não,5,5,5,3,5,9,Documentário
+226,53,Feminino,Demarchi,Pós-graduação,União estável,4520.00,C,18,169.76,Smart TV,52,Sim,4,1,4,2,3,5,Documentário
+227,36,Feminino,Rudge Ramos,Médio,Solteiro(a),3610.00,C,19,186.01,Smart TV,9,Sim,4,3,4,4,4,10,Infantil
+228,55,Masculino,Paulicéia,Superior incompleto,Divorciado(a),1300.00,D,15,184.84,Smart TV,46,Não,5,5,5,3,4,8,Documentário
+229,52,Masculino,Demarchi,Médio,Solteiro(a),2640.00,D,24,209.92,Notebook,20,Sim,5,2,4,3,3,4,Infantil
+230,60,Feminino,Nova Petrópolis,Médio,Viúvo(a),3180.00,C,24,188.01,Notebook,60,Sim,5,3,4,3,4,6,Drama
+231,35,Masculino,Taboão,Médio,Casado(a),3000.00,C,17,167.06,Tablet,34,Sim,4,3,4,4,4,6,Drama
+232,48,Feminino,Centro,Médio,Casado(a),5010.00,C,23,195.81,Tablet,47,Sim,4,5,5,4,4,7,Drama
+233,65,Masculino,Jardim do Mar,Médio,Solteiro(a),3540.00,C,22,157.68,Smart TV,34,Sim,3,2,4,3,3,4,Infantil
+234,38,Feminino,Paulicéia,Médio,Solteiro(a),1390.00,D,27,164.91,Tablet,14,Não,4,2,3,3,3,5,Documentário
+235,62,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),4830.00,C,20,178.23,Celular,24,Sim,4,4,5,1,5,8,Infantil
+236,36,Feminino,Ferrazópolis,Médio,Solteiro(a),3480.00,C,19,221.79,Smart TV,61,Não,5,4,5,4,4,8,Documentário
+237,24,Masculino,Jardim do Mar,Fundamental,Casado(a),1530.00,D,18,161.65,Tablet,37,Não,3,3,2,5,3,3,Drama
+238,19,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),2660.00,D,19,165.91,Smart TV,12,Sim,4,3,3,2,3,4,Comédia
+239,44,Masculino,Jardim do Mar,Pós-graduação,União estável,5030.00,C,22,189.58,Celular,5,Sim,4,3,5,4,4,8,Documentário
+240,40,Feminino,Centro,Pós-graduação,Divorciado(a),3480.00,C,21,175.78,Notebook,7,Sim,4,4,4,3,5,5,Comédia
+241,31,Masculino,Jardim do Mar,Fundamental,Casado(a),3400.00,C,9,176.00,Tablet,59,Sim,5,4,4,3,4,8,Documentário
+242,64,Masculino,Jardim do Mar,Superior incompleto,Divorciado(a),3280.00,C,23,184.41,Notebook,68,Sim,5,3,5,3,4,9,Ação
+243,62,Feminino,Bairro Assunção,Médio,Casado(a),1300.00,D,32,198.90,Smart TV,37,Não,5,3,4,2,5,9,Drama
+244,51,Masculino,Paulicéia,Médio,União estável,2610.00,D,21,190.70,Smart TV,43,Sim,4,2,2,3,2,1,Documentário
+245,58,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),3130.00,C,20,148.39,Notebook,38,Não,4,3,3,2,3,5,Comédia
+246,49,Feminino,Nova Petrópolis,Fundamental,Casado(a),2950.00,D,20,216.76,Tablet,24,Sim,5,4,4,5,3,5,Comédia
+247,52,Feminino,Demarchi,Superior completo,Solteiro(a),3920.00,C,23,176.73,Smart TV,56,Não,5,2,4,2,4,5,Ação
+248,29,Feminino,Bairro Assunção,Superior completo,Divorciado(a),1940.00,D,12,204.92,Notebook,19,Sim,5,4,4,3,5,8,Infantil
+249,18,Masculino,Bairro Assunção,Fundamental,Casado(a),2160.00,D,14,194.76,Tablet,53,Sim,5,3,3,4,2,1,Ação
+250,49,Feminino,Demarchi,Pós-graduação,Solteiro(a),4600.00,C,19,203.33,Notebook,7,Sim,4,3,4,2,4,7,Comédia
+251,24,Feminino,Jardim do Mar,Médio,Solteiro(a),2790.00,D,19,193.60,Celular,42,Não,5,3,5,4,4,8,Infantil
+252,27,Feminino,Centro,Superior incompleto,União estável,4040.00,C,19,210.12,Tablet,41,Não,5,4,4,5,4,8,Drama
+253,45,Masculino,Baeta Neves,Superior incompleto,Viúvo(a),1770.00,D,15,166.42,Smart TV,10,Sim,4,5,4,3,3,6,Drama
+254,36,Masculino,Baeta Neves,Pós-graduação,Casado(a),3200.00,C,17,174.54,Celular,63,Sim,4,5,5,2,5,8,Comédia
+255,38,Masculino,Paulicéia,Pós-graduação,Solteiro(a),1300.00,D,27,198.53,Smart TV,14,Não,5,4,4,3,4,6,Ação
+256,48,Masculino,Jardim do Mar,Médio,Casado(a),4270.00,C,20,198.31,Notebook,49,Não,4,3,5,4,3,6,Comédia
+257,62,Masculino,Demarchi,Superior incompleto,Solteiro(a),3160.00,C,21,194.25,Tablet,35,Sim,5,4,5,3,4,9,Drama
+258,20,Masculino,Paulicéia,Superior completo,Divorciado(a),2750.00,D,18,195.83,Tablet,55,Sim,4,1,4,5,3,7,Comédia
+259,32,Feminino,Rudge Ramos,Superior incompleto,Solteiro(a),2540.00,D,18,186.92,Smart TV,32,Sim,4,4,4,2,3,5,Drama
+260,34,Masculino,Jardim do Mar,Fundamental,Solteiro(a),2640.00,D,25,157.45,Tablet,44,Sim,3,3,5,3,4,8,Documentário
+261,31,Masculino,Jardim do Mar,Superior completo,Casado(a),4820.00,C,20,156.10,Notebook,54,Sim,3,2,3,4,3,4,Drama
+262,22,Feminino,Nova Petrópolis,Superior incompleto,Casado(a),2260.00,D,23,212.68,Smart TV,1,Sim,5,2,4,5,4,7,Comédia
+263,32,Feminino,Paulicéia,Fundamental,União estável,2540.00,D,20,169.25,Smart TV,16,Sim,5,3,5,3,5,8,Infantil
+264,26,Masculino,Centro,Superior completo,Casado(a),3540.00,C,17,213.17,Smart TV,33,Não,5,4,4,4,4,7,Ação
+265,64,Feminino,Demarchi,Pós-graduação,Solteiro(a),1440.00,D,13,146.13,Celular,26,Sim,4,4,4,4,3,4,Drama
+266,36,Masculino,Jardim do Mar,Superior completo,Solteiro(a),2240.00,D,23,177.06,Notebook,3,Sim,4,5,4,3,4,5,Ação
+267,36,Masculino,Rudge Ramos,Superior incompleto,Casado(a),3320.00,C,26,183.44,Celular,46,Não,4,3,2,4,4,3,Ação
+268,54,Masculino,Taboão,Superior completo,Solteiro(a),5760.00,C,16,166.62,Smart TV,6,Sim,3,2,4,2,4,7,Drama
+269,49,Masculino,Jardim do Mar,Médio,Casado(a),4700.00,C,23,207.78,Celular,55,Sim,5,4,4,3,4,5,Ação
+270,32,Feminino,Demarchi,Fundamental,Casado(a),1300.00,D,22,171.76,Notebook,13,Sim,4,4,5,2,5,8,Drama
+271,33,Masculino,Paulicéia,Superior incompleto,Casado(a),4230.00,C,23,148.25,Celular,44,Não,3,5,3,1,3,5,Comédia
+272,19,Feminino,Bairro Assunção,Médio,Solteiro(a),3600.00,C,14,209.32,Tablet,65,Não,5,4,4,3,5,9,Infantil
+273,29,Feminino,Baeta Neves,Superior incompleto,União estável,3200.00,C,23,177.09,Tablet,27,Não,4,5,3,4,4,4,Comédia
+274,39,Masculino,Paulicéia,Superior completo,Casado(a),1300.00,D,21,164.06,Smart TV,16,Sim,4,3,5,4,4,4,Ação
+275,40,Masculino,Baeta Neves,Pós-graduação,Casado(a),2770.00,D,22,161.89,Notebook,17,Não,4,5,4,4,4,5,Ação
+276,29,Masculino,Centro,Superior incompleto,Casado(a),2790.00,D,21,172.09,Smart TV,33,Não,4,2,4,5,3,5,Comédia
+277,63,Masculino,Taboão,Superior completo,Solteiro(a),3080.00,C,11,137.14,Smart TV,22,Sim,3,1,3,2,3,5,Ação
+278,59,Masculino,Jardim do Mar,Pós-graduação,Solteiro(a),1430.00,D,21,172.37,Notebook,64,Não,5,2,4,1,4,5,Documentário
+279,41,Masculino,Demarchi,Pós-graduação,Divorciado(a),3150.00,C,18,144.72,Tablet,61,Não,3,3,3,2,3,2,Ação
+280,61,Masculino,Ferrazópolis,Superior completo,Casado(a),2240.00,D,15,115.67,Tablet,49,Sim,2,3,3,4,2,2,Documentário
+281,34,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),4490.00,C,25,201.48,Tablet,25,Sim,5,2,4,2,4,6,Comédia
+282,53,Outro,Rudge Ramos,Superior incompleto,União estável,3630.00,C,17,206.44,Notebook,10,Sim,5,4,5,2,5,10,Ação
+283,59,Masculino,Jardim do Mar,Superior completo,Casado(a),4270.00,C,14,157.33,Notebook,17,Não,3,4,4,3,3,5,Comédia
+284,50,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),2440.00,D,22,162.12,Tablet,34,Não,4,3,4,2,4,7,Comédia
+285,34,Feminino,Jardim do Mar,Superior completo,Solteiro(a),3080.00,C,22,200.41,Tablet,59,Não,5,3,4,3,4,8,Drama
+286,56,Masculino,Centro,Superior completo,Solteiro(a),3210.00,C,23,220.69,Notebook,56,Não,5,5,4,4,5,7,Comédia
+287,23,Feminino,Baeta Neves,Fundamental,Casado(a),3080.00,C,21,206.07,Smart TV,71,Sim,5,3,4,4,4,7,Infantil
+288,37,Feminino,Paulicéia,Fundamental,União estável,1700.00,D,12,177.47,Celular,32,Sim,5,3,4,3,4,7,Infantil
+289,63,Feminino,Centro,Pós-graduação,Solteiro(a),2750.00,D,16,170.89,Celular,40,Sim,5,2,5,1,4,8,Comédia
+290,52,Masculino,Rudge Ramos,Médio,Solteiro(a),3980.00,C,19,162.85,Smart TV,16,Sim,4,4,5,2,4,7,Infantil
+291,36,Masculino,Paulicéia,Fundamental,Solteiro(a),3110.00,C,21,149.33,Tablet,50,Não,3,3,3,4,4,7,Infantil
+292,40,Feminino,Demarchi,Fundamental,Casado(a),2690.00,D,18,178.12,Notebook,47,Sim,4,3,4,3,4,8,Infantil
+293,39,Masculino,Taboão,Fundamental,Divorciado(a),4420.00,C,21,224.93,Celular,5,Não,5,4,4,3,4,6,Comédia
+294,40,Masculino,Nova Petrópolis,Médio,Solteiro(a),6300.00,B,16,215.90,Celular,30,Sim,5,3,5,4,4,8,Ação
+295,30,Feminino,Paulicéia,Superior completo,União estável,5230.00,C,19,173.55,Tablet,68,Não,4,2,3,3,3,5,Documentário
+296,59,Masculino,Demarchi,Pós-graduação,Solteiro(a),2720.00,D,24,149.08,Smart TV,37,Não,4,3,3,2,3,7,Documentário
+297,22,Feminino,Centro,Fundamental,Casado(a),2950.00,D,28,227.42,Notebook,32,Sim,5,2,4,4,4,7,Drama
+298,59,Masculino,Ferrazópolis,Superior incompleto,Casado(a),3150.00,C,18,190.50,Celular,9,Não,4,3,4,4,3,6,Drama
+299,47,Feminino,Jardim do Mar,Superior completo,Casado(a),2500.00,D,15,181.83,Smart TV,58,Não,5,1,3,3,2,2,Comédia
+300,39,Feminino,Bairro Assunção,Pós-graduação,Divorciado(a),2520.00,D,15,136.30,Notebook,66,Não,3,1,1,2,3,1,Documentário
+301,60,Masculino,Paulicéia,Pós-graduação,Casado(a),4310.00,C,26,199.20,Smart TV,66,Sim,4,4,3,3,3,5,Infantil
+302,67,Feminino,Bairro Assunção,Pós-graduação,Divorciado(a),5670.00,C,17,201.76,Tablet,67,Não,5,2,4,2,4,4,Comédia
+303,40,Masculino,Jardim do Mar,Superior completo,Casado(a),5820.00,C,23,183.77,Smart TV,69,Não,3,5,2,4,3,5,Infantil
+304,46,Masculino,Nova Petrópolis,Pós-graduação,Casado(a),4890.00,C,21,166.47,Tablet,22,Sim,4,3,3,1,4,3,Ação
+305,41,Feminino,Ferrazópolis,Superior completo,Solteiro(a),4070.00,C,25,200.87,Notebook,55,Não,5,4,5,3,5,7,Documentário
+306,43,Masculino,Jardim do Mar,Superior completo,Casado(a),2890.00,D,15,160.55,Notebook,22,Não,5,3,4,3,4,8,Ação
+307,36,Feminino,Demarchi,Pós-graduação,União estável,3830.00,C,16,186.13,Smart TV,27,Sim,5,4,4,2,5,8,Ação
+308,44,Masculino,Baeta Neves,Fundamental,Casado(a),1300.00,D,25,173.87,Smart TV,13,Sim,5,3,5,2,4,7,Drama
+309,19,Feminino,Baeta Neves,Fundamental,Divorciado(a),2590.00,D,19,206.28,Smart TV,4,Sim,5,3,4,4,5,7,Comédia
+310,59,Feminino,Bairro Assunção,Médio,Viúvo(a),3220.00,C,16,182.82,Celular,43,Não,5,5,4,1,4,6,Infantil
+311,22,Masculino,Centro,Pós-graduação,Solteiro(a),7770.00,B,21,163.99,Celular,6,Não,3,4,4,1,4,7,Documentário
+312,69,Masculino,Demarchi,Superior completo,Casado(a),3450.00,C,14,143.63,Smart TV,15,Não,3,3,3,1,2,2,Ação
+313,38,Feminino,Paulicéia,Superior incompleto,União estável,4700.00,C,22,171.15,Celular,14,Não,5,1,4,2,4,6,Comédia
+314,54,Outro,Rudge Ramos,Médio,Solteiro(a),2100.00,D,15,163.01,Notebook,45,Não,4,3,4,3,3,5,Drama
+315,19,Masculino,Jardim do Mar,Fundamental,Solteiro(a),4310.00,C,15,162.82,Notebook,36,Sim,4,4,4,3,3,5,Ação
+316,36,Feminino,Paulicéia,Médio,Solteiro(a),4650.00,C,18,117.38,Notebook,69,Não,2,4,2,3,1,2,Ação
+317,68,Masculino,Ferrazópolis,Pós-graduação,União estável,6560.00,B,17,204.37,Tablet,48,Não,5,2,5,2,4,8,Ação
+318,45,Masculino,Nova Petrópolis,Pós-graduação,Viúvo(a),3700.00,C,22,160.46,Celular,14,Sim,3,4,5,4,5,8,Ação
+319,41,Masculino,Paulicéia,Pós-graduação,União estável,3200.00,C,19,154.23,Tablet,19,Sim,3,4,2,3,3,1,Infantil
+320,34,Feminino,Jardim do Mar,Superior completo,Casado(a),2580.00,D,24,200.21,Smart TV,17,Não,5,4,5,3,5,10,Documentário
+321,54,Masculino,Bairro Assunção,Superior incompleto,Casado(a),1890.00,D,23,108.42,Notebook,33,Sim,2,3,3,3,3,3,Comédia
+322,52,Masculino,Ferrazópolis,Fundamental,Solteiro(a),2830.00,D,21,192.62,Tablet,7,Não,5,5,4,3,4,9,Comédia
+323,45,Masculino,Baeta Neves,Superior incompleto,Viúvo(a),2530.00,D,15,159.42,Smart TV,31,Sim,3,4,4,3,3,4,Drama
+324,70,Masculino,Ferrazópolis,Superior completo,União estável,4190.00,C,18,197.01,Smart TV,23,Não,4,4,5,3,4,8,Documentário
+325,47,Feminino,Bairro Assunção,Superior incompleto,Casado(a),3080.00,C,15,126.80,Notebook,8,Sim,3,4,4,1,4,7,Comédia
+326,63,Feminino,Bairro Assunção,Superior completo,Solteiro(a),2120.00,D,28,139.83,Notebook,64,Não,3,4,4,2,3,5,Comédia
+327,43,Masculino,Taboão,Superior incompleto,União estável,4530.00,C,18,137.42,Smart TV,25,Sim,3,2,4,2,3,5,Drama
+328,43,Feminino,Rudge Ramos,Pós-graduação,União estável,3730.00,C,21,172.21,Notebook,2,Sim,3,3,4,4,3,5,Ação
+329,49,Masculino,Taboão,Fundamental,Viúvo(a),3330.00,C,23,178.77,Smart TV,54,Não,3,2,3,3,2,5,Comédia
+330,36,Feminino,Centro,Superior completo,Casado(a),1820.00,D,13,171.00,Notebook,46,Não,5,3,5,2,4,7,Documentário
+331,59,Masculino,Taboão,Médio,Solteiro(a),1880.00,D,18,153.89,Smart TV,26,Não,3,2,3,3,3,4,Infantil
+332,41,Feminino,Taboão,Fundamental,Solteiro(a),1840.00,D,21,118.38,Smart TV,28,Sim,2,3,3,2,3,5,Documentário
+333,32,Masculino,Jardim do Mar,Médio,Casado(a),2660.00,D,12,115.45,Tablet,15,Sim,2,3,1,3,1,1,Infantil
+334,34,Feminino,Jardim do Mar,Superior completo,União estável,2910.00,D,24,173.61,Tablet,23,Não,5,1,3,1,3,5,Infantil
+335,35,Masculino,Jardim do Mar,Fundamental,Solteiro(a),3950.00,C,22,152.44,Celular,12,Não,2,5,4,2,3,5,Documentário
+336,70,Masculino,Bairro Assunção,Superior completo,Casado(a),5620.00,C,15,186.41,Notebook,13,Não,4,5,5,2,4,5,Documentário
+337,34,Feminino,Taboão,Médio,União estável,1730.00,D,22,215.38,Tablet,29,Sim,5,2,3,5,3,6,Comédia
+338,28,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),9950.00,B,24,220.16,Notebook,60,Não,4,5,4,4,4,7,Ação
+339,54,Masculino,Demarchi,Fundamental,Casado(a),2220.00,D,15,157.55,Notebook,13,Não,4,3,4,2,4,6,Comédia
+340,60,Feminino,Ferrazópolis,Superior completo,Divorciado(a),6060.00,B,24,169.76,Notebook,60,Sim,4,5,4,2,3,5,Infantil
+341,40,Masculino,Taboão,Pós-graduação,Casado(a),3100.00,C,17,194.73,Notebook,60,Sim,4,2,4,5,3,7,Documentário
+342,39,Masculino,Paulicéia,Superior incompleto,Casado(a),3660.00,C,8,149.97,Smart TV,3,Sim,4,3,5,1,4,8,Drama
+343,50,Masculino,Paulicéia,Médio,Casado(a),3930.00,C,19,171.76,Smart TV,20,Não,4,4,3,4,4,8,Drama
+344,52,Feminino,Jardim do Mar,Pós-graduação,Solteiro(a),1880.00,D,21,179.02,Celular,42,Não,5,3,5,3,5,10,Ação
+345,23,Feminino,Taboão,Pós-graduação,Casado(a),7230.00,B,15,230.81,Notebook,12,Sim,4,3,3,4,3,2,Ação
+346,66,Feminino,Jardim do Mar,Pós-graduação,União estável,2750.00,D,16,132.93,Tablet,30,Não,3,3,3,2,2,5,Infantil
+347,37,Feminino,Jardim do Mar,Superior completo,Solteiro(a),2640.00,D,22,189.76,Smart TV,51,Não,4,3,4,5,4,4,Infantil
+348,49,Masculino,Demarchi,Médio,Solteiro(a),1940.00,D,21,182.80,Celular,1,Não,5,3,4,4,5,9,Documentário
+349,20,Masculino,Demarchi,Fundamental,Solteiro(a),1560.00,D,23,162.09,Celular,46,Não,4,5,4,3,4,7,Comédia
+350,50,Feminino,Demarchi,Superior incompleto,Casado(a),2280.00,D,15,148.23,Notebook,22,Sim,4,2,5,3,4,9,Infantil
+351,23,Feminino,Nova Petrópolis,Superior incompleto,Solteiro(a),1510.00,D,19,205.52,Notebook,57,Não,5,3,4,5,4,7,Drama
+352,19,Feminino,Ferrazópolis,Fundamental,Casado(a),2830.00,D,18,197.55,Celular,14,Não,5,4,5,5,5,9,Drama
+353,68,Masculino,Ferrazópolis,Fundamental,Casado(a),2570.00,D,25,205.00,Notebook,51,Não,5,2,2,3,3,5,Drama
+354,24,Feminino,Bairro Assunção,Médio,Casado(a),2170.00,D,25,123.54,Tablet,55,Sim,3,3,3,3,3,3,Documentário
+355,57,Feminino,Taboão,Médio,Casado(a),4160.00,C,16,135.88,Notebook,32,Não,2,4,2,5,3,4,Documentário
+356,46,Feminino,Nova Petrópolis,Médio,Divorciado(a),5580.00,C,18,207.60,Tablet,33,Sim,4,5,3,4,4,5,Documentário
+357,30,Feminino,Baeta Neves,Superior incompleto,Casado(a),1320.00,D,25,173.32,Notebook,30,Não,3,3,3,5,3,4,Ação
+358,37,Masculino,Taboão,Superior incompleto,União estável,5690.00,C,24,189.71,Tablet,58,Não,4,4,5,3,4,7,Drama
+359,25,Masculino,Ferrazópolis,Fundamental,Casado(a),2030.00,D,20,144.52,Notebook,30,Sim,3,4,3,4,3,4,Ação
+360,50,Masculino,Rudge Ramos,Fundamental,Casado(a),1300.00,D,17,153.70,Notebook,70,Sim,4,1,3,2,2,4,Ação
+361,62,Outro,Nova Petrópolis,Fundamental,Solteiro(a),2870.00,D,16,193.34,Celular,12,Sim,4,3,4,3,3,7,Documentário
+362,38,Feminino,Baeta Neves,Superior completo,Casado(a),2940.00,D,22,183.92,Notebook,29,Não,4,2,3,5,3,4,Drama
+363,67,Feminino,Paulicéia,Pós-graduação,Casado(a),5790.00,C,14,168.78,Notebook,40,Não,3,5,5,4,4,7,Infantil
+364,27,Feminino,Nova Petrópolis,Fundamental,Divorciado(a),2210.00,D,15,142.63,Tablet,40,Sim,3,4,2,5,3,0,Ação
+365,67,Masculino,Baeta Neves,Pós-graduação,Casado(a),4610.00,C,23,198.53,Notebook,33,Não,5,4,4,3,3,7,Infantil
+366,60,Feminino,Demarchi,Médio,União estável,2190.00,D,28,168.43,Celular,71,Não,4,3,5,2,3,4,Comédia
+367,21,Feminino,Demarchi,Pós-graduação,Solteiro(a),2060.00,D,14,181.08,Smart TV,36,Não,4,3,4,4,4,7,Documentário
+368,62,Feminino,Rudge Ramos,Fundamental,Casado(a),3330.00,C,19,176.61,Tablet,12,Não,4,4,4,3,5,8,Infantil
+369,21,Masculino,Demarchi,Pós-graduação,Solteiro(a),2580.00,D,16,160.45,Celular,28,Não,3,3,3,4,3,5,Ação
+370,69,Feminino,Jardim do Mar,Médio,Solteiro(a),3310.00,C,18,176.85,Tablet,4,Sim,5,5,5,2,4,6,Comédia
+371,53,Feminino,Ferrazópolis,Superior completo,Casado(a),6430.00,B,17,201.38,Smart TV,21,Sim,5,2,4,3,3,6,Comédia
+372,28,Feminino,Paulicéia,Fundamental,Solteiro(a),1940.00,D,20,206.17,Celular,34,Não,5,4,5,4,4,9,Infantil
+373,66,Feminino,Paulicéia,Superior incompleto,Solteiro(a),4220.00,C,27,128.61,Smart TV,6,Sim,2,3,4,3,4,7,Infantil
+374,34,Masculino,Centro,Pós-graduação,Solteiro(a),3400.00,C,18,134.81,Celular,36,Sim,3,4,2,3,3,2,Ação
+375,24,Masculino,Baeta Neves,Fundamental,Viúvo(a),1740.00,D,17,203.87,Smart TV,16,Sim,5,1,4,5,3,3,Documentário
+376,32,Masculino,Nova Petrópolis,Superior incompleto,União estável,1330.00,D,22,147.01,Tablet,67,Não,3,3,3,4,3,6,Drama
+377,63,Masculino,Demarchi,Pós-graduação,Viúvo(a),3800.00,C,21,143.02,Celular,11,Não,3,3,3,2,4,5,Documentário
+378,67,Feminino,Centro,Pós-graduação,Solteiro(a),3650.00,C,16,153.44,Celular,33,Não,3,3,4,1,4,6,Documentário
+379,67,Masculino,Bairro Assunção,Superior incompleto,Solteiro(a),2090.00,D,19,173.04,Celular,14,Sim,4,1,3,1,4,9,Documentário
+380,49,Masculino,Rudge Ramos,Fundamental,Solteiro(a),1300.00,D,13,152.82,Smart TV,32,Não,3,3,4,4,4,8,Infantil
+381,27,Masculino,Centro,Pós-graduação,Casado(a),1580.00,D,14,117.13,Smart TV,35,Não,2,3,4,3,2,5,Comédia
+382,66,Feminino,Baeta Neves,Fundamental,Viúvo(a),5410.00,C,21,227.02,Smart TV,36,Não,5,1,3,3,3,6,Ação
+383,45,Feminino,Paulicéia,Superior incompleto,Casado(a),2880.00,D,22,197.67,Smart TV,35,Sim,5,2,5,3,5,7,Drama
+384,65,Masculino,Nova Petrópolis,Pós-graduação,Casado(a),2040.00,D,26,142.41,Tablet,33,Não,3,3,3,3,3,6,Documentário
+385,23,Masculino,Paulicéia,Fundamental,Solteiro(a),1550.00,D,24,189.30,Notebook,21,Não,5,3,4,4,3,7,Comédia
+386,31,Masculino,Demarchi,Superior incompleto,Casado(a),2690.00,D,27,171.25,Celular,65,Não,4,3,3,4,4,5,Infantil
+387,30,Feminino,Ferrazópolis,Superior completo,União estável,3680.00,C,15,208.22,Celular,47,Sim,5,3,4,3,5,9,Ação
+388,40,Feminino,Bairro Assunção,Fundamental,Casado(a),1960.00,D,16,161.74,Smart TV,45,Não,5,3,4,2,4,8,Ação
+389,63,Masculino,Baeta Neves,Superior incompleto,Casado(a),7550.00,B,19,167.17,Celular,30,Não,3,3,3,3,3,3,Infantil
+390,39,Feminino,Nova Petrópolis,Fundamental,Casado(a),5510.00,C,19,213.32,Celular,58,Sim,5,3,5,4,4,8,Ação
+391,50,Feminino,Baeta Neves,Superior completo,Casado(a),3870.00,C,18,167.83,Tablet,50,Não,5,2,3,1,3,4,Infantil
+392,43,Outro,Jardim do Mar,Pós-graduação,Solteiro(a),3030.00,C,16,181.48,Notebook,12,Sim,5,3,3,2,3,7,Comédia
+393,68,Feminino,Rudge Ramos,Médio,Divorciado(a),3270.00,C,15,195.74,Smart TV,32,Sim,5,3,3,3,3,4,Ação
+394,70,Feminino,Taboão,Médio,Casado(a),1530.00,D,17,190.01,Celular,64,Sim,5,4,5,2,5,9,Comédia
+395,64,Feminino,Jardim do Mar,Fundamental,Solteiro(a),3770.00,C,12,190.05,Smart TV,64,Sim,5,3,5,3,3,4,Infantil
+396,27,Feminino,Centro,Superior incompleto,Casado(a),2840.00,D,28,151.75,Smart TV,70,Sim,3,5,2,3,3,4,Ação
+397,63,Feminino,Baeta Neves,Fundamental,Solteiro(a),1390.00,D,18,142.91,Notebook,55,Não,4,5,3,3,4,7,Documentário
+398,58,Masculino,Ferrazópolis,Pós-graduação,Solteiro(a),2910.00,D,17,130.86,Celular,69,Sim,3,3,5,3,4,6,Drama
+399,36,Masculino,Bairro Assunção,Fundamental,Solteiro(a),2780.00,D,21,156.84,Smart TV,19,Sim,5,2,5,1,3,5,Documentário
+400,30,Feminino,Rudge Ramos,Superior completo,União estável,1420.00,D,28,161.27,Notebook,71,Não,3,5,5,4,3,5,Comédia
+401,70,Masculino,Nova Petrópolis,Médio,Solteiro(a),1860.00,D,24,186.73,Celular,69,Não,5,4,5,3,4,6,Documentário
+402,57,Feminino,Paulicéia,Superior completo,Viúvo(a),2710.00,D,14,161.91,Celular,51,Não,4,3,4,2,4,5,Documentário
+403,31,Feminino,Baeta Neves,Fundamental,Solteiro(a),3260.00,C,15,161.84,Smart TV,49,Não,4,3,4,1,3,6,Documentário
+404,28,Masculino,Taboão,Superior incompleto,Casado(a),5720.00,C,22,213.52,Notebook,49,Não,4,3,2,5,2,1,Drama
+405,49,Masculino,Nova Petrópolis,Fundamental,Divorciado(a),2680.00,D,22,163.14,Celular,8,Não,3,2,2,2,2,0,Drama
+406,45,Feminino,Ferrazópolis,Superior completo,Solteiro(a),1300.00,D,16,158.80,Notebook,5,Não,4,5,4,3,3,4,Drama
+407,61,Feminino,Paulicéia,Fundamental,União estável,1440.00,D,19,145.60,Celular,18,Não,4,3,5,2,4,7,Infantil
+408,53,Masculino,Ferrazópolis,Superior incompleto,Casado(a),14090.00,A,19,230.92,Notebook,21,Não,4,3,4,1,4,7,Infantil
+409,60,Masculino,Baeta Neves,Superior incompleto,Solteiro(a),3230.00,C,15,198.73,Notebook,5,Sim,4,3,4,3,4,5,Comédia
+410,40,Feminino,Taboão,Fundamental,União estável,1300.00,D,27,158.33,Smart TV,57,Sim,4,2,4,3,3,4,Drama
+411,69,Masculino,Rudge Ramos,Fundamental,Solteiro(a),7130.00,B,25,189.24,Smart TV,3,Sim,4,3,4,3,3,6,Documentário
+412,69,Feminino,Rudge Ramos,Superior incompleto,Solteiro(a),1710.00,D,17,124.10,Celular,26,Sim,4,3,5,2,4,8,Comédia
+413,68,Feminino,Centro,Médio,União estável,3560.00,C,14,163.55,Celular,8,Sim,5,1,5,2,4,9,Ação
+414,55,Feminino,Paulicéia,Pós-graduação,Solteiro(a),2240.00,D,16,189.47,Tablet,45,Não,4,2,4,4,4,7,Ação
+415,37,Feminino,Nova Petrópolis,Superior completo,Casado(a),8320.00,B,36,209.34,Smart TV,69,Não,4,3,5,3,4,5,Ação
+416,26,Feminino,Rudge Ramos,Médio,Solteiro(a),1300.00,D,14,120.65,Smart TV,43,Sim,3,4,3,3,3,3,Drama
+417,47,Feminino,Rudge Ramos,Médio,União estável,1940.00,D,24,174.68,Celular,41,Não,4,2,5,4,4,9,Drama
+418,37,Masculino,Centro,Superior incompleto,Casado(a),4390.00,C,18,210.06,Tablet,42,Sim,4,1,5,3,3,8,Documentário
+419,26,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),2600.00,D,17,182.65,Celular,20,Não,4,2,2,5,3,3,Infantil
+420,34,Feminino,Ferrazópolis,Superior incompleto,Viúvo(a),3370.00,C,23,174.20,Celular,27,Sim,3,5,5,3,4,7,Documentário
+421,60,Masculino,Bairro Assunção,Superior incompleto,Casado(a),4370.00,C,25,163.48,Tablet,23,Não,4,3,3,2,3,3,Drama
+422,33,Feminino,Bairro Assunção,Superior completo,Divorciado(a),3290.00,C,20,207.26,Notebook,64,Sim,5,2,4,2,3,7,Infantil
+423,23,Masculino,Jardim do Mar,Médio,Casado(a),1390.00,D,25,181.61,Tablet,27,Não,5,1,5,3,3,5,Infantil
+424,29,Feminino,Centro,Superior completo,Casado(a),2100.00,D,23,126.86,Celular,18,Sim,3,3,3,2,3,7,Documentário
+425,27,Masculino,Taboão,Médio,Solteiro(a),1970.00,D,19,185.05,Smart TV,37,Não,5,3,4,4,4,6,Documentário
+426,27,Masculino,Centro,Superior incompleto,Casado(a),3430.00,C,20,162.69,Notebook,56,Sim,4,4,4,2,4,5,Drama
+427,40,Feminino,Paulicéia,Superior completo,Solteiro(a),4510.00,C,22,169.27,Celular,28,Não,3,5,3,3,2,1,Comédia
+428,64,Masculino,Jardim do Mar,Fundamental,Casado(a),2630.00,D,29,192.00,Smart TV,2,Não,5,2,4,3,4,6,Comédia
+429,37,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),4240.00,C,11,211.28,Notebook,30,Não,5,3,4,3,3,5,Infantil
+430,70,Masculino,Bairro Assunção,Médio,Divorciado(a),1360.00,D,19,145.05,Tablet,61,Não,4,3,5,2,3,6,Infantil
+431,63,Feminino,Bairro Assunção,Fundamental,Solteiro(a),2740.00,D,24,146.96,Tablet,62,Sim,3,2,5,3,4,7,Infantil
+432,26,Feminino,Baeta Neves,Médio,Casado(a),2260.00,D,17,198.19,Smart TV,55,Sim,5,1,3,5,3,6,Drama
+433,50,Masculino,Bairro Assunção,Superior completo,Casado(a),4070.00,C,13,179.66,Tablet,39,Não,3,4,3,4,3,5,Documentário
+434,59,Feminino,Bairro Assunção,Superior completo,Solteiro(a),4730.00,C,16,210.09,Smart TV,71,Não,5,3,4,3,5,8,Ação
+435,55,Masculino,Rudge Ramos,Médio,Solteiro(a),1630.00,D,23,144.19,Notebook,8,Não,3,2,3,3,3,6,Infantil
+436,30,Feminino,Jardim do Mar,Médio,Solteiro(a),2250.00,D,19,148.15,Smart TV,9,Sim,4,2,5,1,4,6,Infantil
+437,55,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),6830.00,B,31,192.99,Notebook,52,Sim,4,5,4,3,4,7,Documentário
+438,45,Feminino,Centro,Médio,Divorciado(a),2880.00,D,28,153.70,Tablet,58,Sim,3,4,3,5,3,5,Comédia
+439,30,Feminino,Nova Petrópolis,Médio,Casado(a),2260.00,D,14,163.42,Smart TV,16,Não,3,2,2,4,2,4,Documentário
+440,28,Masculino,Demarchi,Superior incompleto,Casado(a),1530.00,D,20,182.31,Tablet,23,Não,5,1,5,5,4,6,Ação
+441,37,Feminino,Rudge Ramos,Superior completo,Solteiro(a),3950.00,C,25,167.85,Smart TV,17,Sim,4,4,4,2,4,5,Ação
+442,32,Masculino,Baeta Neves,Superior incompleto,Casado(a),1440.00,D,17,147.23,Celular,18,Sim,3,5,3,3,4,5,Ação
+443,46,Masculino,Jardim do Mar,Superior incompleto,Solteiro(a),2620.00,D,27,160.12,Smart TV,2,Sim,4,5,4,4,3,6,Drama
+444,39,Masculino,Ferrazópolis,Superior completo,Solteiro(a),2500.00,D,22,155.14,Smart TV,15,Sim,3,1,4,4,3,5,Comédia
+445,24,Masculino,Nova Petrópolis,Pós-graduação,Casado(a),3950.00,C,24,207.75,Celular,50,Não,5,5,4,5,4,7,Documentário
+446,55,Feminino,Taboão,Superior completo,Casado(a),2540.00,D,17,176.56,Tablet,52,Sim,5,3,4,1,4,4,Comédia
+447,21,Masculino,Nova Petrópolis,Superior incompleto,Solteiro(a),2220.00,D,19,188.30,Tablet,64,Não,5,1,5,3,4,9,Documentário
+448,43,Masculino,Centro,Superior completo,Solteiro(a),2100.00,D,19,131.04,Smart TV,68,Sim,4,2,5,2,4,7,Drama
+449,20,Feminino,Bairro Assunção,Superior completo,Casado(a),2580.00,D,22,209.14,Notebook,16,Não,5,2,5,4,5,9,Documentário
+450,60,Masculino,Centro,Médio,Solteiro(a),2940.00,D,14,100.79,Smart TV,47,Sim,2,3,3,2,2,3,Comédia
+451,35,Feminino,Baeta Neves,Superior completo,Solteiro(a),2620.00,D,20,162.64,Tablet,29,Não,4,1,3,3,3,4,Documentário
+452,23,Feminino,Nova Petrópolis,Superior completo,Viúvo(a),2540.00,D,26,196.35,Smart TV,20,Não,5,4,4,3,4,7,Infantil
+453,31,Feminino,Centro,Médio,Solteiro(a),2560.00,D,20,165.87,Tablet,50,Sim,4,3,3,2,3,4,Drama
+454,48,Masculino,Baeta Neves,Médio,Casado(a),3990.00,C,23,184.31,Celular,29,Não,4,5,4,3,3,5,Drama
+455,59,Masculino,Rudge Ramos,Superior completo,Divorciado(a),4720.00,C,27,178.31,Smart TV,44,Não,3,3,3,4,3,5,Drama
+456,23,Masculino,Taboão,Fundamental,Solteiro(a),1300.00,D,20,146.69,Tablet,18,Sim,4,3,4,5,3,5,Drama
+457,34,Feminino,Ferrazópolis,Médio,Casado(a),3390.00,C,23,196.13,Smart TV,31,Não,4,2,4,5,4,5,Ação
+458,24,Feminino,Bairro Assunção,Superior completo,Casado(a),5430.00,C,23,195.21,Notebook,6,Não,4,4,4,4,5,7,Documentário
+459,30,Feminino,Paulicéia,Superior incompleto,Solteiro(a),3660.00,C,22,162.32,Notebook,3,Não,4,3,3,2,3,6,Drama
+460,34,Feminino,Taboão,Fundamental,Solteiro(a),1300.00,D,18,122.95,Celular,56,Sim,2,3,2,4,2,2,Ação
+461,49,Feminino,Paulicéia,Fundamental,Viúvo(a),2550.00,D,23,212.85,Notebook,65,Não,5,3,3,4,4,6,Infantil
+462,23,Feminino,Centro,Fundamental,Solteiro(a),3800.00,C,23,198.78,Tablet,8,Não,5,1,5,4,3,7,Comédia
+463,50,Outro,Demarchi,Superior incompleto,Divorciado(a),2360.00,D,22,185.48,Notebook,49,Não,4,4,4,3,4,9,Documentário
+464,59,Masculino,Centro,Fundamental,Casado(a),8680.00,B,16,185.84,Tablet,47,Sim,3,3,2,2,3,3,Documentário
+465,68,Feminino,Ferrazópolis,Superior completo,Casado(a),1310.00,D,15,163.30,Celular,20,Sim,4,4,5,3,4,6,Drama
+466,44,Feminino,Paulicéia,Superior completo,Casado(a),3390.00,C,24,192.66,Smart TV,31,Sim,5,5,5,4,4,8,Comédia
+467,43,Masculino,Centro,Superior incompleto,Casado(a),3890.00,C,16,200.70,Celular,22,Sim,4,3,3,3,4,5,Infantil
+468,52,Masculino,Paulicéia,Médio,Casado(a),2790.00,D,22,135.65,Smart TV,6,Sim,3,3,4,1,2,4,Ação
+469,70,Masculino,Bairro Assunção,Fundamental,Casado(a),2640.00,D,22,188.62,Smart TV,60,Sim,5,1,4,2,4,7,Ação
+470,20,Masculino,Centro,Pós-graduação,Divorciado(a),2040.00,D,12,146.60,Smart TV,22,Não,3,4,4,4,4,6,Drama
+471,27,Feminino,Bairro Assunção,Superior completo,União estável,2290.00,D,20,116.87,Smart TV,39,Não,1,3,2,5,2,2,Ação
+472,29,Feminino,Jardim do Mar,Médio,Solteiro(a),3050.00,C,22,198.92,Celular,6,Sim,4,4,5,5,4,8,Comédia
+473,27,Feminino,Bairro Assunção,Médio,Solteiro(a),1300.00,D,18,167.50,Celular,4,Sim,4,3,5,4,4,9,Ação
+474,45,Masculino,Centro,Médio,Divorciado(a),3770.00,C,20,146.21,Smart TV,46,Não,4,2,4,1,4,6,Infantil
+475,20,Masculino,Centro,Médio,Solteiro(a),2160.00,D,24,219.88,Notebook,30,Sim,5,4,5,5,5,9,Ação
+476,22,Feminino,Taboão,Superior incompleto,União estável,3310.00,C,26,181.58,Celular,49,Sim,4,5,5,5,5,7,Ação
+477,53,Masculino,Ferrazópolis,Médio,Solteiro(a),3790.00,C,35,195.68,Celular,64,Não,5,5,4,3,4,7,Infantil
+478,26,Masculino,Rudge Ramos,Superior completo,Solteiro(a),15850.00,A,36,239.34,Smart TV,65,Não,3,3,2,4,2,2,Ação
+479,35,Masculino,Ferrazópolis,Fundamental,Solteiro(a),4010.00,C,18,171.09,Celular,6,Não,4,4,5,3,4,7,Comédia
+480,19,Masculino,Centro,Superior completo,Solteiro(a),1670.00,D,25,161.58,Tablet,21,Não,3,4,3,5,3,6,Drama
+481,58,Feminino,Ferrazópolis,Fundamental,Casado(a),6200.00,B,21,222.04,Smart TV,15,Não,5,4,4,3,5,6,Ação
+482,66,Masculino,Taboão,Médio,Solteiro(a),1300.00,D,23,125.66,Celular,13,Não,3,5,5,2,3,7,Comédia
+483,54,Masculino,Paulicéia,Pós-graduação,União estável,3050.00,C,14,185.26,Celular,33,Não,4,5,3,5,3,5,Infantil
+484,40,Masculino,Rudge Ramos,Superior completo,Solteiro(a),3380.00,C,26,163.46,Notebook,35,Sim,4,5,4,2,3,5,Infantil
+485,39,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),3040.00,C,18,172.44,Tablet,70,Sim,4,4,3,2,3,3,Documentário
+486,20,Feminino,Demarchi,Superior incompleto,Casado(a),2910.00,D,19,152.34,Notebook,59,Não,3,1,4,3,3,5,Ação
+487,31,Masculino,Centro,Fundamental,Solteiro(a),1950.00,D,15,171.31,Notebook,5,Sim,4,3,5,3,5,10,Infantil
+488,42,Masculino,Taboão,Pós-graduação,União estável,6340.00,B,20,195.63,Tablet,41,Não,4,3,3,4,3,1,Drama
+489,20,Feminino,Ferrazópolis,Superior completo,Solteiro(a),2320.00,D,21,186.02,Notebook,16,Não,4,3,2,5,4,2,Comédia
+490,65,Feminino,Rudge Ramos,Superior incompleto,Casado(a),2910.00,D,24,203.08,Celular,68,Não,5,5,5,3,5,8,Documentário
+491,51,Feminino,Paulicéia,Superior completo,Solteiro(a),7250.00,B,23,192.49,Notebook,19,Sim,4,3,4,1,4,7,Documentário
+492,28,Masculino,Paulicéia,Médio,Casado(a),3630.00,C,22,175.23,Celular,7,Sim,3,2,3,5,3,5,Ação
+493,64,Feminino,Rudge Ramos,Superior completo,Solteiro(a),3190.00,C,22,181.17,Tablet,68,Sim,5,3,5,1,4,8,Documentário
+494,30,Feminino,Demarchi,Superior completo,Solteiro(a),3720.00,C,26,189.02,Celular,52,Sim,5,5,5,3,4,5,Infantil
+495,52,Masculino,Nova Petrópolis,Fundamental,União estável,5320.00,C,15,205.44,Notebook,51,Não,5,3,5,2,4,8,Documentário
+496,70,Feminino,Bairro Assunção,Fundamental,Divorciado(a),1320.00,D,23,160.84,Smart TV,48,Sim,4,3,4,2,4,6,Documentário
+497,37,Masculino,Taboão,Pós-graduação,União estável,2140.00,D,20,169.64,Notebook,53,Não,5,5,5,2,4,8,Documentário
+498,63,Feminino,Centro,Superior completo,Casado(a),2650.00,D,28,135.56,Smart TV,18,Sim,2,4,3,3,2,2,Comédia
+499,66,Masculino,Baeta Neves,Médio,Casado(a),3010.00,C,14,201.93,Notebook,49,Não,5,1,4,4,3,3,Comédia
+500,47,Feminino,Bairro Assunção,Superior incompleto,União estável,4410.00,C,17,200.91,Smart TV,15,Sim,5,3,5,3,5,8,Drama
+501,52,Feminino,Nova Petrópolis,Fundamental,Casado(a),1620.00,D,17,149.28,Smart TV,66,Não,4,2,4,1,3,6,Comédia
+502,27,Masculino,Baeta Neves,Fundamental,União estável,1360.00,D,20,204.33,Notebook,28,Não,5,1,4,4,3,6,Ação
+503,62,Feminino,Demarchi,Fundamental,Casado(a),1320.00,D,15,194.12,Notebook,68,Não,5,2,5,2,4,7,Documentário
+504,29,Feminino,Nova Petrópolis,Fundamental,Casado(a),1370.00,D,25,147.08,Tablet,24,Sim,3,1,3,4,2,2,Comédia
+505,33,Feminino,Demarchi,Fundamental,Casado(a),1580.00,D,28,164.22,Tablet,14,Sim,4,3,3,3,4,5,Documentário
+506,63,Masculino,Paulicéia,Fundamental,Solteiro(a),1300.00,D,11,149.09,Celular,25,Sim,4,3,5,1,4,9,Comédia
+507,28,Masculino,Rudge Ramos,Pós-graduação,Solteiro(a),2610.00,D,23,162.08,Tablet,40,Não,4,2,4,4,4,9,Comédia
+508,53,Masculino,Baeta Neves,Fundamental,União estável,1430.00,D,16,170.43,Tablet,52,Não,4,1,4,3,4,7,Comédia
+509,37,Feminino,Demarchi,Fundamental,Casado(a),2000.00,D,23,174.74,Smart TV,2,Não,5,4,4,3,4,8,Ação
+510,36,Feminino,Nova Petrópolis,Superior incompleto,Solteiro(a),5860.00,C,20,164.67,Celular,7,Sim,4,3,4,2,4,6,Documentário
+511,66,Outro,Demarchi,Superior completo,Viúvo(a),1690.00,D,19,205.78,Notebook,21,Sim,5,4,5,3,5,10,Documentário
+512,19,Feminino,Taboão,Superior completo,União estável,4540.00,C,16,122.25,Notebook,54,Sim,3,3,4,2,3,5,Infantil
+513,57,Masculino,Ferrazópolis,Fundamental,Casado(a),4950.00,C,24,224.89,Tablet,21,Não,5,5,5,3,4,6,Documentário
+514,25,Feminino,Baeta Neves,Fundamental,Solteiro(a),3170.00,C,18,166.24,Notebook,36,Não,3,4,4,3,3,6,Comédia
+515,60,Feminino,Ferrazópolis,Fundamental,Solteiro(a),2760.00,D,17,196.63,Celular,72,Sim,5,3,4,3,3,5,Infantil
+516,56,Masculino,Jardim do Mar,Fundamental,União estável,4200.00,C,18,153.47,Smart TV,13,Não,3,2,3,2,2,5,Ação
+517,50,Feminino,Centro,Fundamental,Solteiro(a),3020.00,C,16,158.23,Tablet,15,Não,4,5,3,4,4,7,Documentário
+518,52,Masculino,Demarchi,Pós-graduação,Solteiro(a),6100.00,B,17,214.19,Celular,49,Não,5,3,4,4,5,6,Ação
+519,18,Feminino,Centro,Superior incompleto,Solteiro(a),2680.00,D,19,188.38,Tablet,57,Não,4,2,4,5,3,5,Documentário
+520,37,Feminino,Jardim do Mar,Médio,Casado(a),1510.00,D,20,150.01,Tablet,27,Não,3,3,3,4,4,5,Infantil
+521,56,Masculino,Paulicéia,Fundamental,Solteiro(a),3930.00,C,12,202.41,Notebook,15,Não,5,3,5,3,5,10,Documentário
+522,49,Masculino,Taboão,Pós-graduação,União estável,11830.00,B,21,213.93,Smart TV,10,Não,4,4,5,1,4,7,Ação
+523,28,Masculino,Demarchi,Superior completo,Divorciado(a),2560.00,D,18,175.61,Notebook,70,Sim,4,1,5,4,4,6,Ação
+524,58,Feminino,Baeta Neves,Fundamental,Viúvo(a),2370.00,D,20,129.06,Celular,43,Sim,3,5,3,3,4,3,Documentário
+525,33,Outro,Centro,Superior incompleto,Solteiro(a),2840.00,D,11,129.76,Notebook,28,Não,2,3,4,4,2,5,Drama
+526,52,Feminino,Ferrazópolis,Pós-graduação,Casado(a),1910.00,D,32,173.82,Celular,24,Sim,5,3,5,2,5,8,Ação
+527,51,Feminino,Jardim do Mar,Médio,Casado(a),1760.00,D,13,156.18,Smart TV,12,Sim,4,3,5,3,4,7,Documentário
+528,30,Feminino,Rudge Ramos,Superior completo,Viúvo(a),3450.00,C,25,161.91,Notebook,21,Não,3,2,3,2,2,4,Documentário
+529,20,Masculino,Bairro Assunção,Médio,Solteiro(a),2180.00,D,19,162.31,Tablet,57,Sim,4,3,4,5,3,4,Documentário
+530,68,Feminino,Demarchi,Fundamental,Solteiro(a),2460.00,D,15,140.27,Smart TV,35,Não,3,4,3,3,3,2,Comédia
+531,58,Feminino,Demarchi,Médio,Casado(a),2680.00,D,16,194.50,Smart TV,66,Não,5,3,5,2,4,7,Infantil
+532,19,Feminino,Baeta Neves,Médio,Casado(a),2150.00,D,17,211.56,Celular,38,Sim,5,3,4,5,5,7,Comédia
+533,28,Feminino,Rudge Ramos,Fundamental,Solteiro(a),1470.00,D,17,140.49,Notebook,44,Sim,3,4,5,3,4,7,Infantil
+534,47,Feminino,Baeta Neves,Médio,Casado(a),3080.00,C,21,164.35,Celular,51,Sim,4,3,4,3,4,5,Ação
+535,64,Feminino,Demarchi,Pós-graduação,Solteiro(a),4500.00,C,15,217.73,Notebook,13,Sim,5,5,5,3,5,7,Ação
+536,29,Feminino,Rudge Ramos,Fundamental,Casado(a),1410.00,D,17,129.27,Celular,36,Sim,3,3,3,4,2,1,Infantil
+537,45,Feminino,Ferrazópolis,Fundamental,Solteiro(a),2680.00,D,23,155.40,Celular,63,Não,3,5,4,3,4,7,Ação
+538,55,Feminino,Taboão,Médio,Casado(a),1970.00,D,18,166.16,Celular,39,Não,4,4,4,3,5,9,Drama
+539,64,Feminino,Centro,Pós-graduação,Solteiro(a),5210.00,C,19,183.82,Celular,19,Sim,5,4,5,1,4,8,Documentário
+540,47,Feminino,Centro,Superior completo,Solteiro(a),3150.00,C,15,141.23,Celular,42,Não,3,3,4,3,4,6,Ação
+541,40,Masculino,Demarchi,Superior incompleto,Casado(a),3310.00,C,19,194.59,Smart TV,48,Sim,4,3,3,3,3,6,Ação
+542,28,Masculino,Paulicéia,Superior completo,Solteiro(a),3230.00,C,13,194.43,Notebook,67,Sim,5,5,5,5,4,7,Ação
+543,47,Feminino,Rudge Ramos,Fundamental,Casado(a),2190.00,D,12,180.52,Tablet,55,Não,5,2,5,5,3,7,Documentário
+544,44,Feminino,Jardim do Mar,Médio,Casado(a),2900.00,D,24,109.74,Celular,8,Sim,2,3,2,2,3,3,Documentário
+545,65,Feminino,Baeta Neves,Pós-graduação,Casado(a),5690.00,C,27,188.60,Celular,43,Não,4,4,4,2,4,6,Documentário
+546,45,Masculino,Rudge Ramos,Superior completo,Solteiro(a),3370.00,C,19,206.81,Tablet,48,Sim,5,3,4,2,4,7,Comédia
+547,58,Masculino,Baeta Neves,Superior incompleto,Solteiro(a),3120.00,C,23,190.52,Celular,54,Não,5,2,4,2,4,7,Infantil
+548,40,Masculino,Baeta Neves,Médio,Casado(a),2100.00,D,20,178.06,Celular,3,Não,5,5,5,4,4,8,Drama
+549,44,Masculino,Nova Petrópolis,Médio,Solteiro(a),1300.00,D,14,183.45,Celular,21,Não,5,3,3,3,4,4,Comédia
+550,20,Feminino,Demarchi,Fundamental,Solteiro(a),2050.00,D,20,207.57,Smart TV,19,Não,5,3,4,4,4,8,Ação
+551,44,Masculino,Bairro Assunção,Pós-graduação,Casado(a),2030.00,D,15,150.53,Celular,15,Sim,3,2,4,4,2,5,Drama
+552,28,Masculino,Jardim do Mar,Fundamental,Solteiro(a),1610.00,D,26,140.59,Celular,57,Não,3,4,3,2,4,5,Comédia
+553,35,Feminino,Bairro Assunção,Pós-graduação,Casado(a),2340.00,D,14,118.08,Celular,34,Sim,3,3,2,3,2,3,Infantil
+554,69,Masculino,Taboão,Médio,Solteiro(a),2000.00,D,20,180.89,Tablet,27,Sim,5,4,4,4,4,8,Documentário
+555,53,Feminino,Taboão,Pós-graduação,Solteiro(a),2770.00,D,25,178.51,Tablet,40,Sim,4,2,5,4,4,6,Documentário
+556,27,Masculino,Baeta Neves,Fundamental,União estável,2580.00,D,17,196.08,Smart TV,2,Não,4,3,4,5,4,6,Ação
+557,47,Feminino,Rudge Ramos,Superior incompleto,Casado(a),3310.00,C,29,184.89,Smart TV,17,Não,5,3,4,2,5,7,Drama
+558,42,Feminino,Jardim do Mar,Fundamental,Solteiro(a),2310.00,D,28,190.32,Celular,37,Sim,5,5,4,2,4,4,Comédia
+559,57,Feminino,Demarchi,Fundamental,Solteiro(a),4020.00,C,15,193.61,Notebook,15,Não,5,4,5,2,5,9,Drama
+560,33,Feminino,Nova Petrópolis,Médio,Casado(a),9470.00,B,22,222.81,Tablet,32,Sim,5,2,4,3,4,7,Infantil
+561,52,Feminino,Rudge Ramos,Superior completo,Casado(a),4120.00,C,12,181.89,Tablet,24,Não,5,4,5,2,5,9,Infantil
+562,58,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),5700.00,C,17,146.90,Smart TV,67,Não,3,5,3,1,3,5,Documentário
+563,56,Feminino,Ferrazópolis,Fundamental,Solteiro(a),2640.00,D,17,187.45,Notebook,64,Sim,5,3,5,3,5,10,Comédia
+564,48,Masculino,Demarchi,Superior completo,União estável,4320.00,C,21,221.27,Tablet,68,Não,5,3,4,4,3,5,Infantil
+565,19,Masculino,Centro,Pós-graduação,Divorciado(a),1560.00,D,16,155.81,Smart TV,28,Não,4,1,3,3,2,1,Documentário
+566,55,Feminino,Paulicéia,Pós-graduação,Casado(a),1300.00,D,17,194.44,Celular,21,Não,5,4,5,3,5,9,Ação
+567,68,Feminino,Nova Petrópolis,Médio,União estável,1300.00,D,22,181.96,Celular,38,Não,5,1,5,3,4,9,Ação
+568,51,Feminino,Rudge Ramos,Fundamental,Solteiro(a),1720.00,D,20,149.11,Smart TV,60,Sim,4,3,4,1,5,8,Infantil
+569,49,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),6760.00,B,24,189.16,Celular,58,Sim,3,2,4,4,3,5,Ação
+570,44,Feminino,Paulicéia,Pós-graduação,Solteiro(a),4020.00,C,22,153.33,Tablet,38,Não,3,5,3,3,4,7,Documentário
+571,22,Feminino,Taboão,Médio,Solteiro(a),1920.00,D,18,119.91,Smart TV,41,Não,3,4,2,1,3,4,Ação
+572,68,Feminino,Centro,Fundamental,Solteiro(a),3150.00,C,18,178.07,Celular,39,Sim,4,4,5,4,3,6,Ação
+573,37,Feminino,Nova Petrópolis,Superior incompleto,União estável,3210.00,C,22,208.48,Tablet,34,Sim,5,5,5,3,5,9,Ação
+574,55,Masculino,Bairro Assunção,Médio,Divorciado(a),1420.00,D,14,172.00,Smart TV,9,Não,5,3,4,1,4,6,Drama
+575,46,Masculino,Demarchi,Superior incompleto,Casado(a),3510.00,C,15,122.32,Tablet,25,Não,3,2,2,3,4,6,Infantil
+576,54,Outro,Jardim do Mar,Fundamental,Casado(a),3360.00,C,19,164.49,Notebook,61,Não,4,2,3,3,3,3,Comédia
+577,22,Masculino,Rudge Ramos,Pós-graduação,Solteiro(a),8450.00,B,11,206.14,Smart TV,63,Não,4,4,3,5,3,5,Comédia
+578,54,Feminino,Ferrazópolis,Superior incompleto,Solteiro(a),2830.00,D,19,161.98,Tablet,44,Não,4,2,4,1,2,5,Infantil
+579,47,Masculino,Baeta Neves,Fundamental,Casado(a),4810.00,C,14,132.36,Smart TV,71,Não,3,5,3,3,3,5,Drama
+580,42,Masculino,Baeta Neves,Médio,Casado(a),2070.00,D,16,135.78,Celular,69,Sim,3,2,2,2,3,4,Documentário
+581,57,Masculino,Jardim do Mar,Superior completo,Casado(a),9540.00,B,19,234.37,Tablet,37,Não,5,5,4,2,4,6,Documentário
+582,52,Masculino,Paulicéia,Superior completo,Casado(a),2510.00,D,18,184.19,Notebook,57,Não,5,4,3,1,4,6,Documentário
+583,58,Feminino,Centro,Fundamental,União estável,3130.00,C,18,155.26,Celular,16,Não,4,2,4,1,4,6,Ação
+584,50,Masculino,Baeta Neves,Superior completo,Solteiro(a),3700.00,C,19,194.81,Smart TV,34,Não,5,3,5,5,4,7,Infantil
+585,59,Feminino,Paulicéia,Pós-graduação,Solteiro(a),7440.00,B,23,228.05,Smart TV,30,Não,5,3,5,4,4,6,Documentário
+586,65,Feminino,Rudge Ramos,Médio,Solteiro(a),5000.00,C,19,200.69,Smart TV,62,Sim,4,5,4,3,3,5,Comédia
+587,61,Feminino,Demarchi,Superior completo,União estável,2130.00,D,15,164.13,Smart TV,30,Não,4,3,3,4,4,3,Documentário
+588,69,Feminino,Baeta Neves,Superior completo,Casado(a),3020.00,C,15,156.29,Smart TV,23,Sim,3,2,3,1,2,3,Ação
+589,46,Feminino,Centro,Pós-graduação,Casado(a),9400.00,B,28,223.63,Notebook,28,Não,4,4,4,3,4,7,Infantil
+590,43,Masculino,Jardim do Mar,Fundamental,Viúvo(a),2310.00,D,25,144.14,Tablet,63,Não,3,2,2,3,2,2,Drama
+591,21,Masculino,Nova Petrópolis,Pós-graduação,Casado(a),4710.00,C,20,167.97,Tablet,45,Sim,3,3,4,4,3,6,Ação
+592,49,Masculino,Bairro Assunção,Fundamental,Solteiro(a),1400.00,D,17,173.89,Smart TV,9,Sim,5,2,4,1,4,8,Infantil
+593,54,Masculino,Centro,Superior incompleto,Solteiro(a),2630.00,D,19,161.85,Tablet,2,Sim,4,3,4,3,4,6,Drama
+594,33,Feminino,Centro,Fundamental,Casado(a),1540.00,D,22,118.27,Tablet,25,Não,2,2,1,4,3,2,Documentário
+595,20,Masculino,Rudge Ramos,Fundamental,Casado(a),3060.00,C,20,195.80,Notebook,60,Não,4,3,4,3,3,6,Documentário
+596,62,Masculino,Paulicéia,Médio,União estável,3740.00,C,22,218.84,Celular,63,Sim,5,5,4,3,4,7,Ação
+597,24,Feminino,Bairro Assunção,Fundamental,Solteiro(a),3550.00,C,16,175.77,Celular,12,Sim,4,4,3,4,5,7,Comédia
+598,55,Feminino,Baeta Neves,Fundamental,Casado(a),1420.00,D,24,106.67,Celular,2,Sim,2,3,3,3,3,4,Infantil
+599,69,Masculino,Ferrazópolis,Médio,Solteiro(a),3540.00,C,18,171.12,Smart TV,19,Sim,5,1,4,2,4,7,Drama
+600,66,Masculino,Nova Petrópolis,Fundamental,Divorciado(a),2440.00,D,19,193.52,Notebook,63,Não,4,4,4,3,5,7,Drama
+601,29,Feminino,Baeta Neves,Médio,Solteiro(a),1300.00,D,24,183.09,Notebook,31,Não,4,2,5,4,3,5,Infantil
+602,50,Masculino,Baeta Neves,Médio,Solteiro(a),3150.00,C,24,213.36,Smart TV,3,Sim,5,4,4,3,4,7,Comédia
+603,67,Masculino,Jardim do Mar,Superior incompleto,Solteiro(a),5530.00,C,18,164.16,Smart TV,37,Não,4,1,4,1,3,4,Drama
+604,55,Masculino,Jardim do Mar,Pós-graduação,União estável,7590.00,B,17,142.23,Smart TV,48,Não,2,4,3,3,3,5,Drama
+605,33,Masculino,Bairro Assunção,Fundamental,Solteiro(a),2090.00,D,14,175.98,Celular,8,Não,5,3,5,3,4,8,Infantil
+606,23,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),4790.00,C,32,102.32,Celular,46,Sim,2,3,3,3,3,4,Drama
+607,45,Masculino,Baeta Neves,Superior incompleto,Solteiro(a),3620.00,C,12,168.23,Notebook,58,Não,4,2,4,4,3,5,Documentário
+608,50,Masculino,Bairro Assunção,Pós-graduação,Viúvo(a),2610.00,D,30,202.00,Celular,5,Sim,5,4,4,3,4,5,Infantil
+609,27,Feminino,Demarchi,Superior incompleto,Casado(a),1760.00,D,23,152.04,Celular,4,Sim,3,2,4,4,2,3,Ação
+610,37,Masculino,Demarchi,Fundamental,União estável,2110.00,D,20,134.77,Celular,61,Sim,3,4,3,3,3,6,Comédia
+611,40,Masculino,Baeta Neves,Médio,Solteiro(a),2210.00,D,24,161.62,Notebook,34,Não,4,4,3,1,3,4,Documentário
+612,44,Feminino,Baeta Neves,Fundamental,Casado(a),2310.00,D,17,142.77,Smart TV,7,Não,4,2,3,1,4,4,Documentário
+613,20,Masculino,Taboão,Pós-graduação,Casado(a),2700.00,D,22,170.91,Celular,10,Não,3,4,1,5,2,3,Ação
+614,35,Feminino,Rudge Ramos,Superior incompleto,Solteiro(a),2990.00,D,20,149.00,Celular,62,Sim,3,2,3,2,3,3,Ação
+615,62,Feminino,Paulicéia,Pós-graduação,Casado(a),2380.00,D,27,197.61,Tablet,62,Não,5,4,4,2,4,7,Drama
+616,33,Masculino,Demarchi,Superior completo,Solteiro(a),6040.00,B,23,199.63,Tablet,71,Sim,4,2,5,4,3,8,Drama
+617,60,Masculino,Paulicéia,Pós-graduação,Solteiro(a),1680.00,D,12,158.79,Tablet,50,Não,5,3,4,1,4,6,Comédia
+618,61,Masculino,Demarchi,Médio,Solteiro(a),2580.00,D,23,117.17,Notebook,49,Sim,3,3,4,1,3,6,Infantil
+619,63,Feminino,Paulicéia,Médio,Casado(a),2460.00,D,21,166.74,Tablet,65,Sim,5,3,4,3,4,7,Comédia
+620,47,Masculino,Ferrazópolis,Superior completo,Casado(a),3030.00,C,23,206.27,Tablet,67,Não,5,4,5,3,5,10,Documentário
+621,37,Feminino,Paulicéia,Pós-graduação,Casado(a),2380.00,D,19,132.05,Tablet,2,Sim,4,2,3,1,3,5,Infantil
+622,31,Masculino,Baeta Neves,Pós-graduação,Divorciado(a),1720.00,D,32,192.20,Celular,46,Sim,5,2,3,3,4,5,Infantil
+623,46,Masculino,Taboão,Pós-graduação,Casado(a),4020.00,C,23,205.74,Celular,55,Não,5,4,5,3,4,5,Infantil
+624,58,Masculino,Bairro Assunção,Médio,Casado(a),2410.00,D,24,118.13,Celular,71,Sim,3,2,2,1,3,3,Ação
+625,61,Masculino,Paulicéia,Superior completo,Solteiro(a),4040.00,C,21,137.76,Notebook,4,Sim,3,3,5,1,3,5,Documentário
+626,21,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),1560.00,D,26,162.19,Celular,58,Não,4,2,4,2,3,6,Drama
+627,67,Masculino,Paulicéia,Médio,Solteiro(a),5930.00,C,16,159.80,Notebook,40,Sim,3,3,2,3,3,5,Infantil
+628,33,Feminino,Taboão,Fundamental,Solteiro(a),2050.00,D,19,154.32,Smart TV,49,Não,3,2,3,4,2,2,Drama
+629,31,Feminino,Rudge Ramos,Superior incompleto,Casado(a),1300.00,D,21,115.96,Smart TV,72,Não,2,4,5,4,3,7,Ação
+630,35,Feminino,Ferrazópolis,Superior incompleto,União estável,2960.00,D,25,177.93,Celular,72,Não,4,2,3,4,4,5,Ação
+631,37,Masculino,Demarchi,Superior completo,Solteiro(a),2500.00,D,12,113.33,Tablet,14,Sim,2,2,2,4,2,1,Documentário
+632,27,Masculino,Nova Petrópolis,Fundamental,Casado(a),1300.00,D,17,150.67,Celular,35,Sim,4,3,5,2,3,4,Drama
+633,35,Masculino,Bairro Assunção,Superior incompleto,Solteiro(a),4730.00,C,21,117.95,Celular,30,Não,1,2,3,4,1,2,Comédia
+634,62,Masculino,Ferrazópolis,Superior incompleto,Solteiro(a),4600.00,C,21,194.51,Notebook,35,Sim,5,2,5,3,4,6,Comédia
+635,19,Masculino,Taboão,Superior incompleto,Casado(a),2970.00,D,14,212.47,Tablet,31,Sim,5,4,5,5,5,10,Documentário
+636,53,Masculino,Nova Petrópolis,Fundamental,Solteiro(a),2380.00,D,23,154.69,Smart TV,62,Sim,4,2,3,5,3,3,Ação
+637,64,Masculino,Nova Petrópolis,Fundamental,Divorciado(a),3010.00,C,20,201.04,Celular,65,Não,5,3,5,2,5,9,Ação
+638,53,Feminino,Taboão,Superior incompleto,Solteiro(a),1440.00,D,28,165.63,Tablet,49,Não,5,5,3,2,5,5,Ação
+639,43,Masculino,Paulicéia,Médio,Casado(a),2710.00,D,19,157.75,Tablet,47,Sim,3,3,4,3,3,6,Drama
+640,49,Masculino,Paulicéia,Fundamental,Solteiro(a),3950.00,C,15,158.15,Tablet,11,Sim,3,3,3,3,2,3,Drama
+641,46,Masculino,Demarchi,Pós-graduação,Solteiro(a),5770.00,C,16,222.27,Celular,25,Não,5,1,5,3,5,9,Documentário
+642,38,Masculino,Rudge Ramos,Superior incompleto,Casado(a),1720.00,D,25,191.81,Notebook,23,Sim,5,3,5,5,5,8,Ação
+643,62,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),3290.00,C,32,176.80,Tablet,9,Sim,4,3,2,3,4,4,Drama
+644,52,Masculino,Centro,Superior completo,Solteiro(a),1980.00,D,20,113.41,Celular,43,Sim,2,4,4,2,3,6,Comédia
+645,20,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),3100.00,C,18,207.74,Tablet,47,Sim,5,3,5,4,4,9,Documentário
+646,57,Masculino,Centro,Médio,Solteiro(a),1880.00,D,24,169.36,Notebook,2,Sim,4,3,5,2,3,5,Infantil
+647,30,Masculino,Baeta Neves,Fundamental,Divorciado(a),1420.00,D,22,155.84,Smart TV,34,Não,4,4,3,1,4,5,Ação
+648,46,Masculino,Centro,Superior incompleto,Divorciado(a),3340.00,C,16,105.25,Smart TV,37,Sim,1,4,2,3,2,1,Drama
+649,27,Feminino,Jardim do Mar,Médio,Solteiro(a),1680.00,D,22,209.48,Notebook,33,Sim,5,1,3,5,3,2,Drama
+650,42,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),2490.00,D,22,185.15,Notebook,17,Não,4,3,4,4,4,5,Drama
+651,25,Feminino,Centro,Pós-graduação,Solteiro(a),3890.00,C,24,186.58,Tablet,2,Não,4,4,3,4,3,3,Comédia
+652,29,Feminino,Rudge Ramos,Pós-graduação,Casado(a),1730.00,D,23,162.63,Celular,18,Não,3,1,3,4,3,4,Drama
+653,63,Feminino,Rudge Ramos,Superior completo,Solteiro(a),2970.00,D,21,185.90,Notebook,72,Sim,4,5,5,5,4,9,Documentário
+654,22,Masculino,Ferrazópolis,Pós-graduação,Solteiro(a),1640.00,D,23,176.04,Tablet,65,Sim,5,3,4,4,4,8,Ação
+655,34,Feminino,Paulicéia,Pós-graduação,Casado(a),1870.00,D,25,174.66,Notebook,51,Não,4,4,3,2,3,3,Documentário
+656,20,Feminino,Baeta Neves,Fundamental,Casado(a),3410.00,C,18,210.08,Celular,21,Não,5,3,4,4,3,6,Infantil
+657,27,Feminino,Paulicéia,Superior completo,Casado(a),2460.00,D,20,157.47,Tablet,2,Sim,3,3,4,5,3,4,Infantil
+658,55,Masculino,Centro,Superior incompleto,Casado(a),2130.00,D,26,146.65,Notebook,65,Não,3,2,4,3,4,6,Documentário
+659,47,Masculino,Nova Petrópolis,Fundamental,Solteiro(a),3290.00,C,20,230.32,Celular,31,Não,5,5,4,5,5,8,Comédia
+660,36,Feminino,Centro,Superior completo,Solteiro(a),6370.00,B,16,190.92,Tablet,39,Sim,4,5,3,3,4,8,Drama
+661,22,Feminino,Baeta Neves,Fundamental,Casado(a),2270.00,D,22,202.85,Smart TV,70,Não,5,5,5,2,5,9,Infantil
+662,55,Feminino,Centro,Pós-graduação,Casado(a),5930.00,C,26,197.74,Tablet,67,Não,4,1,3,3,3,3,Ação
+663,31,Masculino,Paulicéia,Superior completo,Solteiro(a),2350.00,D,22,147.75,Smart TV,40,Sim,3,3,3,4,3,5,Documentário
+664,44,Masculino,Demarchi,Médio,Solteiro(a),2560.00,D,26,132.14,Smart TV,53,Não,3,3,3,3,3,6,Documentário
+665,24,Masculino,Paulicéia,Fundamental,Solteiro(a),2050.00,D,15,188.40,Smart TV,41,Não,5,2,5,3,4,8,Ação
+666,41,Masculino,Demarchi,Pós-graduação,União estável,4100.00,C,17,183.37,Notebook,30,Não,3,4,3,5,3,3,Comédia
+667,64,Masculino,Centro,Pós-graduação,Solteiro(a),5990.00,C,19,191.12,Smart TV,18,Sim,5,2,5,1,4,7,Comédia
+668,51,Feminino,Nova Petrópolis,Superior incompleto,União estável,1500.00,D,14,156.40,Tablet,3,Não,4,5,5,2,3,6,Drama
+669,43,Feminino,Centro,Pós-graduação,União estável,2390.00,D,33,192.76,Smart TV,68,Não,4,1,5,3,3,8,Documentário
+670,27,Feminino,Centro,Superior completo,Casado(a),2390.00,D,24,163.57,Celular,65,Sim,4,3,4,5,3,6,Comédia
+671,32,Feminino,Jardim do Mar,Superior completo,União estável,1960.00,D,22,178.53,Celular,29,Sim,4,4,3,4,4,8,Ação
+672,69,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),3450.00,C,19,204.35,Smart TV,51,Não,5,3,5,3,3,5,Drama
+673,67,Feminino,Rudge Ramos,Fundamental,Solteiro(a),2680.00,D,28,177.85,Tablet,8,Sim,4,4,4,3,4,6,Infantil
+674,35,Feminino,Baeta Neves,Médio,Casado(a),2480.00,D,12,160.43,Tablet,10,Não,5,1,5,2,4,7,Infantil
+675,52,Feminino,Bairro Assunção,Médio,Casado(a),2150.00,D,12,90.29,Tablet,62,Sim,2,3,2,1,3,5,Drama
+676,58,Masculino,Baeta Neves,Fundamental,Viúvo(a),4300.00,C,19,170.27,Tablet,68,Não,5,2,4,2,4,8,Comédia
+677,39,Masculino,Ferrazópolis,Superior completo,Casado(a),3430.00,C,12,161.77,Smart TV,44,Não,4,3,5,4,4,8,Comédia
+678,31,Feminino,Nova Petrópolis,Fundamental,Solteiro(a),1970.00,D,20,182.94,Smart TV,36,Sim,4,2,5,4,5,9,Comédia
+679,35,Feminino,Taboão,Médio,Solteiro(a),2480.00,D,23,110.42,Tablet,47,Sim,2,2,2,2,2,3,Comédia
+680,42,Masculino,Centro,Superior completo,Casado(a),4410.00,C,19,133.79,Smart TV,3,Sim,2,5,4,2,3,3,Drama
+681,37,Masculino,Demarchi,Superior incompleto,Casado(a),3020.00,C,21,188.79,Notebook,24,Não,4,2,3,4,3,4,Drama
+682,44,Feminino,Paulicéia,Superior incompleto,Casado(a),1910.00,D,30,156.48,Smart TV,22,Não,4,1,3,3,3,4,Comédia
+683,26,Masculino,Demarchi,Pós-graduação,União estável,7370.00,B,15,213.75,Notebook,38,Não,5,3,3,2,4,6,Documentário
+684,34,Masculino,Ferrazópolis,Superior incompleto,Solteiro(a),3330.00,C,14,143.94,Tablet,62,Sim,4,4,5,2,3,5,Infantil
+685,27,Masculino,Ferrazópolis,Superior completo,Casado(a),1770.00,D,21,151.42,Smart TV,7,Não,3,3,3,4,2,2,Documentário
+686,36,Masculino,Rudge Ramos,Superior completo,Solteiro(a),1360.00,D,15,132.74,Tablet,31,Sim,3,4,3,2,4,4,Ação
+687,32,Feminino,Paulicéia,Fundamental,Casado(a),2880.00,D,18,111.55,Celular,56,Não,2,1,4,2,2,4,Drama
+688,41,Feminino,Bairro Assunção,Superior incompleto,Casado(a),4980.00,C,24,157.69,Celular,59,Sim,4,5,4,2,4,5,Ação
+689,70,Masculino,Rudge Ramos,Superior incompleto,Casado(a),3830.00,C,29,187.13,Tablet,62,Não,5,2,3,3,4,7,Comédia
+690,62,Masculino,Demarchi,Fundamental,Casado(a),3140.00,C,25,197.85,Tablet,29,Sim,4,3,5,2,4,8,Documentário
+691,50,Masculino,Ferrazópolis,Fundamental,Solteiro(a),3030.00,C,13,166.64,Notebook,69,Não,3,3,3,5,4,7,Infantil
+692,44,Feminino,Nova Petrópolis,Médio,União estável,2510.00,D,21,165.71,Smart TV,10,Não,4,1,4,3,4,5,Documentário
+693,35,Feminino,Centro,Superior incompleto,Casado(a),1300.00,D,12,168.82,Celular,59,Não,4,2,3,3,4,8,Comédia
+694,22,Feminino,Jardim do Mar,Superior incompleto,Divorciado(a),1880.00,D,17,140.44,Celular,15,Não,2,4,2,4,2,5,Comédia
+695,50,Outro,Taboão,Médio,Solteiro(a),3660.00,C,18,181.49,Tablet,49,Não,4,4,4,2,4,6,Drama
+696,29,Feminino,Baeta Neves,Médio,Solteiro(a),3060.00,C,21,162.54,Smart TV,64,Sim,4,3,3,2,4,6,Ação
+697,20,Feminino,Nova Petrópolis,Médio,Casado(a),2080.00,D,23,170.97,Tablet,50,Sim,4,3,4,4,4,6,Comédia
+698,70,Masculino,Taboão,Pós-graduação,Casado(a),3110.00,C,15,195.71,Tablet,14,Sim,5,4,5,2,5,10,Ação
+699,29,Feminino,Nova Petrópolis,Superior completo,Casado(a),3240.00,C,21,178.11,Smart TV,64,Sim,4,3,5,4,4,8,Infantil
+700,22,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),2810.00,D,23,210.24,Smart TV,68,Sim,5,3,5,3,4,5,Comédia
+701,49,Feminino,Bairro Assunção,Superior completo,Casado(a),3130.00,C,17,155.63,Tablet,36,Não,3,3,3,4,2,2,Drama
+702,52,Feminino,Demarchi,Superior incompleto,Solteiro(a),3090.00,C,18,149.06,Tablet,21,Não,3,2,3,2,4,6,Comédia
+703,32,Feminino,Paulicéia,Superior incompleto,Solteiro(a),1890.00,D,26,141.31,Celular,47,Sim,3,3,3,1,2,4,Documentário
+704,29,Feminino,Nova Petrópolis,Médio,Casado(a),3370.00,C,21,182.63,Tablet,70,Não,5,1,5,3,4,7,Drama
+705,25,Feminino,Rudge Ramos,Fundamental,Casado(a),1910.00,D,27,146.21,Tablet,70,Não,3,4,3,3,3,2,Comédia
+706,40,Masculino,Jardim do Mar,Superior completo,Solteiro(a),3890.00,C,25,184.12,Tablet,7,Não,3,3,2,5,2,3,Documentário
+707,39,Masculino,Centro,Médio,Viúvo(a),2520.00,D,16,156.94,Celular,10,Não,4,3,4,3,4,9,Infantil
+708,36,Masculino,Demarchi,Fundamental,Viúvo(a),4300.00,C,16,178.22,Notebook,40,Não,4,4,3,4,4,3,Documentário
+709,66,Masculino,Rudge Ramos,Superior incompleto,Casado(a),3930.00,C,17,206.50,Smart TV,63,Sim,5,4,5,2,4,8,Comédia
+710,69,Masculino,Ferrazópolis,Superior incompleto,Divorciado(a),3740.00,C,15,175.27,Notebook,3,Não,3,5,5,4,4,9,Ação
+711,64,Feminino,Nova Petrópolis,Superior completo,Casado(a),4070.00,C,24,98.66,Smart TV,50,Sim,3,5,3,1,4,7,Documentário
+712,47,Feminino,Centro,Pós-graduação,Solteiro(a),9260.00,B,14,236.94,Smart TV,19,Sim,5,4,4,2,4,6,Drama
+713,69,Masculino,Rudge Ramos,Pós-graduação,Solteiro(a),3880.00,C,14,129.38,Celular,22,Não,3,3,3,4,3,5,Ação
+714,31,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),3660.00,C,14,147.70,Smart TV,62,Sim,3,4,2,3,4,5,Ação
+715,57,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),3960.00,C,22,178.13,Celular,21,Sim,5,3,5,2,3,7,Ação
+716,49,Feminino,Demarchi,Pós-graduação,União estável,1510.00,D,17,82.49,Notebook,14,Sim,1,2,4,3,3,5,Documentário
+717,50,Masculino,Taboão,Superior completo,Viúvo(a),3390.00,C,22,215.10,Tablet,70,Sim,5,3,5,5,5,9,Comédia
+718,21,Masculino,Bairro Assunção,Fundamental,Casado(a),3190.00,C,23,219.51,Celular,65,Sim,5,5,5,5,5,8,Comédia
+719,25,Feminino,Jardim do Mar,Médio,Casado(a),2920.00,D,22,220.67,Notebook,67,Sim,5,4,4,4,5,7,Infantil
+720,67,Feminino,Paulicéia,Superior incompleto,União estável,6100.00,B,17,148.46,Celular,43,Sim,3,4,3,3,4,8,Documentário
+721,32,Feminino,Centro,Superior completo,Casado(a),4310.00,C,18,175.73,Notebook,19,Não,3,4,3,4,3,4,Ação
+722,36,Feminino,Baeta Neves,Superior completo,Solteiro(a),3860.00,C,19,172.83,Smart TV,53,Sim,4,4,5,3,4,5,Drama
+723,54,Feminino,Demarchi,Pós-graduação,União estável,5560.00,C,22,184.78,Notebook,55,Não,4,4,4,3,4,10,Comédia
+724,64,Feminino,Demarchi,Fundamental,Casado(a),2830.00,D,20,207.39,Notebook,26,Não,5,2,4,2,4,6,Infantil
+725,39,Masculino,Baeta Neves,Superior incompleto,Solteiro(a),2440.00,D,24,196.75,Notebook,42,Não,5,4,4,2,5,7,Drama
+726,60,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),3200.00,C,17,151.01,Smart TV,71,Sim,4,3,4,3,4,6,Ação
+727,50,Feminino,Demarchi,Médio,Divorciado(a),1300.00,D,15,157.86,Tablet,42,Não,4,2,1,3,1,0,Comédia
+728,27,Feminino,Ferrazópolis,Médio,Solteiro(a),4790.00,C,22,165.27,Smart TV,60,Sim,3,3,4,5,3,4,Drama
+729,47,Masculino,Taboão,Superior completo,Divorciado(a),2940.00,D,16,187.92,Smart TV,3,Não,5,2,2,3,3,5,Comédia
+730,69,Feminino,Rudge Ramos,Pós-graduação,Divorciado(a),2480.00,D,19,182.80,Smart TV,66,Sim,5,3,5,2,5,8,Comédia
+731,70,Feminino,Rudge Ramos,Superior incompleto,Solteiro(a),2650.00,D,17,158.46,Notebook,70,Sim,4,3,3,1,3,3,Infantil
+732,70,Feminino,Demarchi,Superior incompleto,Solteiro(a),6900.00,B,27,175.84,Smart TV,11,Sim,4,4,3,2,3,1,Ação
+733,21,Masculino,Baeta Neves,Fundamental,Casado(a),2090.00,D,20,187.38,Tablet,32,Não,5,5,3,3,4,7,Comédia
+734,60,Feminino,Taboão,Médio,Solteiro(a),2990.00,D,15,195.70,Notebook,20,Sim,5,4,5,4,4,7,Drama
+735,43,Feminino,Demarchi,Fundamental,Casado(a),5650.00,C,22,145.01,Celular,40,Sim,2,4,3,3,2,3,Documentário
+736,41,Masculino,Bairro Assunção,Pós-graduação,Viúvo(a),5160.00,C,21,176.82,Smart TV,61,Sim,4,1,5,2,3,5,Documentário
+737,40,Feminino,Taboão,Pós-graduação,Casado(a),3100.00,C,23,192.35,Smart TV,14,Não,4,5,5,4,5,9,Comédia
+738,53,Masculino,Taboão,Superior completo,Casado(a),1530.00,D,19,172.78,Notebook,49,Sim,4,2,5,4,3,6,Documentário
+739,44,Feminino,Centro,Médio,União estável,3330.00,C,21,205.22,Celular,10,Não,5,3,3,3,4,7,Documentário
+740,22,Feminino,Taboão,Superior incompleto,Viúvo(a),1900.00,D,23,169.19,Notebook,28,Não,4,4,4,3,3,5,Ação
+741,38,Feminino,Nova Petrópolis,Fundamental,União estável,2910.00,D,23,134.67,Celular,40,Não,3,2,5,3,3,5,Drama
+742,66,Masculino,Bairro Assunção,Pós-graduação,Solteiro(a),3830.00,C,21,133.48,Smart TV,34,Sim,3,4,4,1,3,8,Documentário
+743,25,Feminino,Rudge Ramos,Fundamental,Solteiro(a),2470.00,D,14,196.30,Tablet,9,Não,5,2,4,5,4,7,Ação
+744,29,Feminino,Centro,Superior completo,Casado(a),4480.00,C,26,183.49,Celular,32,Sim,3,3,4,5,3,4,Documentário
+745,23,Feminino,Centro,Superior incompleto,Solteiro(a),1300.00,D,17,177.52,Tablet,25,Não,4,3,4,4,3,5,Drama
+746,55,Outro,Paulicéia,Superior incompleto,Casado(a),3120.00,C,15,177.74,Smart TV,41,Não,5,2,3,1,4,6,Ação
+747,60,Masculino,Jardim do Mar,Fundamental,Divorciado(a),2340.00,D,18,159.28,Notebook,24,Não,3,3,3,5,1,2,Drama
+748,60,Masculino,Jardim do Mar,Médio,União estável,3030.00,C,22,114.73,Celular,36,Não,3,5,4,1,4,7,Comédia
+749,21,Feminino,Demarchi,Pós-graduação,Solteiro(a),4100.00,C,17,123.92,Celular,69,Não,2,3,4,3,4,7,Documentário
+750,69,Feminino,Bairro Assunção,Pós-graduação,Divorciado(a),4240.00,C,19,124.42,Tablet,33,Sim,3,5,4,3,3,6,Comédia
+751,65,Feminino,Taboão,Superior incompleto,Casado(a),2290.00,D,22,177.95,Smart TV,53,Sim,4,3,3,3,4,6,Documentário
+752,61,Feminino,Jardim do Mar,Superior incompleto,Casado(a),1810.00,D,14,180.61,Notebook,24,Não,4,2,4,2,3,6,Documentário
+753,63,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),1890.00,D,16,132.44,Celular,49,Sim,3,2,3,3,3,2,Documentário
+754,61,Masculino,Bairro Assunção,Superior completo,Solteiro(a),3590.00,C,17,176.29,Tablet,33,Não,4,1,4,3,3,3,Comédia
+755,19,Feminino,Taboão,Superior incompleto,Divorciado(a),3230.00,C,24,218.89,Smart TV,45,Sim,5,5,5,5,4,6,Ação
+756,55,Masculino,Nova Petrópolis,Pós-graduação,Casado(a),3210.00,C,17,150.12,Tablet,13,Sim,4,5,5,2,4,7,Comédia
+757,66,Feminino,Demarchi,Pós-graduação,Divorciado(a),5690.00,C,27,206.06,Tablet,61,Não,5,4,3,2,4,5,Comédia
+758,48,Masculino,Taboão,Médio,Solteiro(a),2410.00,D,16,147.57,Smart TV,14,Não,3,2,5,3,3,5,Drama
+759,66,Feminino,Rudge Ramos,Fundamental,Solteiro(a),2330.00,D,19,169.01,Notebook,13,Não,4,2,4,3,3,5,Infantil
+760,20,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),1510.00,D,22,179.27,Tablet,50,Não,4,4,3,5,3,3,Documentário
+761,49,Feminino,Bairro Assunção,Fundamental,Casado(a),1850.00,D,18,160.04,Tablet,22,Não,4,2,4,3,3,2,Infantil
+762,69,Feminino,Paulicéia,Pós-graduação,Casado(a),5990.00,C,24,181.65,Celular,70,Sim,4,2,4,3,3,3,Comédia
+763,47,Masculino,Rudge Ramos,Superior completo,Casado(a),6030.00,B,19,134.29,Celular,50,Não,2,2,3,1,2,2,Ação
+764,41,Masculino,Rudge Ramos,Fundamental,Solteiro(a),2010.00,D,24,188.68,Celular,16,Sim,4,5,5,3,4,7,Infantil
+765,33,Feminino,Nova Petrópolis,Superior incompleto,Solteiro(a),3980.00,C,23,178.82,Celular,71,Não,5,3,5,3,4,8,Infantil
+766,60,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),6400.00,B,14,194.56,Notebook,66,Não,5,4,5,4,4,8,Documentário
+767,68,Feminino,Paulicéia,Fundamental,Solteiro(a),1600.00,D,20,165.03,Tablet,22,Não,5,4,5,2,5,6,Drama
+768,37,Feminino,Jardim do Mar,Pós-graduação,União estável,4020.00,C,17,163.33,Notebook,46,Sim,4,2,4,2,4,8,Ação
+769,44,Feminino,Demarchi,Fundamental,Solteiro(a),2420.00,D,14,185.87,Tablet,32,Não,5,3,5,3,5,8,Documentário
+770,42,Feminino,Bairro Assunção,Superior incompleto,Solteiro(a),4540.00,C,18,173.77,Tablet,69,Sim,4,2,3,2,5,7,Infantil
+771,51,Feminino,Ferrazópolis,Fundamental,Divorciado(a),1570.00,D,29,160.79,Tablet,70,Sim,4,4,5,2,4,7,Drama
+772,42,Masculino,Paulicéia,Fundamental,Viúvo(a),2540.00,D,19,142.58,Tablet,29,Não,3,2,2,3,2,1,Documentário
+773,56,Masculino,Centro,Superior completo,Casado(a),2970.00,D,15,169.09,Celular,66,Sim,4,3,3,1,4,6,Ação
+774,70,Feminino,Jardim do Mar,Fundamental,Solteiro(a),2980.00,D,22,153.77,Celular,50,Não,4,2,5,2,4,5,Comédia
+775,34,Feminino,Demarchi,Pós-graduação,Casado(a),5960.00,C,18,238.15,Celular,7,Não,5,2,3,5,4,7,Documentário
+776,29,Masculino,Paulicéia,Fundamental,Solteiro(a),4060.00,C,24,148.18,Tablet,40,Sim,2,5,2,2,3,4,Comédia
+777,47,Masculino,Centro,Superior completo,Solteiro(a),5590.00,C,16,159.89,Notebook,29,Não,4,3,5,2,4,8,Ação
+778,44,Feminino,Jardim do Mar,Médio,Casado(a),1600.00,D,23,172.70,Tablet,71,Não,5,1,4,4,3,6,Drama
+779,40,Feminino,Jardim do Mar,Superior completo,Divorciado(a),2530.00,D,22,203.41,Tablet,15,Não,5,3,5,4,5,8,Documentário
+780,26,Masculino,Jardim do Mar,Superior completo,Solteiro(a),4650.00,C,16,170.66,Notebook,5,Não,3,3,1,4,2,3,Ação
+781,24,Masculino,Demarchi,Superior completo,Casado(a),3850.00,C,20,160.53,Tablet,11,Não,3,4,4,4,3,4,Comédia
+782,44,Masculino,Rudge Ramos,Superior incompleto,Casado(a),2500.00,D,21,158.49,Notebook,5,Sim,4,4,3,5,4,4,Infantil
+783,56,Feminino,Baeta Neves,Pós-graduação,Casado(a),2490.00,D,20,172.20,Smart TV,36,Não,5,3,4,3,4,7,Ação
+784,46,Masculino,Ferrazópolis,Superior incompleto,Solteiro(a),1300.00,D,14,168.70,Notebook,63,Sim,5,4,5,2,4,6,Ação
+785,59,Masculino,Baeta Neves,Pós-graduação,Viúvo(a),1860.00,D,29,174.15,Notebook,36,Sim,4,1,4,3,4,6,Infantil
+786,25,Feminino,Baeta Neves,Superior incompleto,Solteiro(a),2280.00,D,30,199.43,Notebook,4,Sim,5,4,4,4,4,7,Ação
+787,68,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),3070.00,C,18,165.98,Celular,63,Sim,4,3,3,2,4,6,Drama
+788,55,Masculino,Ferrazópolis,Superior completo,Solteiro(a),4000.00,C,18,187.72,Smart TV,66,Não,5,2,5,1,4,7,Drama
+789,53,Feminino,Demarchi,Médio,Casado(a),3400.00,C,12,197.57,Celular,55,Não,5,1,3,2,4,5,Documentário
+790,61,Feminino,Paulicéia,Pós-graduação,União estável,10600.00,B,23,204.67,Smart TV,7,Sim,4,3,3,3,3,4,Documentário
+791,68,Feminino,Centro,Médio,Solteiro(a),1950.00,D,22,143.26,Tablet,17,Não,3,2,3,3,3,3,Documentário
+792,61,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),1590.00,D,21,204.80,Celular,9,Não,5,2,4,3,4,6,Infantil
+793,43,Masculino,Taboão,Fundamental,União estável,1450.00,D,19,152.22,Tablet,48,Não,4,3,4,3,4,6,Documentário
+794,56,Feminino,Paulicéia,Superior completo,Casado(a),7090.00,B,22,134.02,Tablet,24,Sim,2,5,2,2,3,2,Ação
+795,40,Feminino,Ferrazópolis,Pós-graduação,Viúvo(a),3550.00,C,28,211.34,Tablet,4,Sim,5,2,5,4,3,5,Drama
+796,25,Masculino,Baeta Neves,Médio,Casado(a),3650.00,C,23,164.21,Celular,53,Sim,4,4,4,3,4,4,Ação
+797,70,Masculino,Baeta Neves,Médio,Casado(a),2150.00,D,30,149.93,Celular,54,Sim,4,2,5,2,3,7,Comédia
+798,50,Feminino,Ferrazópolis,Pós-graduação,Casado(a),2930.00,D,19,158.91,Smart TV,42,Não,4,2,3,2,3,5,Documentário
+799,59,Feminino,Paulicéia,Superior completo,Solteiro(a),1560.00,D,12,172.43,Smart TV,13,Sim,5,2,3,2,3,3,Infantil
+800,55,Feminino,Baeta Neves,Pós-graduação,Casado(a),3230.00,C,22,166.40,Celular,66,Sim,3,5,3,4,3,5,Comédia
+801,35,Masculino,Taboão,Pós-graduação,Solteiro(a),3470.00,C,20,156.06,Celular,29,Não,4,3,5,2,4,7,Ação
+802,58,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),5600.00,C,30,192.47,Celular,46,Não,4,3,5,3,5,7,Ação
+803,35,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),4450.00,C,18,218.01,Notebook,1,Não,5,3,4,3,3,4,Drama
+804,55,Masculino,Ferrazópolis,Superior completo,Solteiro(a),8120.00,B,30,165.82,Tablet,43,Sim,2,3,3,2,2,3,Ação
+805,61,Feminino,Paulicéia,Pós-graduação,Casado(a),3580.00,C,18,189.16,Smart TV,65,Não,5,3,4,2,3,6,Comédia
+806,51,Masculino,Demarchi,Médio,Solteiro(a),2870.00,D,22,166.49,Celular,42,Sim,4,5,4,2,3,6,Infantil
+807,43,Masculino,Jardim do Mar,Superior incompleto,Divorciado(a),2790.00,D,31,140.88,Smart TV,21,Sim,3,3,4,3,3,4,Comédia
+808,56,Feminino,Taboão,Superior incompleto,Solteiro(a),2160.00,D,20,138.43,Notebook,30,Não,3,3,3,2,3,5,Documentário
+809,21,Masculino,Bairro Assunção,Médio,Casado(a),2740.00,D,22,228.30,Smart TV,20,Não,5,3,5,5,5,8,Ação
+810,63,Feminino,Paulicéia,Médio,Solteiro(a),2380.00,D,25,178.37,Tablet,47,Sim,4,4,5,2,4,6,Comédia
+811,44,Masculino,Taboão,Pós-graduação,Solteiro(a),7570.00,B,18,197.65,Notebook,39,Sim,4,3,3,3,3,5,Drama
+812,48,Feminino,Taboão,Médio,Casado(a),1780.00,D,24,146.33,Tablet,71,Não,3,2,3,3,3,4,Drama
+813,28,Feminino,Demarchi,Fundamental,Casado(a),1780.00,D,20,146.35,Notebook,2,Não,3,3,5,5,4,8,Drama
+814,25,Feminino,Paulicéia,Superior incompleto,Casado(a),1490.00,D,20,182.78,Tablet,70,Não,5,4,5,4,4,6,Infantil
+815,37,Feminino,Paulicéia,Médio,Solteiro(a),2830.00,D,12,130.61,Celular,21,Sim,3,4,5,2,3,5,Infantil
+816,61,Feminino,Jardim do Mar,Pós-graduação,Divorciado(a),2110.00,D,15,183.41,Tablet,8,Não,5,3,5,2,4,8,Infantil
+817,18,Feminino,Bairro Assunção,Superior completo,Solteiro(a),2850.00,D,23,204.76,Celular,19,Não,5,3,5,3,4,7,Documentário
+818,53,Feminino,Rudge Ramos,Superior incompleto,Casado(a),1730.00,D,23,132.93,Celular,33,Não,3,4,2,2,3,3,Drama
+819,70,Feminino,Paulicéia,Pós-graduação,Casado(a),2550.00,D,12,162.58,Celular,54,Sim,4,1,3,2,2,2,Documentário
+820,54,Feminino,Ferrazópolis,Superior incompleto,Solteiro(a),2080.00,D,20,87.36,Tablet,43,Sim,2,3,3,3,2,3,Infantil
+821,33,Masculino,Jardim do Mar,Médio,Solteiro(a),3320.00,C,18,118.97,Tablet,17,Não,2,3,2,2,3,2,Documentário
+822,33,Masculino,Centro,Superior completo,Solteiro(a),2910.00,D,19,194.52,Notebook,52,Sim,5,3,4,4,4,7,Documentário
+823,35,Masculino,Centro,Superior completo,Solteiro(a),2900.00,D,15,177.39,Celular,3,Não,5,3,5,3,5,7,Documentário
+824,25,Masculino,Baeta Neves,Médio,Solteiro(a),2980.00,D,15,165.33,Celular,22,Sim,3,4,4,5,3,5,Drama
+825,49,Feminino,Ferrazópolis,Fundamental,Viúvo(a),1680.00,D,22,165.45,Notebook,70,Sim,3,1,4,4,3,7,Drama
+826,59,Feminino,Taboão,Fundamental,Solteiro(a),1300.00,D,20,137.14,Notebook,71,Não,3,2,4,3,3,6,Comédia
+827,45,Masculino,Ferrazópolis,Médio,União estável,1530.00,D,21,164.74,Celular,23,Sim,3,2,5,5,2,4,Comédia
+828,20,Feminino,Paulicéia,Superior completo,União estável,2540.00,D,20,195.23,Tablet,30,Sim,5,2,5,4,3,7,Infantil
+829,63,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),3780.00,C,32,199.31,Smart TV,26,Não,4,2,5,2,4,6,Ação
+830,39,Feminino,Demarchi,Médio,Casado(a),3150.00,C,21,98.49,Smart TV,21,Sim,2,5,2,2,2,1,Ação
+831,45,Feminino,Rudge Ramos,Superior completo,Viúvo(a),2990.00,D,19,208.73,Smart TV,14,Sim,5,4,5,5,4,7,Drama
+832,44,Feminino,Ferrazópolis,Médio,Solteiro(a),3950.00,C,18,201.72,Tablet,57,Sim,5,3,5,2,4,9,Drama
+833,51,Masculino,Rudge Ramos,Fundamental,Casado(a),2680.00,D,25,156.71,Smart TV,47,Sim,4,3,4,1,3,6,Ação
+834,18,Masculino,Rudge Ramos,Superior incompleto,Casado(a),1350.00,D,20,154.12,Notebook,43,Sim,3,2,3,3,4,5,Ação
+835,30,Masculino,Rudge Ramos,Médio,Casado(a),1300.00,D,25,155.42,Tablet,56,Sim,5,3,3,2,4,5,Comédia
+836,49,Masculino,Jardim do Mar,Fundamental,Divorciado(a),1440.00,D,18,183.81,Celular,66,Sim,5,2,5,3,3,6,Ação
+837,38,Masculino,Rudge Ramos,Médio,Solteiro(a),2600.00,D,19,189.61,Tablet,62,Não,5,1,3,3,4,9,Infantil
+838,24,Masculino,Bairro Assunção,Médio,Solteiro(a),2730.00,D,22,184.56,Celular,8,Não,4,2,4,5,3,5,Ação
+839,66,Masculino,Jardim do Mar,Médio,Casado(a),2600.00,D,20,135.10,Celular,56,Não,4,4,4,1,3,7,Infantil
+840,30,Feminino,Rudge Ramos,Superior incompleto,Solteiro(a),2810.00,D,23,112.86,Celular,4,Não,2,1,4,2,2,4,Comédia
+841,29,Feminino,Demarchi,Pós-graduação,Casado(a),6110.00,B,22,170.61,Celular,52,Não,3,5,2,4,4,6,Documentário
+842,70,Masculino,Rudge Ramos,Pós-graduação,Casado(a),4000.00,C,22,173.92,Celular,68,Não,4,4,5,2,4,8,Documentário
+843,30,Masculino,Baeta Neves,Superior incompleto,Casado(a),3120.00,C,18,176.90,Smart TV,68,Não,4,3,4,2,4,7,Comédia
+844,47,Feminino,Jardim do Mar,Médio,União estável,5190.00,C,17,176.98,Smart TV,33,Não,4,4,4,2,4,6,Ação
+845,45,Masculino,Nova Petrópolis,Fundamental,Casado(a),1300.00,D,24,168.31,Celular,70,Não,4,3,4,3,4,6,Documentário
+846,69,Feminino,Baeta Neves,Superior incompleto,Casado(a),6720.00,B,17,199.91,Smart TV,16,Sim,4,1,4,2,3,6,Infantil
+847,68,Masculino,Taboão,Superior completo,Viúvo(a),1300.00,D,15,165.57,Celular,67,Não,4,2,2,2,3,5,Drama
+848,44,Masculino,Demarchi,Superior incompleto,Solteiro(a),1940.00,D,18,167.03,Celular,54,Sim,5,2,4,4,4,8,Infantil
+849,20,Masculino,Jardim do Mar,Fundamental,Casado(a),1570.00,D,24,205.99,Notebook,58,Não,5,4,5,4,5,10,Documentário
+850,60,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),1620.00,D,25,175.21,Smart TV,72,Não,4,2,5,3,5,8,Drama
+851,51,Feminino,Bairro Assunção,Médio,Casado(a),2390.00,D,26,175.19,Notebook,56,Sim,4,3,3,4,4,5,Documentário
+852,20,Masculino,Centro,Superior incompleto,Divorciado(a),2500.00,D,19,177.50,Smart TV,72,Sim,4,2,4,5,3,4,Documentário
+853,25,Feminino,Nova Petrópolis,Pós-graduação,União estável,4630.00,C,21,144.23,Smart TV,32,Não,3,3,4,3,3,5,Documentário
+854,33,Masculino,Centro,Superior completo,Casado(a),4180.00,C,22,187.79,Tablet,70,Sim,5,2,5,4,5,10,Documentário
+855,62,Feminino,Demarchi,Superior incompleto,Divorciado(a),3280.00,C,26,193.88,Tablet,59,Não,4,5,3,4,3,4,Infantil
+856,33,Feminino,Centro,Pós-graduação,Solteiro(a),5670.00,C,25,214.20,Notebook,12,Sim,4,3,3,5,3,4,Drama
+857,64,Masculino,Rudge Ramos,Médio,Casado(a),3620.00,C,22,175.02,Smart TV,27,Não,4,2,4,3,3,6,Drama
+858,21,Masculino,Demarchi,Médio,União estável,1970.00,D,21,181.84,Tablet,62,Não,4,4,4,4,4,6,Comédia
+859,45,Masculino,Ferrazópolis,Médio,Casado(a),2650.00,D,24,183.68,Tablet,45,Não,4,1,4,3,3,5,Comédia
+860,68,Masculino,Rudge Ramos,Pós-graduação,Casado(a),2960.00,D,21,157.71,Notebook,9,Sim,4,3,4,4,4,8,Documentário
+861,52,Feminino,Paulicéia,Pós-graduação,Divorciado(a),2130.00,D,22,179.27,Celular,43,Não,5,1,4,1,4,6,Infantil
+862,44,Masculino,Baeta Neves,Médio,Solteiro(a),3030.00,C,20,176.27,Celular,26,Sim,4,4,4,4,4,6,Comédia
+863,38,Masculino,Rudge Ramos,Fundamental,Casado(a),1300.00,D,26,169.49,Smart TV,9,Sim,4,4,5,3,3,6,Infantil
+864,49,Masculino,Baeta Neves,Pós-graduação,Casado(a),3360.00,C,20,192.40,Tablet,13,Não,5,3,4,2,4,7,Comédia
+865,31,Masculino,Jardim do Mar,Superior incompleto,Casado(a),1300.00,D,18,138.04,Tablet,15,Não,3,2,4,2,2,7,Documentário
+866,45,Masculino,Demarchi,Superior completo,Viúvo(a),3290.00,C,21,163.75,Notebook,26,Não,5,2,4,1,4,8,Ação
+867,20,Masculino,Taboão,Fundamental,Casado(a),1450.00,D,18,143.97,Notebook,65,Não,2,3,4,5,2,8,Documentário
+868,31,Masculino,Taboão,Superior incompleto,Solteiro(a),3460.00,C,14,179.98,Notebook,18,Sim,4,5,5,5,4,6,Drama
+869,56,Feminino,Bairro Assunção,Superior completo,Divorciado(a),3020.00,C,21,115.01,Celular,13,Sim,2,5,2,2,3,5,Documentário
+870,66,Masculino,Centro,Superior incompleto,Solteiro(a),2910.00,D,18,117.35,Smart TV,65,Sim,3,4,3,2,2,5,Ação
+871,40,Feminino,Ferrazópolis,Pós-graduação,Casado(a),3610.00,C,22,206.42,Celular,36,Não,5,2,5,4,3,6,Drama
+872,53,Feminino,Baeta Neves,Superior incompleto,União estável,2220.00,D,21,167.10,Smart TV,72,Não,4,4,4,3,4,6,Infantil
+873,42,Feminino,Nova Petrópolis,Superior incompleto,Divorciado(a),2170.00,D,26,152.06,Tablet,23,Não,3,4,5,4,3,7,Comédia
+874,24,Feminino,Rudge Ramos,Médio,Casado(a),1790.00,D,23,180.91,Smart TV,13,Sim,5,3,3,3,5,7,Drama
+875,68,Masculino,Rudge Ramos,Superior completo,União estável,3310.00,C,29,187.22,Tablet,62,Não,5,3,5,3,4,6,Drama
+876,42,Feminino,Jardim do Mar,Superior incompleto,Casado(a),2180.00,D,21,189.78,Smart TV,10,Sim,4,4,5,5,3,4,Documentário
+877,23,Masculino,Rudge Ramos,Superior completo,Solteiro(a),3580.00,C,14,103.13,Notebook,54,Não,2,3,3,3,2,1,Documentário
+878,18,Feminino,Jardim do Mar,Superior completo,Casado(a),1300.00,D,18,201.46,Tablet,12,Sim,5,4,4,4,4,7,Drama
+879,28,Masculino,Bairro Assunção,Médio,Casado(a),1300.00,D,19,188.63,Celular,62,Sim,4,2,3,4,3,5,Drama
+880,53,Feminino,Rudge Ramos,Médio,União estável,6060.00,B,22,217.46,Tablet,41,Sim,4,2,4,3,3,4,Documentário
+881,35,Feminino,Demarchi,Médio,Casado(a),1980.00,D,10,178.88,Smart TV,11,Sim,5,2,5,4,4,8,Ação
+882,45,Feminino,Rudge Ramos,Médio,Solteiro(a),1590.00,D,19,162.13,Smart TV,64,Sim,4,5,2,2,4,5,Infantil
+883,26,Masculino,Bairro Assunção,Pós-graduação,Solteiro(a),3300.00,C,26,208.55,Tablet,21,Não,5,2,4,5,4,7,Comédia
+884,65,Feminino,Rudge Ramos,Médio,Solteiro(a),3840.00,C,20,191.23,Smart TV,54,Não,4,4,4,3,4,7,Drama
+885,69,Masculino,Centro,Fundamental,Divorciado(a),3270.00,C,19,193.84,Notebook,14,Não,5,4,5,2,5,9,Ação
+886,68,Feminino,Centro,Pós-graduação,Casado(a),2820.00,D,23,199.91,Celular,31,Não,5,3,5,4,5,10,Comédia
+887,51,Feminino,Jardim do Mar,Médio,Solteiro(a),2040.00,D,16,176.82,Smart TV,19,Sim,5,2,4,3,3,6,Drama
+888,23,Masculino,Rudge Ramos,Médio,Solteiro(a),1980.00,D,23,193.95,Celular,70,Não,5,2,4,4,3,4,Documentário
+889,24,Masculino,Bairro Assunção,Médio,Solteiro(a),2650.00,D,18,136.31,Notebook,9,Sim,3,4,4,3,4,9,Infantil
+890,22,Feminino,Rudge Ramos,Superior incompleto,Casado(a),2630.00,D,19,159.49,Notebook,39,Sim,3,2,3,5,3,3,Infantil
+891,44,Masculino,Centro,Médio,Divorciado(a),1650.00,D,13,152.73,Tablet,20,Sim,4,1,5,2,3,6,Infantil
+892,65,Feminino,Rudge Ramos,Pós-graduação,Viúvo(a),3100.00,C,20,196.95,Smart TV,57,Não,5,4,4,4,4,9,Ação
+893,60,Feminino,Rudge Ramos,Superior incompleto,Casado(a),2670.00,D,18,177.29,Celular,40,Sim,5,1,4,2,4,7,Drama
+894,45,Feminino,Rudge Ramos,Fundamental,Solteiro(a),4340.00,C,24,181.57,Celular,36,Sim,4,3,4,2,3,4,Documentário
+895,57,Feminino,Baeta Neves,Superior incompleto,Solteiro(a),2740.00,D,18,169.85,Smart TV,58,Sim,4,1,4,2,3,6,Documentário
+896,42,Feminino,Nova Petrópolis,Médio,Casado(a),10990.00,B,18,216.19,Tablet,48,Não,4,3,4,4,4,7,Ação
+897,51,Feminino,Rudge Ramos,Médio,Casado(a),2280.00,D,18,150.53,Celular,48,Não,4,3,3,1,4,6,Infantil
+898,48,Masculino,Bairro Assunção,Pós-graduação,Solteiro(a),1710.00,D,22,178.39,Celular,28,Não,5,3,3,3,4,5,Infantil
+899,50,Feminino,Baeta Neves,Fundamental,Solteiro(a),2660.00,D,17,230.75,Notebook,17,Não,5,4,5,4,5,7,Infantil
+900,42,Feminino,Baeta Neves,Superior completo,Divorciado(a),5050.00,C,18,203.01,Tablet,4,Não,5,3,5,4,4,6,Documentário
+901,57,Feminino,Rudge Ramos,Superior completo,Casado(a),4150.00,C,13,194.44,Smart TV,41,Não,5,4,4,2,4,5,Documentário
+902,50,Outro,Taboão,Médio,Casado(a),2800.00,D,17,166.64,Notebook,45,Não,4,3,5,2,4,9,Infantil
+903,32,Feminino,Nova Petrópolis,Superior incompleto,Casado(a),2260.00,D,19,158.58,Smart TV,18,Não,4,4,2,3,3,2,Ação
+904,68,Feminino,Nova Petrópolis,Fundamental,Casado(a),2150.00,D,21,156.58,Celular,21,Sim,4,2,3,3,3,4,Ação
+905,44,Masculino,Demarchi,Superior incompleto,Solteiro(a),1300.00,D,26,160.95,Tablet,5,Sim,4,2,4,3,4,8,Documentário
+906,50,Feminino,Bairro Assunção,Superior incompleto,União estável,4250.00,C,19,183.12,Notebook,40,Não,4,3,5,5,3,7,Ação
+907,46,Feminino,Ferrazópolis,Superior incompleto,Solteiro(a),2400.00,D,18,193.16,Tablet,69,Não,5,2,4,3,4,8,Comédia
+908,34,Masculino,Jardim do Mar,Superior completo,Solteiro(a),5110.00,C,26,193.46,Notebook,47,Não,5,5,5,2,5,8,Drama
+909,22,Feminino,Taboão,Pós-graduação,Casado(a),2580.00,D,31,152.24,Celular,6,Sim,3,3,3,3,3,5,Infantil
+910,29,Feminino,Nova Petrópolis,Superior incompleto,Casado(a),2590.00,D,22,152.77,Tablet,33,Não,4,2,5,4,4,9,Ação
+911,68,Masculino,Centro,Pós-graduação,Casado(a),6920.00,B,21,154.34,Notebook,67,Não,3,4,5,2,4,8,Infantil
+912,69,Outro,Rudge Ramos,Pós-graduação,União estável,7220.00,B,23,209.78,Smart TV,12,Não,5,5,3,2,4,7,Ação
+913,26,Masculino,Bairro Assunção,Médio,Solteiro(a),3400.00,C,19,224.41,Tablet,19,Sim,5,3,5,5,4,6,Documentário
+914,48,Masculino,Ferrazópolis,Médio,Solteiro(a),1300.00,D,26,134.63,Notebook,58,Não,4,4,4,2,4,7,Ação
+915,31,Feminino,Baeta Neves,Superior incompleto,Solteiro(a),1510.00,D,23,192.74,Tablet,49,Sim,5,3,3,2,4,6,Documentário
+916,48,Masculino,Bairro Assunção,Superior incompleto,Solteiro(a),3930.00,C,18,167.50,Notebook,13,Sim,3,4,4,4,4,6,Ação
+917,52,Masculino,Rudge Ramos,Médio,Divorciado(a),1890.00,D,18,142.41,Smart TV,1,Não,4,4,3,3,4,5,Infantil
+918,19,Masculino,Demarchi,Fundamental,Casado(a),2070.00,D,17,170.88,Celular,10,Sim,4,3,3,3,4,6,Ação
+919,68,Feminino,Jardim do Mar,Superior completo,Solteiro(a),3840.00,C,15,162.88,Tablet,41,Sim,4,4,4,3,3,4,Drama
+920,66,Masculino,Paulicéia,Superior incompleto,Casado(a),3450.00,C,23,167.55,Notebook,23,Não,4,4,3,1,3,4,Comédia
+921,68,Masculino,Bairro Assunção,Fundamental,Casado(a),1520.00,D,20,186.69,Smart TV,13,Não,5,1,5,2,4,8,Drama
+922,42,Feminino,Demarchi,Pós-graduação,União estável,5630.00,C,18,116.30,Smart TV,5,Não,1,4,2,2,2,3,Drama
+923,56,Masculino,Demarchi,Pós-graduação,Solteiro(a),2970.00,D,24,134.96,Celular,7,Sim,3,3,5,2,3,6,Documentário
+924,70,Masculino,Taboão,Fundamental,Casado(a),3210.00,C,21,205.45,Celular,26,Sim,5,3,4,3,4,6,Ação
+925,28,Feminino,Nova Petrópolis,Superior incompleto,Solteiro(a),2410.00,D,24,171.94,Notebook,17,Sim,3,1,4,4,3,4,Ação
+926,26,Masculino,Nova Petrópolis,Superior completo,União estável,7020.00,B,19,191.62,Celular,55,Sim,4,4,4,3,3,4,Documentário
+927,60,Feminino,Baeta Neves,Médio,União estável,5110.00,C,15,203.69,Celular,55,Sim,5,2,3,3,3,6,Ação
+928,35,Feminino,Rudge Ramos,Médio,Casado(a),6290.00,B,27,203.26,Celular,57,Não,4,2,5,3,3,6,Documentário
+929,27,Masculino,Taboão,Médio,Casado(a),4910.00,C,12,135.80,Smart TV,52,Sim,3,2,4,5,3,5,Ação
+930,29,Masculino,Nova Petrópolis,Médio,Casado(a),2220.00,D,26,189.54,Notebook,33,Não,5,1,4,4,4,7,Comédia
+931,54,Feminino,Taboão,Superior completo,Casado(a),2600.00,D,21,205.69,Smart TV,14,Não,5,3,5,3,4,8,Drama
+932,38,Masculino,Baeta Neves,Fundamental,Casado(a),1300.00,D,25,165.65,Tablet,14,Sim,4,5,5,3,5,7,Comédia
+933,34,Masculino,Ferrazópolis,Superior completo,Casado(a),3440.00,C,22,189.05,Tablet,45,Sim,5,3,4,2,3,5,Drama
+934,69,Masculino,Paulicéia,Superior incompleto,Viúvo(a),3150.00,C,18,184.10,Smart TV,71,Não,5,4,5,3,5,9,Infantil
+935,69,Feminino,Paulicéia,Superior completo,Casado(a),3440.00,C,27,209.46,Notebook,53,Sim,5,3,5,4,4,7,Drama
+936,39,Outro,Ferrazópolis,Pós-graduação,Solteiro(a),2420.00,D,18,168.15,Celular,60,Não,4,3,4,4,4,8,Comédia
+937,30,Masculino,Ferrazópolis,Superior incompleto,Casado(a),3140.00,C,17,158.88,Notebook,61,Não,5,3,5,1,3,7,Ação
+938,61,Masculino,Nova Petrópolis,Fundamental,Casado(a),2000.00,D,22,182.13,Celular,1,Sim,4,4,4,3,3,4,Infantil
+939,57,Feminino,Centro,Superior incompleto,Solteiro(a),2390.00,D,17,126.50,Celular,66,Sim,3,2,2,2,2,0,Infantil
+940,58,Feminino,Jardim do Mar,Médio,Casado(a),2850.00,D,20,167.34,Tablet,44,Não,4,3,4,3,2,4,Comédia
+941,29,Feminino,Taboão,Superior incompleto,Solteiro(a),2560.00,D,26,174.46,Smart TV,63,Sim,5,4,4,3,3,4,Ação
+942,33,Feminino,Bairro Assunção,Médio,Casado(a),1300.00,D,23,132.38,Notebook,69,Não,3,4,3,3,3,5,Ação
+943,22,Masculino,Centro,Fundamental,Solteiro(a),1420.00,D,21,119.09,Notebook,10,Sim,2,3,2,2,2,4,Documentário
+944,48,Masculino,Jardim do Mar,Superior incompleto,Solteiro(a),3640.00,C,15,208.01,Tablet,67,Não,5,4,4,3,4,5,Infantil
+945,20,Masculino,Centro,Médio,União estável,2220.00,D,21,182.62,Celular,40,Não,4,3,3,5,3,5,Ação
+946,63,Feminino,Centro,Fundamental,Solteiro(a),1300.00,D,22,178.80,Notebook,29,Não,5,3,5,3,4,8,Documentário
+947,34,Masculino,Jardim do Mar,Fundamental,Solteiro(a),2920.00,D,25,188.83,Tablet,70,Não,4,1,5,5,4,8,Drama
+948,50,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),3590.00,C,16,203.11,Notebook,45,Não,5,4,4,3,5,8,Documentário
+949,26,Masculino,Ferrazópolis,Pós-graduação,Casado(a),2070.00,D,31,153.46,Celular,47,Não,4,4,5,3,5,6,Documentário
+950,32,Feminino,Ferrazópolis,Superior completo,Viúvo(a),2240.00,D,24,203.45,Tablet,45,Sim,5,3,4,4,4,6,Drama
+951,32,Feminino,Paulicéia,Médio,Casado(a),2570.00,D,25,165.62,Tablet,46,Sim,4,3,3,1,3,4,Drama
+952,63,Feminino,Demarchi,Superior completo,União estável,1300.00,D,22,185.58,Smart TV,53,Não,5,4,5,3,4,8,Infantil
+953,69,Feminino,Paulicéia,Superior incompleto,Solteiro(a),3760.00,C,33,182.33,Smart TV,26,Não,4,1,4,3,3,6,Comédia
+954,47,Masculino,Paulicéia,Fundamental,Solteiro(a),3500.00,C,22,151.78,Tablet,68,Não,4,3,4,1,3,4,Ação
+955,23,Masculino,Bairro Assunção,Pós-graduação,União estável,4920.00,C,9,205.09,Tablet,49,Não,5,3,3,3,3,2,Documentário
+956,69,Feminino,Demarchi,Superior incompleto,Solteiro(a),5240.00,C,15,162.74,Celular,34,Sim,3,2,3,1,4,4,Ação
+957,33,Masculino,Nova Petrópolis,Superior incompleto,Casado(a),1900.00,D,22,166.28,Celular,39,Sim,3,3,3,4,3,6,Documentário
+958,52,Masculino,Ferrazópolis,Pós-graduação,Casado(a),5890.00,C,18,173.43,Tablet,5,Sim,4,1,4,2,4,6,Ação
+959,30,Masculino,Rudge Ramos,Superior completo,União estável,3400.00,C,14,166.41,Smart TV,7,Não,4,4,3,3,4,4,Infantil
+960,41,Masculino,Taboão,Superior incompleto,Casado(a),1910.00,D,20,166.35,Smart TV,52,Sim,4,3,4,1,3,4,Documentário
+961,19,Feminino,Bairro Assunção,Pós-graduação,União estável,4000.00,C,25,163.14,Notebook,28,Não,3,3,5,3,3,6,Infantil
+962,41,Masculino,Rudge Ramos,Superior completo,Casado(a),3820.00,C,23,201.32,Smart TV,69,Sim,5,4,4,2,5,8,Comédia
+963,53,Feminino,Rudge Ramos,Superior incompleto,Solteiro(a),5840.00,C,26,186.34,Smart TV,31,Não,5,4,2,2,4,7,Drama
+964,64,Feminino,Demarchi,Superior completo,Solteiro(a),5900.00,C,22,217.38,Smart TV,63,Não,5,4,5,2,5,8,Documentário
+965,68,Feminino,Nova Petrópolis,Fundamental,Casado(a),1790.00,D,21,192.87,Tablet,52,Não,5,3,4,4,5,8,Infantil
+966,69,Feminino,Paulicéia,Pós-graduação,Solteiro(a),4620.00,C,28,140.02,Smart TV,2,Não,2,2,2,3,2,2,Ação
+967,69,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),4590.00,C,24,159.57,Tablet,25,Sim,4,5,4,1,4,7,Drama
+968,39,Feminino,Nova Petrópolis,Médio,Casado(a),2740.00,D,10,216.24,Smart TV,64,Não,5,4,3,4,4,8,Comédia
+969,31,Masculino,Nova Petrópolis,Fundamental,Casado(a),1840.00,D,15,181.84,Tablet,57,Sim,5,3,4,4,4,8,Comédia
+970,26,Feminino,Bairro Assunção,Pós-graduação,Casado(a),7340.00,B,22,229.47,Celular,11,Sim,4,4,4,4,3,7,Ação
+971,26,Feminino,Ferrazópolis,Superior incompleto,Viúvo(a),1980.00,D,11,200.22,Celular,17,Sim,5,4,5,5,5,9,Drama
+972,20,Feminino,Rudge Ramos,Médio,Solteiro(a),4810.00,C,27,198.85,Smart TV,71,Sim,4,5,4,5,4,4,Infantil
+973,55,Feminino,Jardim do Mar,Pós-graduação,Viúvo(a),1970.00,D,18,98.22,Celular,34,Não,2,5,1,2,2,0,Infantil
+974,35,Feminino,Bairro Assunção,Superior incompleto,Casado(a),2290.00,D,17,151.97,Smart TV,54,Não,4,2,3,2,3,5,Documentário
+975,44,Masculino,Centro,Médio,Divorciado(a),3530.00,C,23,157.24,Smart TV,36,Não,3,5,5,4,3,6,Ação
+976,36,Feminino,Ferrazópolis,Superior completo,Casado(a),1920.00,D,26,138.14,Celular,10,Não,3,3,3,2,3,4,Ação
+977,46,Feminino,Paulicéia,Superior completo,Solteiro(a),2300.00,D,21,198.27,Celular,41,Não,5,1,5,3,4,6,Documentário
+978,40,Masculino,Ferrazópolis,Superior incompleto,Casado(a),3530.00,C,17,163.18,Notebook,8,Não,4,4,4,2,4,8,Documentário
+979,49,Feminino,Nova Petrópolis,Superior completo,Divorciado(a),1490.00,D,15,173.90,Tablet,67,Sim,4,5,4,4,4,8,Ação
+980,25,Masculino,Rudge Ramos,Fundamental,Casado(a),3380.00,C,17,162.47,Smart TV,21,Sim,3,4,4,3,3,5,Drama
+981,65,Feminino,Taboão,Médio,União estável,5290.00,C,26,217.44,Celular,61,Não,5,3,3,2,4,5,Infantil
+982,44,Feminino,Baeta Neves,Superior incompleto,Solteiro(a),5590.00,C,20,194.56,Notebook,17,Sim,4,4,3,3,3,6,Infantil
+983,54,Feminino,Baeta Neves,Fundamental,Viúvo(a),2670.00,D,19,184.02,Celular,6,Sim,5,4,3,1,4,7,Documentário
+984,67,Masculino,Bairro Assunção,Fundamental,União estável,2010.00,D,18,135.34,Notebook,1,Não,3,4,4,4,4,4,Ação
+985,22,Feminino,Paulicéia,Superior incompleto,União estável,2190.00,D,21,184.65,Celular,8,Sim,4,4,3,5,4,6,Comédia
+986,30,Masculino,Jardim do Mar,Superior incompleto,Casado(a),3030.00,C,21,135.16,Celular,65,Sim,3,4,3,3,4,6,Ação
+987,46,Feminino,Ferrazópolis,Médio,Divorciado(a),2670.00,D,17,172.72,Notebook,8,Sim,4,2,4,2,3,5,Ação
+988,54,Masculino,Paulicéia,Fundamental,Casado(a),1940.00,D,15,182.60,Smart TV,10,Sim,5,3,5,2,5,7,Ação
+989,43,Masculino,Paulicéia,Médio,Casado(a),5080.00,C,24,175.54,Smart TV,16,Sim,3,3,3,3,3,3,Infantil
+990,20,Feminino,Rudge Ramos,Superior incompleto,União estável,2290.00,D,21,189.34,Notebook,72,Sim,4,3,2,4,3,0,Infantil
+991,54,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),7120.00,B,22,171.01,Notebook,59,Não,3,1,2,2,2,1,Documentário
+992,52,Masculino,Bairro Assunção,Médio,Divorciado(a),2700.00,D,20,154.08,Tablet,20,Não,4,5,3,2,4,3,Infantil
+993,18,Feminino,Baeta Neves,Superior incompleto,Casado(a),2580.00,D,21,157.57,Notebook,32,Sim,4,2,2,5,3,3,Drama
+994,67,Feminino,Taboão,Fundamental,Solteiro(a),3070.00,C,19,194.43,Celular,42,Sim,5,3,5,2,5,9,Ação
+995,65,Feminino,Taboão,Fundamental,Casado(a),3030.00,C,16,175.16,Celular,20,Não,4,3,4,4,4,5,Documentário
+996,32,Feminino,Demarchi,Superior completo,Casado(a),2840.00,D,16,178.14,Notebook,51,Não,4,1,3,3,2,5,Drama
+997,50,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),3720.00,C,18,135.20,Smart TV,20,Não,2,3,4,3,4,9,Ação
+998,61,Masculino,Nova Petrópolis,Médio,Casado(a),3650.00,C,23,152.58,Smart TV,22,Não,3,4,3,2,3,5,Documentário
+999,41,Masculino,Paulicéia,Médio,Solteiro(a),5200.00,C,19,211.17,Tablet,67,Sim,5,5,5,3,5,9,Comédia
+1000,22,Feminino,Demarchi,Superior incompleto,Casado(a),2670.00,D,18,132.12,Tablet,33,Sim,3,3,4,4,4,4,Ação
+1001,39,Masculino,Demarchi,Superior incompleto,Solteiro(a),1940.00,D,24,206.31,Tablet,67,Sim,5,2,4,3,4,7,Ação
+1002,36,Feminino,Nova Petrópolis,Pós-graduação,Solteiro(a),2560.00,D,20,122.28,Notebook,56,Sim,3,2,2,2,2,1,Ação
+1003,61,Masculino,Jardim do Mar,Médio,Solteiro(a),7770.00,B,19,176.85,Tablet,23,Não,4,5,4,1,4,4,Drama
+1004,18,Masculino,Jardim do Mar,Pós-graduação,Solteiro(a),1390.00,D,24,198.87,Celular,5,Sim,5,3,5,5,4,6,Ação
+1005,68,Masculino,Ferrazópolis,Pós-graduação,Casado(a),2310.00,D,24,193.58,Smart TV,11,Sim,5,3,4,3,4,6,Drama
+1006,36,Outro,Taboão,Superior incompleto,Casado(a),2760.00,D,22,111.73,Notebook,27,Não,2,1,3,2,3,4,Documentário
+1007,38,Feminino,Rudge Ramos,Fundamental,Casado(a),1640.00,D,16,186.17,Smart TV,55,Não,5,3,5,4,4,7,Documentário
+1008,34,Masculino,Rudge Ramos,Superior incompleto,Casado(a),3910.00,C,22,171.09,Tablet,57,Sim,3,3,3,4,3,3,Infantil
+1009,19,Masculino,Paulicéia,Pós-graduação,Solteiro(a),4510.00,C,28,200.08,Notebook,30,Sim,5,5,4,4,5,8,Infantil
+1010,54,Feminino,Ferrazópolis,Superior incompleto,União estável,2310.00,D,25,149.89,Notebook,24,Não,4,3,3,1,3,3,Ação
+1011,57,Masculino,Bairro Assunção,Superior completo,Casado(a),6590.00,B,22,129.88,Notebook,52,Sim,3,4,4,1,2,4,Comédia
+1012,33,Feminino,Taboão,Médio,Solteiro(a),1460.00,D,20,149.89,Celular,5,Não,4,1,3,3,2,3,Ação
+1013,24,Masculino,Paulicéia,Superior incompleto,Casado(a),1870.00,D,21,137.46,Notebook,30,Sim,3,3,3,5,3,2,Comédia
+1014,61,Feminino,Bairro Assunção,Médio,Casado(a),5430.00,C,13,183.89,Celular,14,Sim,4,3,2,2,4,4,Drama
+1015,54,Feminino,Ferrazópolis,Médio,Casado(a),1450.00,D,26,167.44,Smart TV,49,Não,4,3,5,3,4,8,Infantil
+1016,33,Masculino,Taboão,Fundamental,Solteiro(a),2480.00,D,26,178.17,Smart TV,49,Não,5,1,4,2,3,6,Drama
+1017,53,Feminino,Paulicéia,Superior completo,Casado(a),6670.00,B,29,191.13,Smart TV,62,Não,5,2,4,4,4,5,Comédia
+1018,29,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),1300.00,D,18,149.49,Tablet,70,Não,4,2,5,4,4,6,Comédia
+1019,51,Masculino,Taboão,Médio,Casado(a),2210.00,D,23,140.07,Celular,16,Sim,4,3,4,1,4,6,Documentário
+1020,44,Feminino,Nova Petrópolis,Fundamental,Casado(a),3400.00,C,15,135.57,Notebook,17,Não,3,1,4,2,3,7,Comédia
+1021,28,Feminino,Jardim do Mar,Superior incompleto,Casado(a),2340.00,D,27,180.13,Smart TV,30,Sim,4,4,4,3,4,7,Documentário
+1022,52,Masculino,Jardim do Mar,Médio,Solteiro(a),2650.00,D,19,151.64,Celular,38,Sim,4,4,5,3,4,6,Ação
+1023,27,Outro,Nova Petrópolis,Superior completo,Solteiro(a),3230.00,C,17,131.17,Celular,53,Sim,3,2,2,3,2,3,Infantil
+1024,65,Feminino,Ferrazópolis,Fundamental,Casado(a),2780.00,D,14,163.57,Tablet,18,Sim,5,5,5,2,4,9,Comédia
+1025,23,Outro,Jardim do Mar,Superior completo,Casado(a),2030.00,D,8,174.71,Tablet,41,Sim,4,3,3,5,3,5,Infantil
+1026,61,Outro,Bairro Assunção,Fundamental,Casado(a),3350.00,C,16,138.07,Notebook,67,Não,4,3,4,2,3,4,Infantil
+1027,33,Feminino,Paulicéia,Médio,Casado(a),2680.00,D,16,170.40,Celular,6,Sim,5,4,5,3,5,10,Drama
+1028,45,Masculino,Demarchi,Fundamental,Solteiro(a),1330.00,D,18,118.14,Smart TV,65,Não,2,3,2,3,1,1,Drama
+1029,63,Masculino,Baeta Neves,Pós-graduação,Casado(a),3140.00,C,22,208.13,Tablet,13,Sim,5,4,5,2,5,8,Comédia
+1030,69,Masculino,Ferrazópolis,Superior incompleto,Casado(a),1650.00,D,23,141.66,Notebook,29,Não,3,2,4,3,3,6,Infantil
+1031,44,Feminino,Baeta Neves,Pós-graduação,Casado(a),3950.00,C,25,136.93,Celular,11,Não,3,3,2,1,2,2,Infantil
+1032,33,Masculino,Paulicéia,Superior incompleto,Casado(a),3360.00,C,13,196.30,Tablet,3,Sim,4,4,4,3,4,6,Infantil
+1033,57,Feminino,Jardim do Mar,Superior completo,Casado(a),3680.00,C,19,185.32,Notebook,21,Não,5,4,5,2,4,8,Infantil
+1034,70,Masculino,Bairro Assunção,Pós-graduação,Casado(a),5090.00,C,17,200.32,Tablet,44,Não,5,5,3,3,3,4,Drama
+1035,33,Feminino,Rudge Ramos,Pós-graduação,Divorciado(a),3640.00,C,24,194.90,Celular,28,Não,5,3,5,3,4,6,Drama
+1036,38,Masculino,Ferrazópolis,Superior completo,Casado(a),4370.00,C,22,198.73,Celular,46,Não,4,3,3,3,4,6,Infantil
+1037,61,Masculino,Jardim do Mar,Superior completo,União estável,3210.00,C,25,133.73,Celular,54,Sim,2,3,3,3,2,5,Drama
+1038,31,Feminino,Taboão,Pós-graduação,União estável,4660.00,C,20,187.80,Tablet,45,Não,4,5,3,3,4,3,Ação
+1039,47,Feminino,Baeta Neves,Superior completo,Solteiro(a),1800.00,D,12,155.22,Tablet,49,Não,3,3,4,5,3,6,Ação
+1040,38,Feminino,Taboão,Superior incompleto,União estável,1470.00,D,25,103.84,Celular,22,Sim,2,2,3,2,2,3,Documentário
+1041,44,Feminino,Jardim do Mar,Superior incompleto,Casado(a),2930.00,D,17,204.70,Notebook,59,Não,5,3,5,5,4,7,Infantil
+1042,49,Outro,Bairro Assunção,Médio,Viúvo(a),3470.00,C,18,154.25,Celular,2,Sim,4,2,3,2,3,4,Infantil
+1043,45,Masculino,Rudge Ramos,Superior incompleto,União estável,2500.00,D,23,189.25,Celular,61,Não,5,3,4,3,5,9,Comédia
+1044,43,Masculino,Jardim do Mar,Pós-graduação,Casado(a),4760.00,C,21,209.95,Notebook,3,Sim,5,3,2,3,3,4,Documentário
+1045,38,Masculino,Rudge Ramos,Pós-graduação,Solteiro(a),4020.00,C,17,190.27,Tablet,46,Não,5,5,5,2,5,7,Documentário
+1046,20,Masculino,Centro,Superior incompleto,Casado(a),1300.00,D,14,168.01,Smart TV,57,Não,4,2,5,3,4,8,Drama
+1047,59,Feminino,Nova Petrópolis,Superior incompleto,Solteiro(a),8510.00,B,18,223.21,Celular,65,Sim,5,3,5,2,5,10,Documentário
+1048,36,Feminino,Paulicéia,Superior completo,Casado(a),1750.00,D,25,176.28,Celular,39,Não,4,4,5,4,4,8,Documentário
+1049,21,Feminino,Paulicéia,Pós-graduação,Casado(a),2140.00,D,17,137.93,Notebook,59,Sim,3,4,3,4,3,2,Ação
+1050,44,Masculino,Nova Petrópolis,Fundamental,Casado(a),3720.00,C,22,177.10,Notebook,20,Não,4,5,4,5,3,6,Ação
+1051,61,Masculino,Ferrazópolis,Superior completo,Solteiro(a),3430.00,C,25,187.06,Tablet,21,Sim,5,3,5,3,5,7,Comédia
+1052,53,Feminino,Jardim do Mar,Superior incompleto,Divorciado(a),2070.00,D,23,196.97,Smart TV,66,Sim,5,2,5,2,4,7,Comédia
+1053,49,Feminino,Centro,Médio,Casado(a),2060.00,D,25,132.63,Notebook,40,Não,4,5,3,1,3,3,Documentário
+1054,68,Masculino,Taboão,Médio,Casado(a),1850.00,D,23,153.38,Celular,64,Não,4,3,3,1,3,5,Comédia
+1055,53,Masculino,Ferrazópolis,Pós-graduação,Divorciado(a),2590.00,D,16,185.83,Smart TV,37,Sim,5,3,3,2,4,5,Documentário
+1056,68,Masculino,Taboão,Médio,Divorciado(a),3930.00,C,16,127.87,Tablet,59,Não,3,4,3,1,4,4,Ação
+1057,65,Feminino,Centro,Superior incompleto,Casado(a),2450.00,D,19,183.77,Smart TV,13,Não,5,1,4,2,4,7,Drama
+1058,45,Masculino,Bairro Assunção,Superior completo,Solteiro(a),1970.00,D,20,167.37,Tablet,45,Sim,4,2,3,3,4,6,Documentário
+1059,21,Masculino,Nova Petrópolis,Médio,Solteiro(a),1620.00,D,22,157.86,Celular,15,Sim,4,2,4,4,3,6,Documentário
+1060,48,Feminino,Paulicéia,Pós-graduação,Casado(a),3400.00,C,30,169.43,Smart TV,45,Não,4,4,3,3,4,5,Documentário
+1061,68,Masculino,Ferrazópolis,Fundamental,Solteiro(a),1740.00,D,16,191.83,Celular,24,Não,5,1,4,4,4,5,Documentário
+1062,54,Feminino,Nova Petrópolis,Pós-graduação,Divorciado(a),3250.00,C,14,144.76,Tablet,39,Não,3,4,3,3,4,6,Infantil
+1063,29,Masculino,Bairro Assunção,Superior completo,Solteiro(a),3500.00,C,31,170.44,Tablet,66,Não,4,5,5,4,3,8,Drama
+1064,62,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),3100.00,C,18,139.64,Celular,14,Não,3,5,4,2,3,4,Documentário
+1065,62,Masculino,Rudge Ramos,Fundamental,Casado(a),1620.00,D,19,155.71,Celular,53,Sim,4,3,4,2,3,6,Comédia
+1066,57,Feminino,Jardim do Mar,Pós-graduação,Casado(a),2760.00,D,12,121.55,Smart TV,53,Sim,2,3,2,2,3,3,Infantil
+1067,26,Masculino,Taboão,Médio,Solteiro(a),4350.00,C,19,192.84,Notebook,23,Não,4,3,4,5,4,9,Comédia
+1068,56,Feminino,Paulicéia,Pós-graduação,Casado(a),10000.00,B,24,209.66,Tablet,38,Sim,4,4,3,3,4,5,Ação
+1069,63,Feminino,Baeta Neves,Médio,União estável,2750.00,D,15,135.20,Smart TV,65,Não,2,3,2,4,2,2,Ação
+1070,41,Feminino,Ferrazópolis,Superior completo,Solteiro(a),4350.00,C,23,169.46,Smart TV,40,Não,3,1,4,3,3,3,Ação
+1071,54,Feminino,Bairro Assunção,Pós-graduação,União estável,2440.00,D,18,157.02,Tablet,11,Sim,4,2,3,4,3,6,Infantil
+1072,64,Masculino,Rudge Ramos,Superior completo,Casado(a),2640.00,D,19,170.53,Notebook,50,Sim,5,4,4,1,5,7,Comédia
+1073,56,Feminino,Bairro Assunção,Fundamental,Casado(a),2850.00,D,25,122.69,Celular,9,Sim,3,2,3,3,2,5,Ação
+1074,53,Masculino,Demarchi,Médio,Divorciado(a),1300.00,D,19,140.72,Notebook,27,Sim,4,2,3,2,2,2,Ação
+1075,40,Masculino,Jardim do Mar,Fundamental,Divorciado(a),3090.00,C,21,165.30,Notebook,61,Não,3,3,3,3,3,4,Drama
+1076,26,Masculino,Rudge Ramos,Pós-graduação,Casado(a),2590.00,D,24,188.59,Notebook,51,Sim,5,1,4,4,4,5,Documentário
+1077,32,Feminino,Nova Petrópolis,Médio,Casado(a),1470.00,D,22,136.33,Smart TV,49,Sim,3,4,3,2,4,4,Ação
+1078,49,Feminino,Centro,Superior incompleto,Solteiro(a),3420.00,C,13,190.86,Tablet,18,Não,5,4,3,2,4,5,Drama
+1079,57,Masculino,Baeta Neves,Superior incompleto,Solteiro(a),5680.00,C,23,180.99,Tablet,2,Não,4,4,3,3,4,5,Drama
+1080,34,Feminino,Jardim do Mar,Médio,Casado(a),2090.00,D,29,101.00,Tablet,63,Não,2,3,4,1,3,5,Infantil
+1081,38,Feminino,Centro,Médio,Casado(a),2780.00,D,20,200.80,Smart TV,18,Não,4,2,4,5,3,3,Ação
+1082,28,Masculino,Demarchi,Superior incompleto,União estável,3240.00,C,21,159.67,Celular,71,Não,3,2,3,3,3,5,Ação
+1083,36,Masculino,Rudge Ramos,Fundamental,Casado(a),2390.00,D,19,224.59,Celular,23,Não,5,4,3,4,4,3,Comédia
+1084,52,Masculino,Centro,Pós-graduação,Casado(a),2360.00,D,18,158.91,Notebook,43,Sim,5,4,5,3,5,8,Infantil
+1085,18,Feminino,Demarchi,Pós-graduação,Casado(a),3570.00,C,14,201.23,Celular,52,Não,5,2,5,3,5,7,Ação
+1086,52,Feminino,Baeta Neves,Superior completo,Casado(a),3560.00,C,23,122.65,Celular,28,Não,3,2,5,3,4,8,Documentário
+1087,21,Feminino,Jardim do Mar,Superior incompleto,Viúvo(a),1300.00,D,25,169.70,Tablet,58,Sim,4,3,4,4,5,9,Drama
+1088,68,Masculino,Bairro Assunção,Fundamental,Divorciado(a),3590.00,C,17,169.74,Notebook,21,Não,4,4,3,3,3,5,Infantil
+1089,57,Outro,Ferrazópolis,Médio,Solteiro(a),1340.00,D,28,182.13,Tablet,33,Não,5,4,5,4,5,8,Comédia
+1090,69,Masculino,Rudge Ramos,Superior incompleto,Divorciado(a),3300.00,C,18,163.88,Notebook,65,Sim,4,4,4,3,5,7,Drama
+1091,37,Masculino,Demarchi,Fundamental,Viúvo(a),4270.00,C,25,193.36,Notebook,23,Não,5,3,4,2,4,6,Drama
+1092,39,Masculino,Taboão,Superior completo,Solteiro(a),2790.00,D,26,129.32,Celular,24,Não,2,4,2,3,2,2,Comédia
+1093,43,Masculino,Nova Petrópolis,Superior incompleto,Casado(a),1750.00,D,19,141.07,Celular,7,Não,4,3,3,2,3,5,Comédia
+1094,27,Feminino,Rudge Ramos,Superior completo,Casado(a),3820.00,C,21,142.90,Celular,59,Não,3,3,4,3,4,7,Documentário
+1095,56,Masculino,Demarchi,Superior incompleto,Casado(a),5560.00,C,24,193.92,Tablet,5,Não,4,4,5,3,4,5,Ação
+1096,25,Masculino,Rudge Ramos,Fundamental,União estável,1300.00,D,14,156.75,Notebook,30,Sim,3,4,3,5,3,5,Infantil
+1097,62,Feminino,Ferrazópolis,Superior completo,Divorciado(a),1300.00,D,21,216.18,Celular,21,Sim,5,4,5,3,4,8,Infantil
+1098,69,Masculino,Bairro Assunção,Superior completo,Solteiro(a),5980.00,C,19,213.71,Tablet,64,Não,5,3,5,3,5,8,Ação
+1099,31,Feminino,Ferrazópolis,Superior incompleto,Solteiro(a),3930.00,C,15,188.49,Tablet,34,Não,4,3,4,4,4,5,Infantil
+1100,38,Masculino,Paulicéia,Superior completo,Solteiro(a),3690.00,C,18,146.76,Smart TV,32,Não,3,2,2,3,3,4,Drama
+1101,19,Masculino,Jardim do Mar,Pós-graduação,União estável,1440.00,D,23,218.28,Celular,38,Sim,5,4,3,5,4,6,Infantil
+1102,36,Masculino,Rudge Ramos,Médio,Solteiro(a),3170.00,C,17,190.14,Notebook,42,Não,5,3,4,4,4,5,Comédia
+1103,29,Feminino,Jardim do Mar,Pós-graduação,Casado(a),5370.00,C,26,218.22,Tablet,16,Sim,5,1,5,4,4,7,Infantil
+1104,50,Masculino,Nova Petrópolis,Médio,Casado(a),6760.00,B,27,206.88,Tablet,9,Não,4,3,5,4,5,9,Drama
+1105,59,Feminino,Rudge Ramos,Fundamental,Solteiro(a),2070.00,D,21,163.59,Smart TV,13,Sim,4,2,4,2,4,7,Drama
+1106,21,Masculino,Jardim do Mar,Superior incompleto,Solteiro(a),2760.00,D,17,162.10,Celular,71,Não,3,1,4,4,2,4,Drama
+1107,27,Feminino,Demarchi,Pós-graduação,Divorciado(a),1300.00,D,16,194.66,Smart TV,4,Não,5,2,4,5,4,4,Documentário
+1108,52,Masculino,Demarchi,Superior completo,Casado(a),5070.00,C,25,132.94,Smart TV,41,Não,2,4,3,1,3,5,Comédia
+1109,42,Masculino,Nova Petrópolis,Médio,Casado(a),3790.00,C,26,200.07,Celular,54,Não,5,4,5,5,4,5,Ação
+1110,64,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),4660.00,C,16,173.79,Tablet,45,Sim,4,4,3,2,5,6,Ação
+1111,59,Masculino,Centro,Pós-graduação,Solteiro(a),6490.00,B,21,113.59,Celular,59,Não,2,5,4,2,3,3,Infantil
+1112,56,Masculino,Taboão,Pós-graduação,Casado(a),2640.00,D,21,165.93,Smart TV,10,Não,4,2,4,3,4,7,Ação
+1113,69,Masculino,Centro,Superior incompleto,Solteiro(a),2820.00,D,26,202.23,Smart TV,29,Sim,4,2,5,3,4,6,Ação
+1114,40,Masculino,Demarchi,Superior completo,Solteiro(a),2890.00,D,14,177.34,Notebook,50,Sim,4,3,4,4,3,6,Ação
+1115,52,Feminino,Bairro Assunção,Superior incompleto,Solteiro(a),4770.00,C,20,182.70,Notebook,5,Não,4,4,4,4,4,5,Comédia
+1116,24,Feminino,Taboão,Superior incompleto,Casado(a),4310.00,C,20,191.84,Celular,31,Sim,4,2,3,4,3,2,Ação
+1117,23,Masculino,Paulicéia,Superior incompleto,Solteiro(a),2990.00,D,20,177.17,Celular,58,Sim,4,3,4,4,3,5,Drama
+1118,30,Masculino,Centro,Fundamental,Solteiro(a),2360.00,D,21,121.96,Tablet,31,Não,3,3,4,2,4,5,Ação
+1119,33,Masculino,Rudge Ramos,Fundamental,Divorciado(a),2720.00,D,23,164.49,Smart TV,57,Sim,5,3,3,2,3,6,Comédia
+1120,32,Masculino,Rudge Ramos,Superior incompleto,Casado(a),2310.00,D,19,165.51,Tablet,35,Não,4,4,4,3,3,4,Drama
+1121,53,Masculino,Paulicéia,Superior incompleto,Divorciado(a),5390.00,C,21,206.81,Tablet,8,Sim,5,3,4,3,5,9,Drama
+1122,38,Feminino,Centro,Superior incompleto,Divorciado(a),2250.00,D,19,186.25,Tablet,39,Sim,5,1,5,3,5,8,Drama
+1123,55,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),4540.00,C,20,213.67,Notebook,30,Sim,5,2,5,3,4,8,Ação
+1124,25,Masculino,Baeta Neves,Superior completo,Casado(a),2250.00,D,14,211.01,Notebook,58,Não,5,4,3,4,4,5,Ação
+1125,36,Feminino,Rudge Ramos,Fundamental,Viúvo(a),3290.00,C,22,205.98,Tablet,61,Sim,5,5,5,3,4,10,Documentário
+1126,48,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),3480.00,C,30,189.39,Smart TV,25,Sim,4,3,5,5,4,6,Ação
+1127,70,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),10080.00,B,32,165.13,Tablet,66,Não,2,5,3,2,2,0,Comédia
+1128,37,Feminino,Baeta Neves,Fundamental,Solteiro(a),2040.00,D,25,188.14,Smart TV,64,Não,4,3,5,4,4,8,Comédia
+1129,48,Masculino,Centro,Pós-graduação,União estável,5550.00,C,24,215.04,Smart TV,35,Sim,5,3,5,2,4,6,Ação
+1130,44,Feminino,Nova Petrópolis,Médio,Solteiro(a),1880.00,D,21,195.39,Smart TV,8,Não,5,1,5,3,4,7,Ação
+1131,18,Outro,Demarchi,Médio,União estável,1960.00,D,20,158.65,Smart TV,52,Sim,4,3,3,3,3,4,Ação
+1132,33,Masculino,Baeta Neves,Superior incompleto,Casado(a),2650.00,D,15,194.34,Notebook,39,Sim,4,4,4,5,3,4,Comédia
+1133,33,Feminino,Jardim do Mar,Pós-graduação,Casado(a),4020.00,C,19,193.26,Smart TV,48,Sim,4,5,4,3,4,6,Documentário
+1134,42,Masculino,Nova Petrópolis,Médio,Casado(a),1770.00,D,27,177.46,Notebook,49,Não,4,4,4,3,4,7,Ação
+1135,27,Masculino,Nova Petrópolis,Superior incompleto,Solteiro(a),2040.00,D,19,200.56,Smart TV,56,Não,4,3,5,3,3,5,Infantil
+1136,55,Feminino,Rudge Ramos,Fundamental,Solteiro(a),2410.00,D,26,196.45,Smart TV,70,Sim,5,5,4,2,4,6,Ação
+1137,43,Feminino,Ferrazópolis,Fundamental,Casado(a),2640.00,D,33,189.61,Celular,24,Sim,4,2,4,3,4,6,Ação
+1138,22,Masculino,Demarchi,Superior incompleto,Casado(a),2540.00,D,15,181.43,Tablet,29,Não,4,4,4,4,4,8,Documentário
+1139,36,Masculino,Centro,Médio,Casado(a),2230.00,D,26,151.82,Smart TV,13,Não,3,3,5,4,4,9,Infantil
+1140,45,Feminino,Taboão,Fundamental,Casado(a),1300.00,D,21,147.69,Celular,49,Não,4,3,3,3,4,4,Ação
+1141,29,Masculino,Jardim do Mar,Fundamental,Casado(a),2620.00,D,15,133.49,Smart TV,51,Não,3,1,4,3,3,5,Documentário
+1142,50,Masculino,Jardim do Mar,Médio,Casado(a),3740.00,C,23,199.83,Smart TV,57,Não,5,4,3,4,4,5,Drama
+1143,58,Masculino,Paulicéia,Médio,Divorciado(a),4070.00,C,23,172.41,Notebook,12,Não,4,5,3,4,2,2,Documentário
+1144,53,Masculino,Rudge Ramos,Pós-graduação,Solteiro(a),3970.00,C,17,164.88,Tablet,60,Sim,4,1,4,2,3,1,Infantil
+1145,53,Feminino,Taboão,Superior incompleto,União estável,2230.00,D,18,141.92,Notebook,44,Não,3,4,3,3,2,3,Documentário
+1146,66,Masculino,Baeta Neves,Superior incompleto,Casado(a),2660.00,D,13,163.76,Notebook,67,Sim,3,1,3,4,3,4,Ação
+1147,45,Feminino,Taboão,Fundamental,Casado(a),2390.00,D,20,168.38,Celular,1,Não,4,1,4,5,3,7,Comédia
+1148,59,Feminino,Bairro Assunção,Fundamental,Solteiro(a),2330.00,D,16,176.18,Smart TV,25,Sim,4,3,4,3,3,6,Comédia
+1149,36,Feminino,Ferrazópolis,Médio,Casado(a),1660.00,D,18,173.18,Notebook,69,Não,4,5,3,4,3,5,Documentário
+1150,57,Masculino,Demarchi,Pós-graduação,Solteiro(a),1770.00,D,18,191.64,Tablet,61,Sim,5,3,4,3,4,7,Documentário
+1151,48,Masculino,Baeta Neves,Superior completo,Casado(a),2510.00,D,21,112.41,Notebook,47,Sim,2,3,3,2,3,5,Drama
+1152,64,Feminino,Nova Petrópolis,Fundamental,Solteiro(a),2120.00,D,16,213.32,Smart TV,69,Sim,5,2,5,3,4,8,Ação
+1153,22,Feminino,Centro,Fundamental,Solteiro(a),2330.00,D,20,197.05,Tablet,46,Sim,5,3,5,5,4,9,Ação
+1154,66,Masculino,Taboão,Médio,Solteiro(a),2270.00,D,19,128.42,Smart TV,34,Sim,3,3,1,2,2,0,Drama
+1155,30,Outro,Paulicéia,Médio,União estável,2110.00,D,23,154.07,Notebook,20,Sim,4,5,3,1,4,5,Infantil
+1156,62,Masculino,Jardim do Mar,Pós-graduação,Divorciado(a),4050.00,C,17,205.05,Tablet,50,Não,5,3,5,3,5,8,Documentário
+1157,38,Feminino,Demarchi,Fundamental,Casado(a),4380.00,C,27,170.98,Tablet,39,Não,4,3,5,1,4,7,Ação
+1158,50,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),3020.00,C,22,164.52,Notebook,24,Não,4,5,4,2,5,8,Infantil
+1159,35,Masculino,Ferrazópolis,Médio,Casado(a),1300.00,D,22,129.62,Tablet,12,Não,3,3,3,1,3,6,Comédia
+1160,62,Feminino,Nova Petrópolis,Médio,União estável,1970.00,D,23,135.04,Celular,19,Sim,3,3,4,1,4,7,Infantil
+1161,56,Feminino,Jardim do Mar,Médio,Casado(a),5920.00,C,13,168.56,Smart TV,37,Não,3,4,2,4,3,5,Infantil
+1162,35,Feminino,Demarchi,Superior completo,Divorciado(a),5850.00,C,20,234.64,Smart TV,21,Não,5,3,4,3,4,6,Ação
+1163,25,Masculino,Ferrazópolis,Superior completo,Casado(a),4500.00,C,14,173.80,Tablet,43,Sim,3,1,4,5,3,5,Ação
+1164,68,Masculino,Ferrazópolis,Superior incompleto,Casado(a),4250.00,C,27,155.19,Smart TV,4,Não,3,5,4,3,4,7,Infantil
+1165,69,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),5460.00,C,17,214.68,Tablet,26,Não,4,4,4,5,4,7,Ação
+1166,27,Masculino,Paulicéia,Pós-graduação,Solteiro(a),3010.00,C,24,125.21,Celular,42,Sim,3,2,4,3,3,6,Ação
+1167,34,Feminino,Baeta Neves,Superior completo,Divorciado(a),4510.00,C,17,189.56,Tablet,53,Sim,5,4,5,3,5,10,Drama
+1168,30,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),4010.00,C,24,169.61,Tablet,63,Não,4,5,4,2,5,8,Drama
+1169,30,Masculino,Baeta Neves,Superior incompleto,Solteiro(a),3900.00,C,14,159.76,Smart TV,10,Sim,4,5,5,3,4,6,Drama
+1170,26,Feminino,Centro,Superior completo,Divorciado(a),2260.00,D,24,193.70,Notebook,21,Sim,4,5,5,5,4,6,Drama
+1171,56,Feminino,Paulicéia,Superior incompleto,Divorciado(a),2560.00,D,17,193.09,Smart TV,47,Sim,5,2,4,2,4,7,Comédia
+1172,59,Masculino,Ferrazópolis,Fundamental,Solteiro(a),1760.00,D,16,198.13,Celular,3,Sim,5,3,3,2,4,7,Ação
+1173,50,Feminino,Taboão,Superior completo,Casado(a),5100.00,C,24,179.17,Tablet,40,Não,4,4,4,3,4,8,Comédia
+1174,41,Masculino,Baeta Neves,Médio,Solteiro(a),2830.00,D,21,153.79,Tablet,21,Não,3,3,3,3,3,5,Comédia
+1175,69,Masculino,Jardim do Mar,Superior completo,Solteiro(a),4190.00,C,20,194.00,Smart TV,38,Não,4,3,2,3,3,2,Drama
+1176,57,Feminino,Ferrazópolis,Fundamental,Solteiro(a),3030.00,C,12,177.13,Tablet,56,Não,4,1,5,4,4,9,Documentário
+1177,21,Feminino,Nova Petrópolis,Fundamental,Casado(a),1300.00,D,17,123.63,Smart TV,13,Sim,2,5,2,3,3,5,Ação
+1178,45,Masculino,Nova Petrópolis,Superior incompleto,Solteiro(a),4210.00,C,15,127.06,Celular,33,Sim,2,2,2,3,1,0,Comédia
+1179,27,Masculino,Jardim do Mar,Superior completo,Divorciado(a),2330.00,D,19,166.26,Notebook,54,Sim,3,4,3,4,3,5,Infantil
+1180,39,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),2260.00,D,16,100.43,Smart TV,56,Sim,2,3,2,2,2,2,Documentário
+1181,38,Feminino,Centro,Fundamental,Solteiro(a),1490.00,D,23,145.32,Smart TV,22,Não,4,3,4,3,4,6,Drama
+1182,65,Masculino,Rudge Ramos,Médio,Solteiro(a),2820.00,D,22,142.87,Smart TV,16,Não,3,3,4,3,3,4,Infantil
+1183,61,Masculino,Ferrazópolis,Superior incompleto,Casado(a),2930.00,D,21,163.03,Smart TV,31,Sim,4,3,5,2,4,8,Drama
+1184,40,Masculino,Paulicéia,Médio,União estável,1320.00,D,20,205.67,Notebook,47,Não,5,4,5,5,4,5,Ação
+1185,58,Outro,Demarchi,Pós-graduação,Solteiro(a),1690.00,D,20,176.55,Notebook,51,Não,4,4,3,4,3,4,Infantil
+1186,50,Masculino,Baeta Neves,Superior incompleto,Casado(a),2640.00,D,16,182.83,Celular,53,Sim,5,3,4,3,4,8,Ação
+1187,47,Masculino,Rudge Ramos,Pós-graduação,Solteiro(a),5230.00,C,19,203.90,Tablet,22,Não,5,2,5,4,4,8,Documentário
+1188,63,Masculino,Centro,Fundamental,Solteiro(a),3300.00,C,23,194.32,Tablet,59,Não,4,2,4,3,4,7,Comédia
+1189,51,Outro,Paulicéia,Superior incompleto,Solteiro(a),4550.00,C,21,107.65,Celular,57,Não,1,5,3,3,2,3,Documentário
+1190,29,Masculino,Bairro Assunção,Pós-graduação,Solteiro(a),3090.00,C,25,128.33,Celular,50,Não,2,3,3,4,3,2,Ação
+1191,38,Masculino,Jardim do Mar,Médio,União estável,2080.00,D,17,207.31,Celular,54,Não,5,2,4,5,4,7,Comédia
+1192,39,Feminino,Taboão,Pós-graduação,Casado(a),3340.00,C,17,152.90,Notebook,66,Não,4,3,5,2,4,8,Ação
+1193,62,Masculino,Paulicéia,Superior completo,União estável,4910.00,C,23,192.38,Tablet,60,Não,5,3,4,2,4,7,Drama
+1194,25,Masculino,Baeta Neves,Superior incompleto,Divorciado(a),5400.00,C,20,226.90,Smart TV,10,Sim,5,2,5,4,5,8,Drama
+1195,43,Masculino,Nova Petrópolis,Fundamental,Casado(a),1800.00,D,23,161.13,Celular,55,Não,4,3,5,4,4,7,Comédia
+1196,46,Masculino,Taboão,Pós-graduação,Solteiro(a),3200.00,C,17,170.25,Celular,40,Sim,4,5,5,5,5,9,Documentário
+1197,68,Masculino,Centro,Superior incompleto,Solteiro(a),3150.00,C,13,157.13,Celular,31,Não,4,3,4,2,4,5,Ação
+1198,59,Masculino,Jardim do Mar,Superior completo,Solteiro(a),2990.00,D,26,153.55,Notebook,33,Não,3,1,5,3,2,6,Documentário
+1199,31,Feminino,Taboão,Superior completo,Solteiro(a),2320.00,D,16,205.92,Smart TV,12,Sim,5,4,4,3,4,6,Ação
+1200,20,Masculino,Centro,Superior incompleto,Solteiro(a),2420.00,D,20,179.61,Tablet,72,Não,4,4,4,4,4,7,Ação
