@@ -42,7 +42,13 @@ class TestesDistribuicaoNormal(unittest.TestCase):
 class TestesAnaliseDeRisco(unittest.TestCase):
     def test_calcula_estatisticas_e_risco_observado(self):
         tabela_z = {'0.0': {0.0: 0.5}}
-        resultado = calcular_risco([1, 2, 3, 4, 5], limiar=3, tabela_z=tabela_z)
+        status = ['Cancelado', 'Ativo', 'Cancelado', 'Ativo', 'Ativo']
+        resultado = calcular_risco(
+            [1, 2, 3, 4, 5],
+            status,
+            limiar=3,
+            tabela_z=tabela_z,
+        )
 
         self.assertEqual(resultado.media, 3)
         self.assertAlmostEqual(resultado.desvio_padrao, math.sqrt(2.5))
@@ -50,14 +56,49 @@ class TestesAnaliseDeRisco(unittest.TestCase):
         self.assertEqual(resultado.probabilidade_teorica, 0.5)
         self.assertEqual(resultado.usuarios_em_risco, 3)
         self.assertEqual(resultado.percentual_risco_observado, 60)
+        self.assertEqual(resultado.cancelamentos_na_zona_de_risco, 2)
+        self.assertAlmostEqual(
+            resultado.probabilidade_cancelamento_na_zona_de_risco,
+            2 / 3,
+        )
         self.assertEqual(resultado.total_usuarios, 5)
+
+    def test_probabilidade_de_cancelamento_usa_apenas_a_zona_de_risco(self):
+        tabela_z = {'0.0': {0.0: 0.5}}
+        resultado = calcular_risco(
+            [1, 2, 3, 4],
+            ['Cancelado', 'Ativo', 'Ativo', 'Cancelado'],
+            limiar=2.5,
+            tabela_z=tabela_z,
+        )
+
+        self.assertEqual(resultado.usuarios_em_risco, 2)
+        self.assertEqual(resultado.cancelamentos_na_zona_de_risco, 1)
+        self.assertEqual(
+            resultado.probabilidade_cancelamento_na_zona_de_risco,
+            0.5,
+        )
 
     def test_rejeita_dados_vazios_ou_constantes(self):
         tabela_z = {'0.0': {0.0: 0.5}}
         with self.assertRaises(ValueError):
-            calcular_risco([], limiar=3, tabela_z=tabela_z)
+            calcular_risco([], [], limiar=3, tabela_z=tabela_z)
         with self.assertRaises(ValueError):
-            calcular_risco([4, 4, 4], limiar=4, tabela_z=tabela_z)
+            calcular_risco(
+                [4, 4, 4],
+                ['Ativo', 'Ativo', 'Ativo'],
+                limiar=4,
+                tabela_z=tabela_z,
+            )
+
+    def test_rejeita_quantidades_diferentes_de_frequencias_e_status(self):
+        with self.assertRaises(ValueError):
+            calcular_risco(
+                [1, 2, 3],
+                ['Ativo'],
+                limiar=2,
+                tabela_z={'0.0': {0.0: 0.5}},
+            )
 
 
 if __name__ == '__main__':

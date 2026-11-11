@@ -13,6 +13,8 @@ class AnaliseRisco:
     probabilidade_teorica: float
     usuarios_em_risco: int
     percentual_risco_observado: float
+    cancelamentos_na_zona_de_risco: int
+    probabilidade_cancelamento_na_zona_de_risco: float
     total_usuarios: int
 
 
@@ -73,15 +75,24 @@ def densidade_normal(valor: float, media: float, desvio_padrao: float) -> float:
 
 def calcular_risco(
     frequencias: Iterable[float],
+    status_assinaturas: Iterable[str],
     limiar: float,
     tabela_z: Mapping[str, Mapping[float, float]],
 ) -> AnaliseRisco:
     """Calcula estatísticas amostrais e riscos teórico e observado."""
     valores = [float(valor) for valor in frequencias]
+    status = list(status_assinaturas)
     if not valores:
         raise ValueError('A lista de frequências está vazia.')
     if len(valores) < 2:
         raise ValueError('São necessários pelo menos dois registros.')
+    if len(status) != len(valores):
+        raise ValueError(
+            'A quantidade de status de assinatura deve corresponder '
+            'à quantidade de frequências.'
+        )
+    if any(valor not in {'Ativo', 'Cancelado'} for valor in status):
+        raise ValueError('Os status devem ser "Ativo" ou "Cancelado".')
     if not isfinite(limiar) or any(not isfinite(valor) for valor in valores):
         raise ValueError('As frequências e o limiar precisam ser valores finitos.')
 
@@ -99,6 +110,12 @@ def calcular_risco(
 
     escore_z = (limiar - media) / desvio_padrao
     usuarios_em_risco = sum(valor <= limiar for valor in valores)
+    cancelamentos_na_zona_de_risco = sum(
+        valor <= limiar and situacao == 'Cancelado'
+        for valor, situacao in zip(valores, status)
+    )
+    if usuarios_em_risco == 0:
+        raise ValueError('Não há usuários na zona de risco para calcular a taxa.')
 
     return AnaliseRisco(
         media=media,
@@ -107,5 +124,9 @@ def calcular_risco(
         probabilidade_teorica=probabilidade_acumulada_normal(escore_z, tabela_z),
         usuarios_em_risco=usuarios_em_risco,
         percentual_risco_observado=usuarios_em_risco / total_usuarios * 100,
+        cancelamentos_na_zona_de_risco=cancelamentos_na_zona_de_risco,
+        probabilidade_cancelamento_na_zona_de_risco=(
+            cancelamentos_na_zona_de_risco / usuarios_em_risco
+        ),
         total_usuarios=total_usuarios,
     )

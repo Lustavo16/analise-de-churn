@@ -170,6 +170,7 @@ def carregar_tabela_z():
 
 dados = carregar_dados()
 frequencias = dados['frequencia_uso_mes']
+status_assinaturas = dados['status_assinatura']
 tabela_z = carregar_tabela_z()
 
 st.sidebar.markdown(
@@ -200,7 +201,12 @@ st.sidebar.caption(
 )
 
 try:
-    analise = calcular_risco(frequencias, limiar_alerta, tabela_z)
+    analise = calcular_risco(
+        frequencias,
+        status_assinaturas,
+        limiar_alerta,
+        tabela_z,
+    )
 except ValueError as erro:
     st.error(f'Não foi possível calcular os indicadores: {erro}')
     st.stop()
@@ -220,12 +226,17 @@ st.markdown(
 )
 
 st.markdown('<div class="section-heading">Resumo da análise</div>', unsafe_allow_html=True)
-colunas_metricas = st.columns(4)
+colunas_metricas = st.columns(5)
 metricas = (
     ('Média de acessos', f'{analise.media:.2f}', False),
     ('Desvio padrão', f'{analise.desvio_padrao:.2f}', False),
     ('Risco teórico', f'{analise.probabilidade_teorica * 100:.1f}%', True),
     ('Risco observado', f'{analise.percentual_risco_observado:.1f}%', True),
+    (
+        'Cancelamento na zona de risco',
+        f'{analise.probabilidade_cancelamento_na_zona_de_risco * 100:.1f}%',
+        True,
+    ),
 )
 for coluna, (rotulo, valor, destacar) in zip(colunas_metricas, metricas):
     classe_destaque = ' metric-card--accent' if destacar else ''
@@ -319,6 +330,9 @@ st.info(
     f'**Como interpretar:** no limite de **{limiar_alerta} acessos**, '
     f'o escore Z é **{analise.escore_z:.2f}**. O modelo normal estima '
     f'**{analise.probabilidade_teorica * 100:.2f}%** dos usuários nessa faixa; '
-    f'na base observada, são '
-    f'**{analise.percentual_risco_observado:.2f}%**.'
+    f'**{analise.usuarios_em_risco}** usuários '
+    f'(**{analise.percentual_risco_observado:.2f}%** da base) estão na zona '
+    f'de risco. Desses, **{analise.cancelamentos_na_zona_de_risco}** têm status '
+    f'Cancelado (**{analise.probabilidade_cancelamento_na_zona_de_risco * 100:.2f}%**). '
+    f'Os status são simulados para demonstração.'
 )

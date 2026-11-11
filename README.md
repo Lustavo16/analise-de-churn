@@ -59,7 +59,9 @@ aproximar as taxas solicitadas. Como a base não tem registros com 0–2 acessos
 tem apenas três registros com 3–8 acessos, não foi possível atingir as metas
 nessas duas faixas: a faixa 3–8 ficou com 1 cancelamento (33,3%). As faixas
 9–13 e 14+ ficaram com 8,3% e 1,5% de cancelamentos, respectivamente. Esses
-rótulos são demonstrativos, não históricos de cancelamentos observados.
+rótulos são demonstrativos, não históricos de cancelamentos observados. A
+probabilidade de cancelamento na zona de risco é calculada como cancelamentos
+com status `Cancelado` nessa zona divididos pelo total de usuários nela.
 
 ## Estrutura
 
